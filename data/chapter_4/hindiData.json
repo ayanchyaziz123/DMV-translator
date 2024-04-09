@@ -1,0 +1,59 @@
+[
+    {
+      "question": {
+        "english": "You may not cross a single broken white (or yellow) line:",
+        "nativeLanguage": "आप एक एकल टूटी हुई सफेद (या पीली) रेखा पार नहीं कर सकते:"
+      },
+      "options": [
+        {
+          "english": "When to do so would interfere with traffic",
+          "nativeLanguage": "जब ऐसा करना यातायात में आधारित हो"
+        },
+        {
+          "english": "When turning left into a driveway",
+          "nativeLanguage": "जब ड्राइववे में बायां मोड़ कर रहें हो"
+        },
+        {
+          "english": "When the car in front is disabled",
+          "nativeLanguage": "जब सामने वाली कार अक्षम हो"
+        },
+        {
+          "english": "When passing to the right on a one-way street",
+          "nativeLanguage": "एक-मार्गी रास्ते पर दाईं ओर से अतिक्रमण करते समय"
+        }
+      ],
+      "answer": {
+        "english": "When to do so would interfere with traffic",
+        "nativeLanguage": "जब ऐसा करना यातायात में आधारित हो"
+      }
+    },
+    {
+      "question": {
+        "english": "What are the colors of the warning signs that indicate hazards ahead, such as curves in the road or narrow bridges?",
+        "nativeLanguage": "सड़क में मोड़ों या संकीर्ण पुलों जैसे हाज़रात के लिए सूचना देने वाले चेतावनी संकेतों के रंग क्या होते हैं?"
+      },
+      "options": [
+        {
+          "english": "Black letters or symbols on a white background",
+          "nativeLanguage": "सादा पृष्ठभूमि पर काले अक्षर या प्रतीक"
+        },
+        {
+          "english": "Black letters or symbols on a yellow background",
+          "nativeLanguage": "पीले पृष्ठभूमि पर काले अक्षर या प्रतीक"
+        },
+        {
+          "english": "White letters or symbols on a blue background",
+          "nativeLanguage": "नीले पृष्ठभूमि पर सफेद अक्षर या प्रतीक"
+        },
+        {
+          "english": "White letters or symbols on a green background",
+          "nativeLanguage": "हरे पृष्ठभूमि पर सफेद अक्षर या प्रतीक"
+        }
+      ],
+      "answer": {
+        "english": "Black letters or symbols on a yellow background",
+        "nativeLanguage": "पीले पृष्ठभूमि पर काले अक्षर या प्रतीक"
+      }
+    }
+  ]
+  

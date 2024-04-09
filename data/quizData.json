@@ -1,0 +1,537 @@
+[
+  {
+    "question": {
+      "nativeLanguage": "You may not cross a single broken white (or yellow) line:",
+      "otherLanguage": "আপনি একটি একক ভাঙ্গা সাদা (বা হলুদ) লাইন অতিক্রম করতে পারবেন না:"
+    },
+    "options": [
+      {
+        "nativeLanguage": "When to do so would interfere with traffic",
+        "otherLanguage": "যখন এটি করা ট্রাফিকের সাথে বাধা দেয়"
+      },
+      {
+        "nativeLanguage": "When turning left into a driveway",
+        "otherLanguage": "যখন কোনো ড্রাইভওয়েতে বাম দিকে মোড় নেওয়া হয়"
+      },
+      {
+        "nativeLanguage": "When the car in front is disabled",
+        "otherLanguage": "যখন সামনের গাড়ি অকার্যকর হয়"
+      },
+      {
+        "nativeLanguage": "When passing to the right on a one-way street",
+        "otherLanguage": "যখন এক-দিক রাস্তায় ডান দিকে অতিক্রম করা হয়"
+      }
+    ],
+    "answer": {
+      "nativeLanguage": "When to do so would interfere with traffic",
+      "otherLanguage": "যখন এটি করা ট্রাফিকের সাথে বাধা দেয়"
+    }
+  },
+  {
+    "question": {
+      "nativeLanguage": "What are the colors of the warning signs that indicate hazards ahead, such as curves in the road or narrow bridges?",
+      "otherLanguage": "সড়কের ঘটানো সম্পর্কে বক্র বা সংকীর্ণ সেতুর মতো পূর্ববর্তী সংকেত প্রদান করা যায় যে প্রাকর্তিক ঝুঁকির চিহ্নগুলির রঙ কী?"
+    },
+    "options": [
+      {
+        "nativeLanguage": "Black letters or symbols on a white background",
+        "otherLanguage": "সাদা পেচা উপর কালো অক্ষর বা প্রতীক"
+      },
+      {
+        "nativeLanguage": "Black letters or symbols on a yellow background",
+        "otherLanguage": "হলুদ পেচা উপর কালো অক্ষর বা প্রতীক"
+      },
+      {
+        "nativeLanguage": "White letters or symbols on a blue background",
+        "otherLanguage": "নীল পেচা উপর সাদা অক্ষর বা প্রতীক"
+      },
+      {
+        "nativeLanguage": "White letters or symbols on a green background",
+        "otherLanguage": "সবুজ পেচা উপর সাদা অক্ষর বা প্রতীক"
+      }
+    ],
+    "answer": {
+      "nativeLanguage": "Black letters or symbols on a yellow background",
+      "otherLanguage": "হলুদ পেচা উপর কালো অক্ষর বা প্রতীক"
+    }
+  },
+  {
+    "question": {
+        "nativeLanguage": "What are the colors of a sign which tells you the distance to the next exit of a highway?",
+        "otherLanguage": "একটি হাইওয়ের পরবর্তী প্রস্থানের দূরত্ব আপনাকে জানার চিহ্নের রঙ কী?"
+    },
+    "options": [
+        {
+            "nativeLanguage": "Yellow with black letters",
+            "otherLanguage": "কালো অক্ষর সহ হলুদ"
+        },
+        {
+            "nativeLanguage": "Black with white letters",
+            "otherLanguage": "সাদা অক্ষর সহ কালো"
+        },
+        {
+            "nativeLanguage": "Red with white letters",
+            "otherLanguage": "সাদা অক্ষর সহ লাল"
+        },
+        {
+            "nativeLanguage": "Green with white letters",
+            "otherLanguage": "সাদা অক্ষর সহ সবুজ"
+        }
+    ],
+    "answer": {
+        "nativeLanguage": "Yellow with black letters",
+        "otherLanguage": "কালো অক্ষর সহ হলুদ"
+    }
+},
+{
+    "question": {
+        "nativeLanguage": "A red and white triangular sign at an intersection means:",
+        "otherLanguage": "একটি সংযোগের একটি লাল এবং সাদা ত্রিকোণাকার চিহ্নের অর্থ কী?"
+    },
+    "options": [
+        {
+            "nativeLanguage": "Always come to a full stop at the intersection",
+            "otherLanguage": "সবসময় সংযোগে পূর্ণ থামা আসুন"
+        },
+        {
+            "nativeLanguage": "Slow down and be prepared to stop if necessary",
+            "otherLanguage": "প্রয়োজন হলে ধীরে যাওয়া এবং থামতে প্রস্তুত থাকুন"
+        },
+        {
+            "nativeLanguage": "Slow down if an emergency vehicle is approaching",
+            "otherLanguage": "প্রায়শই একটি জরুরি গাড়ি আসছে যদি ধীরে যাওয়া হয়"
+        },
+        {
+            "nativeLanguage": "Look both ways as you cross the intersection",
+            "otherLanguage": "সংযোগ দ্বারা দাঁড়ালে উভয় দিকে দেখুন"
+        }
+    ],
+    "answer": {
+        "nativeLanguage": "Slow down and be prepared to stop if necessary",
+        "otherLanguage": "প্রয়োজন হলে ধীরে যাওয়া এবং থামতে প্রস্তুত থাকুন"
+    }
+},
+{
+  "question": {
+      "nativeLanguage": "A diamond-shaped sign is a:",
+      "otherLanguage": "একটি হীরামুক্ত আকারের চিহ্ন কী?"
+  },
+  "options": [
+      {
+          "nativeLanguage": "Road hazard sign",
+          "otherLanguage": "সড়ক ঝুঁকি চিহ্ন"
+      },
+      {
+          "nativeLanguage": "Interstate route site",
+          "otherLanguage": "ইন্টারস্টেট রুট সাইট"
+      },
+      {
+          "nativeLanguage": "School crossing sign",
+          "otherLanguage": "স্কুল দাঁড়াবার চিহ্ন"
+      },
+      {
+          "nativeLanguage": "Speed limit sign",
+          "otherLanguage": "গতি সীমা চিহ্ন"
+      }
+  ],
+  "answer": {
+      "nativeLanguage": "Road hazard sign",
+      "otherLanguage": "সড়ক ঝুঁকি চিহ্ন"
+  }
+},
+{
+  "question": {
+      "nativeLanguage": "A solid white line on the right edge of the highway slants in toward your left.  This shows that:",
+      "otherLanguage": "মহাসড়কের ডান পাশে একটি দক্ষিণাবর্ত সাদা লাইন আপনার বামে প্রবেশ করে। এটা দেখায় যে:"
+  },
+  "options": [
+      {
+          "nativeLanguage": "There is an intersection just ahead",
+          "otherLanguage": "প্রায় একটি মুখোমুখি যাত্রীর অগ্রগতি হবে"
+      },
+      {
+          "nativeLanguage": "You are approaching a construction area",
+          "otherLanguage": "আপনি একটি নির্মাণ এলাকার দিকে আসছেন"
+      },
+      {
+          "nativeLanguage": "You will be required to turn left just ahead",
+          "otherLanguage": "আপনাকে এগিয়ে বাম দিকে মোড়তে হবে"
+      },
+      {
+          "nativeLanguage": "The road will get narrower",
+          "otherLanguage": "রাস্তা আরো সংকীর্ণ হবে"
+      }
+  ],
+  "answer": {
+      "nativeLanguage": "The road will get narrower",
+      "otherLanguage": "রাস্তা আরো সংকীর্ণ হবে"
+  }
+},
+{
+  "question": {
+      "nativeLanguage": "When the road is marked with a solid yellow line and a broken yellow line on your side you may pass:",
+      "otherLanguage": "যখন আপনার পাশে একটি সোলিড হলুদ লাইন এবং একটি ভেঙ্গে হলুদ লাইন চিহ্নিত হয় তখন আপনি অতিক্রম করতে পারেন:"
+  },
+  "options": [
+      {
+          "nativeLanguage": "Only in an emergency",
+          "otherLanguage": "শুধুমাত্র জরুরি অবস্থায়"
+      },
+      {
+          "nativeLanguage": "If you are on an expressway",
+          "otherLanguage": "আপনি একটি এক্সপ্রেসওয়েতে আছেন যদি"
+      },
+      {
+          "nativeLanguage": "If traffic is clear",
+          "otherLanguage": "যদি ট্রাফিক পরিষ্কার হয়"
+      },
+      {
+          "nativeLanguage": "Only at an intersection",
+          "otherLanguage": "শুধুমাত্র সংযোগে"
+      }
+  ],
+  "answer": {
+      "nativeLanguage": "If traffic is clear",
+      "otherLanguage": "যদি ট্রাফিক পরিষ্কার হয়"
+  }
+},
+{
+  "question": {
+      "nativeLanguage": "What does a flashing yellow light mean?",
+      "otherLanguage": "ফ্ল্যাশিং হলুদ আলো মানে কী?"
+  },
+  "options": [
+      {
+          "nativeLanguage": "Merging traffic",
+          "otherLanguage": "যোগাযোগ ট্রাফিক"
+      },
+      {
+          "nativeLanguage": "Proceed with caution",
+          "otherLanguage": "সাবধানে এগিয়ে যান"
+      },
+      {
+          "nativeLanguage": "Pedestrian crossing",
+          "otherLanguage": "পথচারী কটাক্ষে"
+      },
+      {
+          "nativeLanguage": "Come to a full stop",
+          "otherLanguage": "পূর্ণ স্থগিতি করুন"
+      }
+  ],
+  "answer": {
+      "nativeLanguage": "Proceed with caution",
+      "otherLanguage": "সাবধানে এগিয়ে যান"
+  }
+},
+{
+  "question": {
+      "nativeLanguage": "Which of the following must you obey over the other three?",
+      "otherLanguage": "নিম্নলিখিত চার মধ্যে আপনি কোনটি অনুসরণ করতে হবে?"
+  },
+  "options": [
+      {
+          "nativeLanguage": "A steady red light",
+          "otherLanguage": "একটি স্থির লাল আলো"
+      },
+      {
+          "nativeLanguage": "A police officer",
+          "otherLanguage": "একজন পুলিশ কর্মকর্তা"
+      },
+      {
+          "nativeLanguage": "A stop sign",
+          "otherLanguage": "একটি থামুন সাইন"
+      },
+      {
+          "nativeLanguage": "A flashing red light",
+          "otherLanguage": "একটি ফ্ল্যাশিং লাল আলো"
+      }
+  ],
+  "answer": {
+      "nativeLanguage": "A police officer",
+      "otherLanguage": "একজন পুলিশ কর্মকর্তা"
+  }
+},
+{
+  "question": {
+      "nativeLanguage": "You come to an intersection which has a flashing red light.  You should:",
+      "otherLanguage": "আপনি একটি সংযোগে আসেন যেখানে একটি ফ্ল্যাশিং লাল আলো আছে।  আপনার কী করতে হবে:"
+  },
+  "options": [
+      {
+          "nativeLanguage": "Come to a full stop, then go when safe to do so",
+          "otherLanguage": "পূর্ণ স্থগিতি করুন, তারপর নিরাপদ হতে যাওয়া"
+      },
+      {
+          "nativeLanguage": "Stop only if cars are approaching the intersection",
+          "otherLanguage": "কেবলমাত্র গাড়ি সংযোগে আসছে তবে থামুন"
+      },
+      {
+          "nativeLanguage": "Stop only if cars are already in the intersection",
+          "otherLanguage": "কেবলমাত্র গাড়ি ইতিমধ্যে সংযোগে আছে তবে থামুন"
+      },
+      {
+          "nativeLanguage": "Slow down and be prepared to stop if necessary",
+          "otherLanguage": "প্রয়োজন হলে হ্রাস করুন এবং থামার প্রস্তুতি করুন"
+      }
+  ],
+  "answer": {
+      "nativeLanguage": "Come to a full stop, then go when safe to do so",
+      "otherLanguage": "পূর্ণ স্থগিতি করুন, তারপর নিরাপদ হতে যাওয়া"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "You may cross a double solid yellow line:",
+    "otherLanguage": "আপনি একটি ডাবল দণ্ডিত হলুদ লাইন অতিক্রম করতে পারেন:"
+  },
+  "options": [
+    {
+      "nativeLanguage": "To pass a slow-moving truck",
+      "otherLanguage": "একটি ধীর চলা ট্রাক অতিক্রম করতে"
+    },
+    {
+      "nativeLanguage": "To turn into a driveway",
+      "otherLanguage": "একটি ড্রাইভওয়েতে মোড় নেওয়ার জন্য"
+    },
+    {
+      "nativeLanguage": "To pass a car if traffic permits",
+      "otherLanguage": "যদি ট্রাফিক অনুমোদন দেয় তাহলে গাড়ি অতিক্রম করতে"
+    },
+    {
+      "nativeLanguage": "Under no conditions",
+      "otherLanguage": "কোনও অবস্থায়"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "Under no conditions",
+    "otherLanguage": "কোনও অবস্থায়"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "What does this road sign mean?",
+    "otherLanguage": "এই সড়ক সাইন কী অর্থ?"
+  },
+  "options": [
+    {
+      "nativeLanguage": "Slow down and prepare to stop only if cars are approaching you",
+      "otherLanguage": "শুধুমাত্র গাড়ির দিকে আসছে যদি ধীরে হাঁটুন এবং থামার প্রস্তুতি করুন"
+    },
+    {
+      "nativeLanguage": "Come to a full stop, then go when it is safe to do so",
+      "otherLanguage": "পূর্ণ স্থগিতি করুন, তারপর যখন নিরাপদ হয় তখন যাওয়া"
+    },
+    {
+      "nativeLanguage": "Proceed carefully through the intersection, not always stopping",
+      "otherLanguage": "সংযোগস্থলের মধ্যে সাবধানে এগিয়ে যান, সবসময় থামা না"
+    },
+    {
+      "nativeLanguage": "Stop only for traffic on an intersecting road",
+      "otherLanguage": "একটি ইন্টারসেক্টিং রাস্তার ট্রাফিকের জন্য শুধুমাত্র থামুন"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "Come to a full stop, then go when it is safe to do so",
+    "otherLanguage": "পূর্ণ স্থগিতি করুন, তারপর নিরাপদ হতে যাওয়া"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "Which of the following is used on some highways to direct drivers into the proper lanes for turning?",
+    "otherLanguage": "কোনটি অনুসরণ করে কিছু মহাসড়কে ড্রাইভারদেরকে মোড় নেওয়ার জন্য উপযুক্ত লেন দিতে ব্যবহৃত হয়?"
+  },
+  "options": [
+    {
+      "nativeLanguage": "Flashing red lights",
+      "otherLanguage": "ফ্ল্যাশিং লাল আলো"
+    },
+    {
+      "nativeLanguage": "Flashing yellow lights",
+      "otherLanguage": "ফ্ল্যাশিং হলুদ আলো"
+    },
+    {
+      "nativeLanguage": "White lines on the side of the road",
+      "otherLanguage": "রাস্তার পাশে সাদা লাইন"
+    },
+    {
+      "nativeLanguage": "White arrows in the middle of the lanes",
+      "otherLanguage": "লেন এর মধ্যে সাদা তীর"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "White arrows in the middle of the lanes",
+    "otherLanguage": "লেন এর মধ্যে সাদা তীর"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "An intersection has a stop sign and a crosswalk, but no stop line. You must stop:",
+    "otherLanguage": "একটি সংলগ্নবিবর্তীর একটি স্থিতিচিহ্ন এবং একটি ক্রসওয়াক আছে, কিন্তু কোনও থামা লাইন নেই। আপনাকে কোথায় থামতে হবে:"
+  },
+  "options": [
+    {
+      "nativeLanguage": "Before the crosswalk",
+      "otherLanguage": "ক্রসওয়াকের আগে"
+    },
+    {
+      "nativeLanguage": "50 feet before the intersection",
+      "otherLanguage": "সংলগ্নবিবর্তীর ৫০ ফুট আগে"
+    },
+    {
+      "nativeLanguage": "Where you think the stop line would be",
+      "otherLanguage": "আপনি যেখানে থামা লাইন থাকতে হবে তা ভাবতেন"
+    },
+    {
+      "nativeLanguage": "With your front wheels in the crosswalk",
+      "otherLanguage": "আপনার আগের চাকা ক্রসওয়াকের মধ্যে"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "Before the crosswalk",
+    "otherLanguage": "ক্রসওয়াকের আগে"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "You may cross a single solid white line in the highway:",
+    "otherLanguage": "আপনি মহাসড়কে একটি একক সঠিক সাদা লাইন অতিক্রম করতে পারেন:"
+  },
+  "options": [
+    {
+      "nativeLanguage": "Whenever you want to",
+      "otherLanguage": "যখনই আপনি চান"
+    },
+    {
+      "nativeLanguage": "If traffic conditions require",
+      "otherLanguage": "যদি যাতায়াতের অবস্থা প্রয়োজন করে"
+    },
+    {
+      "nativeLanguage": "Only to turn into a driveway",
+      "otherLanguage": "কেবল একটি ড্রাইভওয়েতে বাঁদিতে"
+    },
+    {
+      "nativeLanguage": "Only to make a u-turn",
+      "otherLanguage": "কেবল একটি উ-টার্ন তৈরি করতে"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "If traffic conditions require",
+    "otherLanguage": "যদি যাতায়াতের অবস্থা প্রয়োজন করে"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "A traffic light which has a green arrow and a red light means that:",
+    "otherLanguage": "একটি ট্রাফিক আলো যেটির মধ্যে একটি সবুজ তীর এবং একটি লাল আলো রয়েছে তা মানে কী:"
+  },
+  "options": [
+    {
+      "nativeLanguage": "You may only drive straight ahead",
+      "otherLanguage": "আপনি কেবল সোজা আগে চালনা করতে পারেন"
+    },
+    {
+      "nativeLanguage": "You may drive only in the direction of the green arrow",
+      "otherLanguage": "আপনি কেবল সবুজ তীরের দিকে গাড়ি চালনা করতে পারেন"
+    },
+    {
+      "nativeLanguage": "You must wait for a green light",
+      "otherLanguage": "আপনাকে একটি সবুজ আলোর জন্য অপেক্ষা করতে হবে"
+    },
+    {
+      "nativeLanguage": "Vehicles moving in any direction must stop",
+      "otherLanguage": "যেকোনো দিকে চলার গাড়ির অবস্থান থামতে হবে"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "You may drive only in the direction of the green arrow",
+    "otherLanguage": "আপনি কেবল সবুজ তীরের দিকে গাড়ি চালনা করতে পারেন"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "As you near an intersection, the traffic light changes from green to yellow. Your best action would be to:",
+    "otherLanguage": "আপনি যখন একটি সংলগ্নবিন্দু কাছাকাছি আসছেন, যাতায়াত আলো সবুজ থেকে হলুদে পরিবর্তন হয়ে যায়। আপনার সেরা ক্রিয়া হবে:"
+  },
+  "options": [
+    {
+      "nativeLanguage": "Speed up to beat the red light",
+      "otherLanguage": "লাল আলোক হারিয়ে এগিয়ে যাওয়ার জন্য গতি বাড়ান"
+    },
+    {
+      "nativeLanguage": "Apply the brakes sharply to stop",
+      "otherLanguage": "থামতে জোরে ব্রেক প্রয়োগ করুন"
+    },
+    {
+      "nativeLanguage": "Be prepared to stop in the center of the intersection",
+      "otherLanguage": "সংলগ্নবিন্দুর মাঝে থামতে প্রস্তুত থাকুন"
+    },
+    {
+      "nativeLanguage": "Be prepared to stop before the intersection",
+      "otherLanguage": "সংলগ্নবিন্দুর আগে থামতে প্রস্তুত থাকুন"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "Be prepared to stop before the intersection",
+    "otherLanguage": "সংলগ্নবিন্দুর আগে থামতে প্রস্তুত থাকুন"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "A rectangular-shaped sign is a:",
+    "otherLanguage": "একটি আয়তাকার আকৃতির সাইন কী:"
+  },
+  "options": [
+    {
+      "nativeLanguage": "Railroad crossing sign",
+      "otherLanguage": "রেলওয়ে ক্রসিং সাইন"
+    },
+    {
+      "nativeLanguage": "School crossing sign",
+      "otherLanguage": "স্কুল ক্রসিং সাইন"
+    },
+    {
+      "nativeLanguage": "Stop sign",
+      "otherLanguage": "থামুন সাইন"
+    },
+    {
+      "nativeLanguage": "Speed limit sign",
+      "otherLanguage": "গতি সীমা সাইন"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "Speed limit sign",
+    "otherLanguage": "গতি সীমা সাইন"
+  }
+},
+{
+  "question": {
+    "nativeLanguage": "Which of the following is used on some highways to direct drivers into the proper lanes for turning?",
+    "otherLanguage": "কোনটি কোনটি কিছু মহাসড়কের উপরে ব্যবহৃত হয় যাত্রীদেরকে পুনঃনির্দেশিত করার জন্য ডান মোড় উপযোগী লেনগুলির দিকে?"
+  },
+  "options": [
+    {
+      "nativeLanguage": "Flashing red lights",
+      "otherLanguage": "ফ্ল্যাশিং লাল আলো"
+    },
+    {
+      "nativeLanguage": "Flashing yellow lights",
+      "otherLanguage": "ফ্ল্যাশিং হলুদ আলো"
+    },
+    {
+      "nativeLanguage": "White lines on the side of the road",
+      "otherLanguage": "রাস্তার পাশে সাদা রেখা"
+    },
+    {
+      "nativeLanguage": "White arrows in the middle of the lanes",
+      "otherLanguage": "লেনের মধ্যে সাদা তীর"
+    }
+  ],
+  "answer": {
+    "nativeLanguage": "White arrows in the middle of the lanes",
+    "otherLanguage": "লেনের মধ্যে সাদা তীর"
+  }
+}
+
+  
+  
+]

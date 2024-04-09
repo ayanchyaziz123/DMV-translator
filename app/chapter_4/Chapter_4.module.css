@@ -1,0 +1,39 @@
+/* Chapter_4.module.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #282c34;
+  }
+  
+  .title {
+    color: #61dafb;
+    margin: 20px 0;
+  }
+  
+  .quizWrapper {
+    width: 80%;
+    max-width: 1200px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .errorMessage {
+    color: #ff4136;
+  }
+
+  /* Add this inside your Chapter_4.module.css */
+
+@media (max-width: 768px) {
+    .quizWrapper {
+      width: 90%;
+      padding: 0;
+    }
+  }
+  
+  
