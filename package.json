@@ -2,7 +2,9 @@
   "name": "dmv-bangla",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/ayanchyaziz123/DMV-translator",
   "scripts": {
+    "deploy": "next build && next export -o out && gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -17,7 +19,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
+    "gh-pages": "^6.1.1",
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
   }
+  
 }
