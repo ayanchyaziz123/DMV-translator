@@ -8,7 +8,7 @@ import { useSearchParams } from 'next/navigation'; // Correct import
 import styles from '../style.module.css';
 import Navbar from '@/components/Navbar';
 
-const Chapter_5 = () => {
+const Data = () => {
   const searchParams = useSearchParams();
   const language = searchParams.get('language');
 
@@ -17,7 +17,7 @@ const Chapter_5 = () => {
     <Navbar/>
     <div className={styles.container}>
       <h1 className={styles.title}>Chapter 8</h1>
-      <Suspense fallback={<div>Loading...</div>}>
+     
         {language === "bangla" ? (
           <div className={styles.quizWrapper}>
             <QuizComponent quizData={banglaData} />
@@ -29,10 +29,17 @@ const Chapter_5 = () => {
         ) : (
           <p className={styles.errorMessage}>Content not found..!</p>
         )}
-      </Suspense>
     </div>
     </>
   );
 };
+
+const Chapter_5 = () =>{
+    return(
+        <Suspense>
+        <Data />
+      </Suspense>
+    )
+}
 
 export default Chapter_5;
