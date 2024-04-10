@@ -15,7 +15,8 @@ const Data = () => {
     <>
     <Navbar/>
     <div className={styles.container}>
-      <h1 className={styles.title}>Chapter 5</h1>
+      <h1 className={styles.title}>Chapter 5: Intersections and Turns</h1>
+      <p className={styles.description}>Chapter 5: Intersections and Turns focuses on safely navigating intersections and executing turns. Learn right-of-way rules, signaling, and proper turning techniques.</p>
      
         {language === "bangla" ? (
           <div className={styles.quizWrapper}>
