@@ -1,13 +1,13 @@
 "use client";
 import QuizComponent from '../../components/QuizComponent';
-import banglaData from '../../data/chapter_4/banglaData';
+import banglaData from '../../data/chapter_5/banglaData';
 import hindiData from '../../data/chapter_4/hindiData';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation'; // Correct import
 // Import the CSS module at the top of your file
 import styles from '../style.module.css';
 import Navbar from '@/components/Navbar';
 
-const Chapter_4 = () => {
+const Chapter_5 = () => {
   const searchParams = useSearchParams();
   const language = searchParams.get('language');
 
@@ -32,4 +32,4 @@ const Chapter_4 = () => {
   );
 };
 
-export default Chapter_4;
+export default Chapter_5;

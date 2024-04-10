@@ -1,0 +1,255 @@
+[
+    {
+      "question": {
+        "english": "A \"no parking\" sign at a certain location means:",
+        "nativeLanguage": "নির্দিষ্ট একটি অবস্থানে একটি \"পার্কিং অনুমতি নেই\" চিহ্নের অর্থ কি?"
+      },
+      "options": [
+        {
+          "english": "You may never stop your vehicle there",
+          "nativeLanguage": "আপনি কখনই আপনার যানবাহনটি সেখানে থামাতে পারেন না"
+        },
+        {
+          "english": "You may stop temporarily to load or unload passengers",
+          "nativeLanguage": "আপনি অস্থায়ীভাবে যাতায়াতকারী লোড করতে বা আনলোড করতে থামতে পারেন"
+        },
+        {
+          "english": "You may park there if the driver remains in the vehicle",
+          "nativeLanguage": "যদি চালক গাড়িতে থাকে তাহলে আপনি সেখানে পার্ক করতে পারেন"
+        },
+        {
+          "english": "You may leave your vehicle unattended for less than 5 minutes",
+          "nativeLanguage": "আপনি 5 মিনিটের কম সময়ের জন্য আপনার গাড়িটি উপস্থিত না থাকায় চেড়ে যেতে পারেন"
+        }
+      ],
+      "answer": {
+        "english": "You may never stop your vehicle there",
+        "nativeLanguage": "আপনি কখনই আপনার যানবাহনটি সেখানে থামাতে পারেন না"
+      }
+    },
+    {
+      "question": {
+        "english": "If you are parked parallel to the curb, you may get out of the car on the traffic side:",
+        "nativeLanguage": "আপনি যদি বারাবারের সাথে সমানুপাতিক পার্ক করেন, তবে আপনি যানবাহন দিকে গাড়ি থেকে বের হতে পারেন:"
+      },
+      "options": [
+        {
+          "english": "During the daytime when other drivers can see you",
+          "nativeLanguage": "দিনের সময় যখন অন্যান্য চালক আপনাকে দেখতে পারে"
+        },
+        {
+          "english": "When the traffic light at the closest intersection turns red",
+          "nativeLanguage": "নিকটতম চৌড়দিকের ট্রাফিক আলো লাল হয়ে যখন"
+        },
+        {
+          "english": "When you won't interfere with oncoming vehicles",
+          "nativeLanguage": "আপনি সম্পর্কিত গাড়ি দ্বারা ব্যাধিত হতে চাইবেন না যখন"
+        },
+        {
+          "english": "If you use your four-way flasher first",
+          "nativeLanguage": "আপনি প্রথমে আপনার চার দিকের ফ্ল্যাশার ব্যবহার করেন যদি"
+        }
+      ],
+      "answer": {
+        "english": "When you won't interfere with oncoming vehicles",
+        "nativeLanguage": "আপনি সম্পর্কিত গাড়ি দ্বারা ব্যাধিত হতে চাইবেন না যখন"
+      }
+    },
+    {
+      "question": {
+        "english": "A driver may park in a space reserved for people with disabilities if the vehicle displays license plates for the disabled:",
+        "nativeLanguage": "যদি গাড়িতে অক্ষম লাইসেন্স প্লেট প্রদর্শিত করে, তবে একজন চালক একটি অক্ষম ব্যক্তিদের জন্য সংরক্ষিত স্থানে পার্ক করতে পারে:"
+      },
+      "options": [
+        {
+          "english": "Regardless of who is in the vehicle",
+          "nativeLanguage": "গাড়ির ভিত্তিতে কে থাকে তা নির্বিশেষে"
+        },
+        {
+          "english": "Only if the driver is disabled",
+          "nativeLanguage": "কেবল যদি চালক অক্ষম হয়"
+        },
+        {
+          "english": "And is carrying a disabled person named on the registration",
+          "nativeLanguage": "এবং নিবন্ধিত নামের একজন অক্ষম ব্যক্তি নিযুক্ত করে"
+        },
+        {
+          "english": "If someone in the driver's immediate family is disabled",
+          "nativeLanguage": "যদি চালকের তাত্ক্ষণিক পরিবারের কেউ অক্ষম হয়"
+        }
+      ],
+      "answer": {
+        "english": "And is carrying a disabled person named on the registration",
+        "nativeLanguage": "এবং নিবন্ধিত নামের একজন অক্ষম ব্যক্তি নিযুক্ত করে"
+      }
+    },
+    {
+      "question": {
+        "english": "A \"no stopping\" sign means that, unless directed to do so by a policeman, you may stop only:",
+        "nativeLanguage": "একটি \"নির্দেশবদ্ধ হওয়া না\" সাইনের অর্থ হল যে, যদি পুলিশ দ্বারা নির্দেশ দেওয়া না হয়, তবে আপনি কেবলমাত্র এই অবস্থানে থামতে পারেন:"
+      },
+      "options": [
+        {
+          "english": "Long enough to unload packages",
+          "nativeLanguage": "প্যাকেজ আনলোড করার জন্য যথার্থ সময়"
+        },
+        {
+          "english": "To avoid conflict with other traffic",
+          "nativeLanguage": "অন্যান্য যাতায়াতের সঙ্গে সংঘর্ষ এড়িয়ে চলার জন্য"
+        },
+        {
+          "english": "To discharge passengers",
+          "nativeLanguage": "যাতায়াতকারী প্রত্যাহার করার জন্য"
+        },
+        {
+          "english": "For less than 5 minutes",
+          "nativeLanguage": "5 মিনিটের কম সময়ের জন্য"
+        }
+      ],
+      "answer": {
+        "english": "To avoid conflict with other traffic",
+        "nativeLanguage": "অন্যান্য যাতায়াতের সঙ্গে সংঘর্ষ এড়িয়ে চলার জন্য"
+      }
+    },
+    {
+      "question": {
+        "english": "In a parking space reserved for people with disabilities, a non-disabled driver:",
+        "nativeLanguage": "অক্ষম ব্যক্তিদের জন্য সংরক্ষিত পার্কিং স্থানে, একজন অক্ষম না চালক:"
+      },
+      "options": [
+        {
+          "english": "May park in an emergency",
+          "nativeLanguage": "জরুরীভাবে পার্ক করতে পারেন"
+        },
+        {
+          "english": "May not park, but stop in an emergency",
+          "nativeLanguage": "পার্ক করতে পারেন না, কিন্তু জরুরীভাবে থামতে পারেন"
+        },
+        {
+          "english": "May not park or stop, but may stand in an emergency",
+          "nativeLanguage": "পার্ক করা বা থামা অসুবিধার হতে পারে, কিন্তু জরুরী অবস্থায় দাঁড়াতে পারেন"
+        },
+        {
+          "english": "May neither park, stop, nor stand",
+          "nativeLanguage": "না পার্ক, না থামা, না দাঁড়াতে পারেন"
+        }
+      ],
+      "answer": {
+        "english": "May neither park, stop, nor stand",
+        "nativeLanguage": "না পার্ক, না থামা, না দাঁড়াতে পারেন"
+      }
+    },
+    {
+      "question": {
+        "english": "You may never park:",
+        "nativeLanguage": "আপনি কখনই পার্ক করতে পারবেন না:"
+      },
+      "options": [
+        {
+          "english": "On a one-way street",
+          "nativeLanguage": "এক দিক রাস্তা উপর"
+        },
+        {
+          "english": "At the entrance of a building",
+          "nativeLanguage": "একটি ভবনের প্রবেশদ্বারে"
+        },
+        {
+          "english": "In a crosswalk",
+          "nativeLanguage": "একটি ক্রসওয়াকে"
+        },
+        {
+          "english": "Within 50 feet of a fire hydrant",
+          "nativeLanguage": "একটি জ্বালানি হাইড্রেন্টের 50 ফুটের মধ্যে"
+        }
+      ],
+      "answer": {
+        "english": "Within 50 feet of a fire hydrant",
+        "nativeLanguage": "একটি জ্বালানি হাইড্রেন্টের 50 ফুটের মধ্যে"
+      }
+    },
+    {
+      "question": {
+        "english": "Assuming that the street is level, what should you do after you have finished parallel parking in a space between two other cars?",
+        "nativeLanguage": "যদি স্ট্রিটটি সমতল হয়, আপনি একটি অন্যান্য দুটি গাড়ির মধ্যে পারালেল পার্কিং শেষ করার পরে কী করবেন?"
+      },
+      "options": [
+        {
+          "english": "Leave your front wheels turned toward the curb",
+          "nativeLanguage": "আপনার আগের চাকাগুলি কার্বে তীর দিয়ে বের হোন"
+        },
+        {
+          "english": "Make sure your car almost touches the car behind you",
+          "nativeLanguage": "আপনার গাড়ি পেছনে থাকা গাড়ির প্রায় স্পর্শ করে নিন"
+        },
+        {
+          "english": "Move as far forward in the space as possible",
+          "nativeLanguage": "যেতে সম্ভব স্থানে এগিয়ে চলুন"
+        },
+        {
+          "english": "Straighten your front wheels and leave room between cars",
+          "nativeLanguage": "আপনার সামনের চাকাগুলি সোজা করুন এবং গাড়ির মধ্যে রুম ছেড়ে দিন"
+        }
+      ],
+      "answer": {
+        "english": "Straighten your front wheels and leave room between cars",
+        "nativeLanguage": "আপনার সামনের চাকাগুলি সোজা করুন এবং গাড়ির মধ্যে রুম ছেড়ে দিন"
+      }
+    },
+    {
+      "question": {
+        "english": "Before you leave a parking space which is parallel to the curb, you should:",
+        "nativeLanguage": "যখন আপনি গাড়ি কার্বের সাথে সমানুপাতিক যা পার্ক করেছেন, তখন আপনাকে কী করতে হবে:"
+      },
+      "options": [
+        {
+          "english": "Sound your horn",
+          "nativeLanguage": "আপনার হর্ন বাজান"
+        },
+        {
+          "english": "Turn on your four-way flasher",
+          "nativeLanguage": "আপনার চার দিকের ফ্ল্যাশার চালু করুন"
+        },
+        {
+          "english": "Look for traffic by turning your head",
+          "nativeLanguage": "আপনার মাথা ফিরিয়ে যানে ট্রাফিক খুঁজুন"
+        },
+        {
+          "english": "Look for traffic by using your inside rear-view mirror",
+          "nativeLanguage": "আপনার ভিতরের পেছনের দর্শন শিল্পের মাধ্যমে যানবাহন খুঁজুন"
+        }
+      ],
+      "answer": {
+        "english": "Look for traffic by turning your head",
+        "nativeLanguage": "আপনার মাথা ফিরিয়ে যানে ট্রাফিক খুঁজুন"
+      }
+    },
+    {
+      "question": {
+        "english": "A \"no standing\" sign at a certain location means:",
+        "nativeLanguage": "নির্দিষ্ট একটি অবস্থানে \"নিজেস্থানে থাকা নিষিদ্ধ\" চিহ্নের অর্থ কি?"
+      },
+      "options": [
+        {
+          "english": "You may never stop your vehicle there",
+          "nativeLanguage": "আপনি কখনই আপনার যানবাহনটি সেখানে থামাতে পারেন না"
+        },
+        {
+          "english": "You may park there if the driver remains in the vehicle",
+          "nativeLanguage": "যদি চালক গাড়িতে থাকে তাহলে আপনি সেখানে পার্ক করতে পারেন"
+        },
+        {
+          "english": "You may stop temporarily to pick up or discharge passengers",
+          "nativeLanguage": "আপনি অস্থায়ীভাবে যাতায়াতকারী নিয়ে নিতে বা আনতে থামতে পারেন"
+        },
+        {
+          "english": "You may stop to load or unload merchandise",
+          "nativeLanguage": "পণ্য লোড বা আনলোড করতে থামতে পারেন"
+        }
+      ],
+      "answer": {
+        "english": "You may stop temporarily to pick up or discharge passengers",
+        "nativeLanguage": "আপনি অস্থায়ীভাবে যাতায়াতকারী নিয়ে নিতে বা আনতে থামতে পারেন"
+      }
+    }
+  ]
+  

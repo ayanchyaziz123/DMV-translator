@@ -1,0 +1,338 @@
+[
+    {
+        "question": {
+            "english": "On a New York State highway where there is no posted speed limit, the fastest you may legally drive is:",
+            "nativeLanguage": "নিউইয়র্ক রাষ্ট্রের একটি হাইওয়ে যেখানে কোনও স্পীড সীমা পোস্ট করা হয়নি, আপনি আইনগতভাবে সর্বত্তপরি দ্রুত গাড়ি চালাতে পারেন:",
+        },
+        "options": [
+            {
+                "english": "50 mph",
+                "nativeLanguage": "50 মাইল প্রতি ঘণ্টা"
+            },
+            {
+                "english": "55 mph",
+                "nativeLanguage": "55 মাইল প্রতি ঘণ্টা"
+            },
+            {
+                "english": "60 mph",
+                "nativeLanguage": "60 মাইল প্রতি ঘণ্টা"
+            },
+            {
+                "english": "65 mph",
+                "nativeLanguage": "65 মাইল প্রতি ঘণ্টা"
+            }
+        ],
+        "answer": {
+            "english": "55 mph",
+            "nativeLanguage": "55 মাইল প্রতি ঘণ্টা"
+        }
+    },
+    {
+        "question": {
+            "english": "What is true of work zones?",
+            "nativeLanguage": "ওয়ার্ক জোনের কি সত্য?"
+        },
+        "options": [
+            {
+                "english": "They are always stationary and therefore easily avoided",
+                "nativeLanguage": "তারা সবসময় অবস্থায় থাকে এবং অতএব সহজে পরিহার্য"
+            },
+            {
+                "english": "They are only dangerous at night",
+                "nativeLanguage": "তারা শুধুমাত্র রাতে ভয়ানক"
+            },
+            {
+                "english": "Speeding fines are tripled when workers are present",
+                "nativeLanguage": "কর্মীদের উপস্থিতিতে গতিচালনা জরিমানা তিনগুণ বাড়ে"
+            },
+            {
+                "english": "Rear-end collisions are the most common type of crash in work zones",
+                "nativeLanguage": "পিছনে অংশ সংঘর্ষ ওয়ার্ক জোনে সর্বাধিক সাধারণ ধরনের দুর্ঘটনা"
+            }
+        ],
+        "answer": {
+            "english": "Speeding fines are tripled when workers are present",
+            "nativeLanguage": "কর্মীদের উপস্থিতিতে গতিচালনা জরিমানা তিনগুণ বাড়ে"
+        }
+    },
+    {
+        "question": {
+            "english": "Aggressive driving can become road rage. What should you do when confronted by an aggressive driver?",
+            "nativeLanguage": "সক্রিয় গাড়ি চালানো সড়কের রেজ হতে পারে। একটি সক্রিয় চালকের সম্মুখীন সন্দেহ করলে আপনি কী করবেন?"
+        },
+        "options": [
+            {
+                "english": "Speed up to pass the driver as quickly as possible",
+                "nativeLanguage": "সম্ভবত তা প্রেরণ করার জন্য ড্রাইভারকে দ্রুত ছাড়াতে দ্রুত গতি দিন"
+            },
+            {
+                "english": "Be prepared to yield the right of way",
+                "nativeLanguage": "মার্গের অধিকার প্রদানের জন্য প্রস্তুত থাকুন"
+            },
+            {
+                "english": "Drink alcohol to calm yourself down",
+                "nativeLanguage": "নিজেকে শান্ত করার জন্য অ্যালকোহল পান করুন"
+            },
+            {
+                "english": "Make eye contact with the driver",
+                "nativeLanguage": "ড্রাইভারের সাথে চোখের যোগাযোগ করুন"
+            }
+        ],
+        "answer": {
+            "english": "Be prepared to yield the right of way",
+            "nativeLanguage": "মার্গের অধিকার প্রদানের জন্য প্রস্তুত থাকুন"
+        }
+    },
+    {
+        "question": {
+            "english": "Minimum speed signs are designed to:",
+            "nativeLanguage": "ন্যূনতম গতি সাইন কতটি ডিজাইন করা হয়েছে:"
+        },
+        "options": [
+            {
+                "english": "Keep traffic flowing smoothly",
+                "nativeLanguage": "যাতায়াত মস্তিষ্কের গতি ধারাবহী রেখে"
+            },
+            {
+                "english": "Show current local road conditions",
+                "nativeLanguage": "বর্তমান স্থানীয় রাস্তার অবস্থা দেখান"
+            },
+            {
+                "english": "Test future traffic signal needs",
+                "nativeLanguage": "ভবিষ্যতের যাতায়াত সিগন্যাল প্রয়োজনগুলি পরীক্ষা করুন"
+            },
+            {
+                "english": "Assure pedestrian safety",
+                "nativeLanguage": "হতাশ চলোকের নিরাপত্তা নিশ্চিত করুন"
+            }
+        ],
+        "answer": {
+            "english": "Keep traffic flowing smoothly",
+            "nativeLanguage": "যাতায়াত মস্তিষ্কের গতি ধারাবহী রেখে"
+        }
+    },
+    {
+        "question": {
+            "english": "Signs that warn 'lane closed ahead' may indicate a work zone ahead. You should:",
+            "nativeLanguage": "যে চিহ্ন 'লেন অগ্রবর্তী বন্ধ' এগিয়ে যাওয়া যায় সেই কাজের অঞ্চলের অগ্রবর্তী বন্ধ প্রদর্শন করতে পারে। আপনার করনীয়:"
+        },
+        "options": [
+            {
+                "english": "Merge your vehicle into the correct lane when it is safe",
+                "nativeLanguage": "আপনার যানবাহন নিরাপদ হলে সঠিক লেনে মার্জ করুন"
+            },
+            {
+                "english": "Drive to the end of the closed lane before attempting to merge",
+                "nativeLanguage": "মার্জ চেষ্টা করার আগে বন্ধ লেনের শেষে চালনা করুন"
+            },
+            {
+                "english": "Understand that this sign is merely a suggestion and continue in the lane",
+                "nativeLanguage": "এই চিহ্নটি কেবল একটি পরামর্শ এবং লেনে চলতে চালিয়ে যাওয়া বুঝুন"
+            },
+            {
+                "english": "Speed up to merge as quickly as possible",
+                "nativeLanguage": "সম্ভবত তা ছড়িয়ে মার্জ করার জন্য গতি বাড়ান"
+            }
+        ],
+        "answer": {
+            "english": "Merge your vehicle into the correct lane when it is safe",
+            "nativeLanguage": "আপনার যানবাহন নিরাপদ হলে সঠিক লেনে মার্জ করুন"
+        }
+    },
+    {
+        "question": {
+            "english": "Driving in a state of rage can:",
+            "nativeLanguage": "রেজের অবস্থায় গাড়ি চালানো যায়:"
+        },
+        "options": [
+            {
+                "english": "Affect your ability to reason and make decisions",
+                "nativeLanguage": "আপনার কার্যক্ষমতা এবং প্রায়োজন নিয়ে প্রভাব ফেলে"
+            },
+            {
+                "english": "Increase the chance of being involved in a traffic accident",
+                "nativeLanguage": "যাতায়াত দুর্ঘটনায় জড়িত হওয়ার সম্ভাবনা বাড়ায়"
+            },
+            {
+                "english": "Lead to a revoked or suspended license",
+                "nativeLanguage": "অবৈধ অথবা স্থগিত লাইসেন্সে পরিণতি দেয়"
+            },
+            {
+                "english": "All of these choices",
+                "nativeLanguage": "সবগুলি পছন্দ"
+            }
+        ],
+        "answer": {
+            "english": "All of these choices",
+            "nativeLanguage": "সবগুলি পছন্দ"
+        }
+    },
+    {
+        "question": {
+            "english": "On long trips you can prevent drowsiness by:",
+            "nativeLanguage": "দীর্ঘ প্রয়ানে আপনি ঘুমন্ত হওয়ার প্রতিরোধ করতে পারেন কিভাবে:"
+        },
+        "options": [
+            {
+                "english": "Turning on your car radio",
+                "nativeLanguage": "আপনার গাড়ির রেডিও চালু করুন"
+            },
+            {
+                "english": "Slowing down so you can react better",
+                "nativeLanguage": "আপনি ভালোভাবে প্রতিক্রিয়া দিতে পারেন তাই ধীরে ধীরে চলুন"
+            },
+            {
+                "english": "Stopping at regular intervals for a rest",
+                "nativeLanguage": "নিয়মিত বিশ্রামের জন্য নিয়মিত বিরতি"
+            },
+            {
+                "english": "Moving your eyes from side to side as you drive",
+                "nativeLanguage": "গাড়ি চালানোর সময় আপনার চোখকে দিকে দিকে সরান"
+            }
+        ],
+        "answer": {
+            "english": "Stopping at regular intervals for a rest",
+            "nativeLanguage": "নিয়মিত বিশ্রামের জন্য নিয়মিত বিরতি"
+        }
+    },
+    {
+        "question": {
+            "english": "Which of the following may describe a work zone sign?",
+            "nativeLanguage": "নিম্নলিখিত কোনটি একটি কাজের অঞ্চল চিহ্ন বর্ণনা করতে পারে?"
+        },
+        "options": [
+            {
+                "english": "A white rectangle with black letters",
+                "nativeLanguage": "কালো অক্ষরের সাথে সাদা বর্ণের আয়তাকার"
+            },
+            {
+                "english": "An orange diamond with black letters",
+                "nativeLanguage": "কালো অক্ষরের সাথে কমলা হীরামণি"
+            },
+            {
+                "english": "A green rectangle with white letters",
+                "nativeLanguage": "সাদা অক্ষরের সাথে সবুজ আয়তাকার"
+            },
+            {
+                "english": "A yellow circle with black letters",
+                "nativeLanguage": "কালো অক্ষরের সাথে হলুদ বৃত্ত"
+            }
+        ],
+        "answer": {
+            "english": "An orange diamond with black letters",
+            "nativeLanguage": "কালো অক্ষরের সাথে কমলা হীরামণি"
+        }
+    },
+    {
+        "question": {
+            "english": "Seat belts can be most effective as injury preventive devices when they are worn by:",
+            "nativeLanguage": "সিট বেল্ট এর অসংক্রান্তি প্রকার হিসাবে তারা যখন পরে তখন কোনটি অধিক দুর্ঘটনা প্রতিরোধী যন্ত্র:"
+        },
+        "options": [
+            {
+                "english": "The person driving the car",
+                "nativeLanguage": "গাড়ি চালানো ব্যক্তি"
+            },
+            {
+                "english": "Passengers when they are on a long drive",
+                "nativeLanguage": "দীর্ঘ ড্রাইভে থাকার সময় যাত্রীগণ"
+            },
+            {
+                "english": "All occupants of a car being driven on an expressway",
+                "nativeLanguage": "একটি এক্সপ্রেসওয়েতে ড্রাইভ করা গাড়ির সমস্ত অধিবাসী"
+            },
+            {
+                "english": "Passengers and the driver whenever they are in the car",
+                "nativeLanguage": "গাড়ির অধিবাসী এবং ড্রাইভার যখনই তারা গাড়ির ভেতরে থাকেন"
+            }
+        ],
+        "answer": {
+            "english": "All occupants of a car being driven on an expressway",
+            "nativeLanguage": "একটি এক্সপ্রেসওয়েতে ড্রাইভ করা গাড়ির সমস্ত অধিবাসী"
+        }
+    },
+    {
+        "question": {
+            "english": "Which of the following is always true about road rage?",
+            "nativeLanguage": "নিম্নলিখিত কোনটি সবসময় সত্য যে সড়কের রেজ সম্পর্কে?"
+        },
+        "options": [
+            {
+                "english": "There is nothing a driver can do to prevent road rage",
+                "nativeLanguage": "কোনও চালক এখন যাতায়াত রেজ প্রতিরোধ করতে করা যায়"
+            },
+            {
+                "english": "You must hold your position in your travel lane",
+                "nativeLanguage": "আপনার ভ্রমণ লেনে আপনার স্থান ধরতে হবে"
+            },
+            {
+                "english": "Only violent people experience road rage",
+                "nativeLanguage": "কেবল হিংস্র মানুষরা সড়কের রেজ অভিজ্ঞতা অনুভব"
+            },
+            {
+                "english": "You should remain polite to aggressive drivers",
+                "nativeLanguage": "আপনাকে সক্রিয় চালকদের সাথে শ্রীমান থাকা উচিত"
+            }
+        ],
+        "answer": {
+            "english": "You should remain polite to aggressive drivers",
+            "nativeLanguage": "আপনাকে সক্রিয় চালকদের সাথে শ্রীমান থাকা উচিত"
+        }
+    },
+    {
+        "question": {
+            "english": "A safe speed to drive your car:",
+            "nativeLanguage": "আপনার গাড়ি চালাতে একটি নিরাপদ গতি:"
+        },
+        "options": [
+            {
+                "english": "Is the posted speed limit",
+                "nativeLanguage": "পোস্ট করা গতি সীমা"
+            },
+            {
+                "english": "Is less than the posted speed limit",
+                "nativeLanguage": "পোস্ট করা গতি সীমার থেকে কম"
+            },
+            {
+                "english": "Depends on the weather and road conditions",
+                "nativeLanguage": "আবহাওয়া এবং রাস্তার অবস্থা নির্ভর করে"
+            },
+            {
+                "english": "Depends on the mechanical skill of the driver",
+                "nativeLanguage": "চালকের যানবাহনের যান্ত্রিক দক্ষতার উপর নির্ভর করে"
+            }
+        ],
+        "answer": {
+            "english": "Depends on the weather and road conditions",
+            "nativeLanguage": "আবহাওয়া এবং রাস্তার অবস্থা নির্ভর করে"
+        }
+    },
+    {
+        "question": {
+            "english": "One of the rules of defensive driving is:",
+            "nativeLanguage": "একটি প্রতিরক্ষাত্মক গাড়ি চালানোর নিয়ম হল:"
+        },
+        "options": [
+            {
+                "english": "Look straight ahead as you drive",
+                "nativeLanguage": "গাড়ি চালানোর সময় সামনে তাকিয়ে দেখুন"
+            },
+            {
+                "english": "Stay alert and keep your eyes moving",
+                "nativeLanguage": "সতর্ক থাকুন এবং আপনার চোখগুলি চলাচল করুন"
+            },
+            {
+                "english": "Expect that other drivers will make up for your errors",
+                "nativeLanguage": "আশা করুন যে অন্যান্য চালক আপনার ভুল সংশোধন করবে"
+            },
+            {
+                "english": "Be confident that you can avoid danger at the last minute",
+                "nativeLanguage": "আপনি স্বচ্ছ হতে পারেন যে আপনি সর্বশেষ মিনিটে ঝুঁকিতে পরিহার করতে পারেন"
+            }
+        ],
+        "answer": {
+            "english": "Stay alert and keep your eyes moving",
+            "nativeLanguage": "সতর্ক থাকুন এবং আপনার চোখগুলি চলাচল করুন"
+        }
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "question": {
+            "english": "Drinking coffee after drinking alcohol:",
+            "nativeLanguage": "এলকোহল পরে কফি পানে:"
+        },
+        "options": [
+            {
+                "english": "Decreases blood alcohol content",
+                "nativeLanguage": "রক্তের এলকোহল পরিমাণ কমে যায়"
+            },
+            {
+                "english": "Cancels the effect of the alcohol",
+                "nativeLanguage": "এলকোহলের প্রভাব বাতিল করে"
+            },
+            {
+                "english": "Has no effect on blood alcohol content",
+                "nativeLanguage": "রক্তের এলকোহল পরিমাণের উপর কোনও প্রভাব নেই"
+            },
+            {
+                "english": "Increases blood alcohol content",
+                "nativeLanguage": "রক্তের এলকোহল পরিমাণ বাড়ায়"
+            }
+        ],
+        "answer": {
+            "english": "Has no effect on blood alcohol content",
+            "nativeLanguage": "রক্তের এলকোহল পরিমাণের উপর কোনও প্রভাব নেই"
+        }
+    },
+    {
+        "question": {
+            "english": "What does alcohol do to your driving skills and judgment?",
+            "nativeLanguage": "আলকোহল আপনার গাড়ি চালানোর দক্ষতা এবং বিচার কি করে?"
+        },
+        "options": [
+            {
+                "english": "It helps driving skills but harms your judgment",
+                "nativeLanguage": "গাড়ি চালানোর দক্ষতা সাহায্য করে কিন্তু আপনার বিচার ক্ষতিগ্রস্ত করে"
+            },
+            {
+                "english": "It harms both driving skills and judgment",
+                "nativeLanguage": "এটি গাড়ি চালানোর দক্ষতা এবং বিচার উভয়ই ক্ষতিগ্রস্ত করে"
+            },
+            {
+                "english": "It has no effect on either driving skills or judgment",
+                "nativeLanguage": "এটি গাড়ি চালানোর দক্ষতা বা বিচারের উপর কোনও প্রভাব নেই"
+            },
+            {
+                "english": "It has no effect on judgment but it harms driving skills",
+                "nativeLanguage": "এটি বিচার উপর কোনও প্রভাব নেই কিন্তু এটি গাড়ি চালানোর দক্ষতা ক্ষতিগ্রস্ত করে"
+            }
+        ],
+        "answer": {
+            "english": "It harms both driving skills and judgment",
+            "nativeLanguage": "এটি গাড়ি চালানোর দক্ষতা এবং বিচার উভয়ই ক্ষতিগ্রস্ত করে"
+        }
+    },
+    {
+        "question": {
+            "english": "On average, the human body can dispose of the alcohol in 12 ounces of beer in about:",
+            "nativeLanguage": "গড়ে মাত্রায়, মানুষের শরীর প্রায় 12 আউন্স বিয়ারের এলকোহল থেকে বিছানা পারে কত সময়ে:"
+        },
+        "options": [
+            {
+                "english": "One hour",
+                "nativeLanguage": "এক ঘন্টা"
+            },
+            {
+                "english": "One day",
+                "nativeLanguage": "এক দিন"
+            },
+            {
+                "english": "Five minutes",
+                "nativeLanguage": "পাঁচ মিনিট"
+            },
+            {
+                "english": "Five hours",
+                "nativeLanguage": "পাঁচ ঘন্টা"
+            }
+        ],
+        "answer": {
+            "english": "One hour",
+            "nativeLanguage": "এক ঘন্টা"
+        }
+    },
+    {
+        "question": {
+            "english": "Blood alcohol content (BAC) depends on each of the following except:",
+            "nativeLanguage": "রক্তের এলকোহল পরিমাণ (BAC) নিম্নলিখিত প্রতিটি অবস্থা নিয়ে নির্ভর করে ব্যাতিত:"
+        },
+        "options": [
+            {
+                "english": "Your body weight",
+                "nativeLanguage": "আপনার শরীরের ওজন"
+            },
+            {
+                "english": "How much you drink",
+                "nativeLanguage": "আপনি কত পান করেন"
+            },
+            {
+                "english": "How much time passes between drinks",
+                "nativeLanguage": "পানি পান করার মধ্যে কত সময় পার হয়"
+            },
+            {
+                "english": "How physically fit you are",
+                "nativeLanguage": "আপনি কতটুকু শারীরিকভাবে সুস্থ আছেন"
+            }
+        ],
+        "answer": {
+            "english": "How physically fit you are",
+            "nativeLanguage": "আপনি কতটুকু শারীরিকভাবে সুস্থ আছেন"
+        }
+    },
+    {
+        "question": {
+            "english": "A chemical test is used to measure:",
+            "nativeLanguage": "একটি রাসায়নিক পরীক্ষা পরিমাপ করার জন্য ব্যবহৃত হয়:"
+        },
+        "options": [
+            {
+                "english": "Reaction time",
+                "nativeLanguage": "প্রতিক্রিয়া সময়"
+            },
+            {
+                "english": "Blood alcohol content",
+                "nativeLanguage": "রক্তের এলকোহল পরিমাণ"
+            },
+            {
+                "english": "Vision",
+                "nativeLanguage": "দৃষ্টি"
+            },
+            {
+                "english": "Driving ability",
+                "nativeLanguage": "গাড়ি চালানোর দক্ষতা"
+            }
+        ],
+        "answer": {
+            "english": "Blood alcohol content",
+            "nativeLanguage": "রক্তের এলকোহল পরিমাণ"
+        }
+    },
+    {
+        "question": {
+            "english": "What happens to your driver license if you refuse to take a chemical test (breath or blood)?",
+            "nativeLanguage": "যদি আপনি একটি রাসায়নিক পরীক্ষা (শ্বাস বা রক্ত) গ্রহণ করার অভিযোগ করেন তবে আপনার ড্রাইভার লাইসেন্স কি হবে?"
+        },
+        "options": [
+            {
+                "english": "There is no evidence to find you guilty of drunk driving",
+                "nativeLanguage": "আপনাকে মদ চালানোর অভিযোগে অপরাধী মনে করতে কোন প্রমাণ নেই"
+            },
+            {
+                "english": "You cannot be arrested for drunk driving",
+                "nativeLanguage": "মদ চালানোর জন্য আপনাকে গ্রেফতার করা যাবে না"
+            },
+            {
+                "english": "Your driver license will be taken away",
+                "nativeLanguage": "আপনার ড্রাইভার লাইসেন্স নেওয়া হবে"
+            },
+            {
+                "english": "None of these choices",
+                "nativeLanguage": "এই সকল পছন্দের মধ্যে কোনটি নয়"
+            }
+        ],
+        "answer": {
+            "english": "Your driver license will be taken away",
+            "nativeLanguage": "আপনার ড্রাইভার লাইসেন্স নেওয়া হবে"
+        }
+    },
+    {
+        "question": {
+            "english": "What is the only effective way to reduce your blood alcohol content (BAC)?",
+            "nativeLanguage": "আপনার রক্তের এলকোহল পরিমাণ (BAC) কমানোর একমাত্র কার্যকর উপায় কী?"
+        },
+        "options": [
+            {
+                "english": "Drinking coffee",
+                "nativeLanguage": "কফি পান"
+            },
+            {
+                "english": "Exercising",
+                "nativeLanguage": "ব্যায়াম"
+            },
+            {
+                "english": "Allow your body time to get rid of alcohol",
+                "nativeLanguage": "আপনার শরীরের এলকোহল থেকে মুক্তি পেতে সময় দিন"
+            },
+            {
+                "english": "Taking a cold shower",
+                "nativeLanguage": "একটি ঠান্ডা সাওয়ার নেওয়া"
+            }
+        ],
+        "answer": {
+            "english": "Allow your body time to get rid of alcohol",
+            "nativeLanguage": "আপনার শরীরের এলকোহল থেকে মুক্তি পেতে সময় দিন"
+        }
+    },
+    {
+        "question": {
+            "english": "Which of the following does alcohol affect?",
+            "nativeLanguage": "আলকোহল কি প্রভাব ফেলে?"
+        },
+        "options": [
+            {
+                "english": "Recovery from headlight glare",
+                "nativeLanguage": "হেডলাইট আলোর চক্ষু থেকে প্রতিষ্ঠান"
+            },
+            {
+                "english": "Reaction time",
+                "nativeLanguage": "প্রতিক্রিয়া সময়"
+            },
+            {
+                "english": "Judgment of distances",
+                "nativeLanguage": "দূরত্বের বিচার"
+            },
+            {
+                "english": "All of these choices",
+                "nativeLanguage": "সকল পছন্দের মধ্যে"
+            }
+        ],
+        "answer": {
+            "english": "All of these choices",
+            "nativeLanguage": "সকল পছন্দের মধ্যে"
+        }
+    },
+    {
+        "question": {
+            "english": "What kinds of drugs, other than alcohol, can affect your driving ability?",
+            "nativeLanguage": "আলকোহলের বাইরে, কি ধরণের ঔষধ আপনার গাড়ি চালানোর দক্ষতা প্রভাবিত করতে পারে?"
+        },
+        "options": [
+            {
+                "english": "An allergy medicine",
+                "nativeLanguage": "একটি এলার্জি ওষুধ"
+            },
+            {
+                "english": "Marijuana",
+                "nativeLanguage": "মারিজুয়ানা"
+            },
+            {
+                "english": "A cold remedy",
+                "nativeLanguage": "একটি ঠান্ডা ঔষধ"
+            },
+            {
+                "english": "All of these choices",
+                "nativeLanguage": "সকল পছন্দের মধ্যে"
+            }
+        ],
+        "answer": {
+            "english": "All of these choices",
+            "nativeLanguage": "সকল পছন্দের মধ্যে"
+        }
+    },
+    {
+        "question": {
+            "english": "Which of the following does not happen after drinking?",
+            "nativeLanguage": "পান করার পরে নিম্নলিখিত কোনটি ঘটে না?"
+        },
+        "options": [
+            {
+                "english": "Your reflexes and reaction time slow down",
+                "nativeLanguage": "আপনার প্রতিক্রিয়া এবং প্রতিক্রিয়া সময় ধীরে হয়ে যায়"
+            },
+            {
+                "english": "Your judgment of speed and distance is distorted",
+                "nativeLanguage": "আপনার গতি এবং দূরত্বের বিচার বিকৃত"
+            },
+            {
+                "english": "You are less alert",
+                "nativeLanguage": "আপনি কম সতর্ক"
+            },
+            {
+                "english": "You calm down so you can concentrate",
+                "nativeLanguage": "আপনি শান্ত হয়ে থাকেন তাতে কেন্দ্রিত হতে পারেন"
+            }
+        ],
+        "answer": {
+            "english": "You calm down so you can concentrate",
+            "nativeLanguage": "আপনি শান্ত হয়ে থাকেন তাতে কেন্দ্রিত হতে পারেন"
+        }
+    },
+    {
+        "question": {
+            "english": "Drinking alcohol and driving is:",
+            "nativeLanguage": "এলকোহল পান করা এবং গাড়ি চালানো:"
+        },
+        "options": [
+            {
+                "english": "A minor traffic safety problem",
+                "nativeLanguage": "একটি অল্প যাতায়াত সুরক্ষা সমস্যা"
+            },
+            {
+                "english": "A serious traffic safety problem",
+                "nativeLanguage": "একটি গম্ভীর যাতায়াত সুরক্ষা সমস্যা"
+            },
+            {
+                "english": "Safe if you only have a few drinks",
+                "nativeLanguage": "যদি আপনি মাত্র কিছু পান তবে নিরাপদ"
+            },
+            {
+                "english": "Only dangerous to the driver who drinks",
+                "nativeLanguage": "শুধু তারা জন্য একমাত্র বিপজ্জনক যিনি পান করে"
+            }
+        ],
+        "answer": {
+            "english": "A serious traffic safety problem",
+            "nativeLanguage": "একটি গম্ভীর যাতায়াত সুরক্ষা সমস্যা"
+        }
+    },
+    {
+        "question": {
+            "english": "Which of the following is true?  People driving under the influence of alcohol are:",
+            "nativeLanguage": "নিম্নলিখিত কোনটি সত্য?  অধিক মদের প্রভাবে গাড়ি চালানো লোকজন:"
+        },
+        "options": [
+            {
+                "english": "Not a problem in New York State",
+                "nativeLanguage": "নিউইয়র্ক রাজ্যে কোনও সমস্যা নয়"
+            },
+            {
+                "english": "Every driver's problem whether they drink or not",
+                "nativeLanguage": "পান করা কিনা তা না করা প্রতিটি ড্রাইভারের সমস্যা"
+            },
+            {
+                "english": "A police enforcement problem only",
+                "nativeLanguage": "শুধুমাত্র পুলিশ কার্যক্রমের সমস্যা"
+            },
+            {
+                "english": "Only a problem to those who drink",
+                "nativeLanguage": "শুধু তারা যারা পান করে তাদের সমস্যা"
+            }
+        ],
+        "answer": {
+            "english": "Every driver's problem whether they drink or not",
+            "nativeLanguage": "পান করা কিনা তা না করা প্রতিটি ড্রাইভারের সমস্যা"
+        }
+    },
+    {
+        "question": {
+            "english": "What effect might alcohol and another drug have when combined in your blood?",
+            "nativeLanguage": "আপনার রক্তে মিশিয়ে আলকোহল এবং আরেকটি ঔষধ যদি মিশিয়ে ফিরে, তাহলে কী প্রভাব পড়তে পারে?"
+        },
+        "options": [
+            {
+                "english": "Increase the effects of both",
+                "nativeLanguage": "উভয়ের প্রভাব বাড়ান"
+            },
+            {
+                "english": "Have no effect on driving ability",
+                "nativeLanguage": "ড্রাইভিং দক্ষতা উপর কোন প্রভাব নেই"
+            },
+            {
+                "english": "Reduce the effects of the drug or medicine",
+                "nativeLanguage": "ঔষধ বা ঔষধের প্রভাব হ্রাস করা"
+            },
+            {
+                "english": "Reduce the effects of the alcohol",
+                "nativeLanguage": "এলকোহলের প্রভাব কমান"
+            }
+        ],
+        "answer": {
+            "english": "Increase the effects of both",
+            "nativeLanguage": "উভয়ের প্রভাব বাড়ান"
+        }
+    },
+    {
+        "question": {
+            "english": "What are the consequences that can result from driving under the influence of alcohol or other drugs?",
+            "nativeLanguage": "আলকোহল বা অন্যান্য ঔষধ নেওয়ার প্রভাবে গাড়ি চালানোর ফলাফল কী?"
+        },
+        "options": [
+            {
+                "english": "Possible imprisonment",
+                "nativeLanguage": "সম্ভাব্য জেল"
+            },
+            {
+                "english": "A mandatory fine",
+                "nativeLanguage": "বাধ্যতামূলক জরিমানা"
+            },
+            {
+                "english": "Driver license revocation",
+                "nativeLanguage": "ড্রাইভার লাইসেন্স প্রত্যাহার"
+            },
+            {
+                "english": "All of these choices",
+                "nativeLanguage": "সকল পছন্দের মধ্যে"
+            }
+        ],
+        "answer": {
+            "english": "All of these choices",
+            "nativeLanguage": "সকল পছন্দের মধ্যে"
+        }
+    },
+    {
+        "question": {
+            "english": "A driver who is taking a non-prescription drug should:",
+            "nativeLanguage": "যে চালক একটি প্রস্তাবিত ঔষধ নেওয়া হয় তাকে কী করতে হবে:"
+        },
+        "options": [
+            {
+                "english": "Read the labels on the drug before driving",
+                "nativeLanguage": "ড্রাইভিং করার আগে ঔষধের লেবেল পড়ুন"
+            },
+            {
+                "english": "Drink alcohol instead",
+                "nativeLanguage": "পান করার পরিবর্তে আলকোহল পান"
+            },
+            {
+                "english": "Continue to drive",
+                "nativeLanguage": "চালিয়ে যান"
+            },
+            {
+                "english": "Drive only during daylight hours",
+                "nativeLanguage": "কেবল দিনের সময় ড্রাইভ করুন"
+            }
+        ],
+        "answer": {
+            "english": "Read the labels on the drug before driving",
+            "nativeLanguage": "ড্রাইভিং করার আগে ঔষধের লেবেল পড়ুন"
+        }
+    },
+    {
+        "question": {
+            "english": "What effect does drinking alcohol and taking a prescription drug or over the counter medicine have?",
+            "nativeLanguage": "আলকোহল পান করা এবং প্রস্তাবিত ঔষধ বা অভ্যন্তরীণ প্রতিপাদন ও মার্কিন কী প্রভাব পড়তে পারে?"
+        },
+        "options": [
+            {
+                "english": "The medicine reduces the effect of the alcohol",
+                "nativeLanguage": "ঔষধ আলকোহলের প্রভাব হ্রাস করে"
+            },
+            {
+                "english": "The alcohol will help the medicine cure the cold",
+                "nativeLanguage": "আলকোহল ঔষধ শীতল ঠান্ডা দুর্বলতা সহায়তা করবে"
+            },
+            {
+                "english": "The combination could multiply the effects of the alcohol",
+                "nativeLanguage": "এলকোহলের প্রভাব বাড়ানোর জন্য সংযোজনটি সংযোজন করে"
+            },
+            {
+                "english": "No effect, they are difference substances",
+                "nativeLanguage": "কোন প্রভাব নেই, তারা পারিশ্রমিক বস্তু"
+            }
+        ],
+        "answer": {
+            "english": "The combination could multiply the effects of the alcohol",
+            "nativeLanguage": "এলকোহলের প্রভাব বাড়ানোর জন্য সংযোজনটি সংযোজন করে"
+        }
+    },
+    {
+        "question": {
+            "english": "In this state, what BAC (blood alcohol content) is evidence of intoxication?",
+            "nativeLanguage": "এই অবস্থায়, প্রমাদ যুক্ত করার কী বিশ্বাস প্রমাদ (রক্ত এলকোহল পরিমাণ) প্রমাণ?"
+        },
+        "options": [
+            {
+                "english": "0.05%",
+                "nativeLanguage": "0.05%"
+            },
+            {
+                "english": "0.03%",
+                "nativeLanguage": "0.03%"
+            },
+            {
+                "english": "0.10%",
+                "nativeLanguage": "0.10%"
+            },
+            {
+                "english": "0.08%",
+                "nativeLanguage": "0.08%"
+            }
+        ],
+        "answer": {
+            "english": "0.08%",
+            "nativeLanguage": "0.08%"
+        }
+    },
+    {
+        "question": {
+            "english": "Which of the following influence the effects of alcohol?",
+            "nativeLanguage": "আলকোহলের প্রভাবের কোনটি প্রভাবিত করে?"
+        },
+        "options": [
+            {
+                "english": "The amount of food in the stomach",
+                "nativeLanguage": "পেটে খাদ্যের পরিমাণ"
+            },
+            {
+                "english": "The body weight of an individual",
+                "nativeLanguage": "একজন ব্যক্তির শরীরের ওজন"
+            },
+            {
+                "english": "How much time passes between drinks",
+                "nativeLanguage": "পানি কত সময় পার হয়"
+            },
+            {
+                "english": "All three choices",
+                "nativeLanguage": "সকল তিনটি পছন্দ"
+            }
+        ],
+        "answer": {
+            "english": "All three choices",
+            "nativeLanguage": "সকল তিনটি পছন্দ"
+        }
+    },
+    {
+        "question": {
+            "english": "If you drink alcohol socially, what helps ensure safe driving?",
+            "nativeLanguage": "আপনি সামাজিকভাবে মদ পান তাহলে কী নিরাপদ গাড়ি চালানোর নিশ্চিত করে?"
+        },
+        "options": [
+            {
+                "english": "Drink coffee before driving",
+                "nativeLanguage": "ড্রাইভ করার আগে কফি পান"
+            },
+            {
+                "english": "Ride home with a friend who has not been drinking",
+                "nativeLanguage": "পান করা বন্ধুর সাথে বাড়ি ভ্রমণ করুন যে যারা পান করেননি"
+            },
+            {
+                "english": "Take a cold shower before driving",
+                "nativeLanguage": "ড্রাইভ করার আগে একটি ঠাণ্ডা সাওয়ার নিন"
+            },
+            {
+                "english": "Stop drinking one half hour before driving",
+                "nativeLanguage": "ড্রাইভিং এক অর্ধ ঘন্টা আগে পান বন্ধ করুন"
+            }
+        ],
+        "answer": {
+            "english": "Ride home with a friend who has not been drinking",
+            "nativeLanguage": "পান করা বন্ধুর সাথে বাড়ি ভ্রমণ করুন যে যারা পান করেননি"
+        }
+    },
+    {
+        "question": {
+            "english": "Which of the following statements is true about BAC (blood alcohol content)?",
+            "nativeLanguage": "BAC (রক্ত এলকোহল পরিমাণ) সম্পর্কে নিম্নলিখিত কোনটি সত্য?"
+        },
+        "options": [
+            {
+                "english": "The \"breathalyzer\" is a test of a person's BAC",
+                "nativeLanguage": "\"ব্রেথালাইজার\" একটি ব্যক্তির BAC পরীক্ষা"
+            },
+            {
+                "english": "A chemical test for BAC is needed for an alcohol conviction",
+                "nativeLanguage": "এলকোহল নিচ্ছিতের জন্য BAC এর জন্য রাসায়নিক পরীক্ষা প্রয়োজন"
+            },
+            {
+                "english": "BAC levels are reduced by a person's physical fitness",
+                "nativeLanguage": "ব্যক্তির শারীরিক মান দ্বারা BAC পর্যাপ্তি হ্রাস"
+            },
+            {
+                "english": "After drinking, coffee or a cold shower will lower your BAC",
+                "nativeLanguage": "পান করার পরে, কফি বা একটি ঠান্ডা সাওয়ার আপনার BAC কমাবে"
+            }
+        ],
+        "answer": {
+            "english": "A chemical test for BAC is needed for an alcohol conviction",
+            "nativeLanguage": "এলকোহল নিচ্ছিতের জন্য BAC এর জন্য রাসায়নিক পরীক্ষা প্রয়োজন"
+        }
+    }
+]

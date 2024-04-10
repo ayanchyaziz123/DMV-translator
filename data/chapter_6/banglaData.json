@@ -1,0 +1,227 @@
+[
+    {
+      "question": {
+        "english": "You are driving in the middle lane on a three-lane expressway.  A car begins to pass you on the right.  The actions of that driver are:",
+        "nativeLanguage": "আপনি একটি তিন লেন এক্সপ্রেসওয়েতে মধ্য লেনে গাড়ি চালাচ্ছেন। একটি গাড়ি আপনার ডান পাশে আপনার পাশে পার করতে শুরু করে। ঐ চালকের কার্যকলাপগুলি কি:"
+      },
+      "options": [
+        {
+          "english": "Wrong because \"pass on the left\" is a firm rule",
+          "nativeLanguage": "\"বামে পার করা\" একটি নিশ্চিত নিয়ম তারাতারি"
+        },
+        {
+          "english": "Wrong because he's passing you in your \"blind spot\"",
+          "nativeLanguage": "ভুল কারণ এটি আপনার \"অন্ধবিশ্বাস\" এ আপনাকে অতিক্রম করছে"
+        },
+        {
+          "english": "OK as long as he does it on a limited access highway",
+          "nativeLanguage": "সময় যখন তিনি সীমাবদ্ধ অ্যাক্সেস হাইওয়ে এটি করে তবে ঠিক"
+        },
+        {
+          "english": "OK if no signs forbid passing on the right",
+          "nativeLanguage": "ঠিক যদি কোনও চিহ্ন ডানদিকে অতিক্রম করা নিষিদ্ধ না করে"
+        }
+      ],
+      "answer": {
+        "english": "OK if no signs forbid passing on the right",
+        "nativeLanguage": "ঠিক যদি কোনও চিহ্ন ডানদিকে অতিক্রম করা নিষিদ্ধ না করে"
+      }
+    },
+    {
+      "question": {
+        "english": "After you have passed a car you should return to the right lane when you:",
+        "nativeLanguage": "আপনি একটি গাড়ি অতিক্রম করে পরে আপনার কোথায় ফিরতে হবে:"
+      },
+      "options": [
+        {
+          "english": "See the front bumper of the other car in your mirror",
+          "nativeLanguage": "আপনার দর্শকে অন্য গাড়ির সামনের বাম্পার দেখুন"
+        },
+        {
+          "english": "Have put your turn signal on",
+          "nativeLanguage": "আপনি আপনার টার্ন সিগন্যাল নিয়েছেন"
+        },
+        {
+          "english": "Have turned your headlights on",
+          "nativeLanguage": "আপনি আপনার হেডলাইট চালু করেছেন"
+        },
+        {
+          "english": "See the other car's headlights come on",
+          "nativeLanguage": "অন্য গাড়ির হেডলাইট আনলে দেখুন"
+        }
+      ],
+      "answer": {
+        "english": "See the front bumper of the other car in your mirror",
+        "nativeLanguage": "আপনার দর্শকে অন্য গাড়ির সামনের বাম্পার দেখুন"
+      }
+    },
+    {
+      "question": {
+        "english": "When you want to overtake and pass another vehicle you should:",
+        "nativeLanguage": "আপনি আরো একটি গাড়ি অতিক্রম করতে এবং অতিক্রম করতে চান যখন আপনি করবেন:"
+      },
+      "options": [
+        {
+          "english": "Wait for a signal from the other driver",
+          "nativeLanguage": "অন্য চালকের সিগনালের জন্য অপেক্ষা করুন"
+        },
+        {
+          "english": "Change lanes quickly so the other driver will see you",
+          "nativeLanguage": "দ্রুত লেন পরিবর্তন করুন যাতে অন্য ড্রাইভার আপনাকে দেখে"
+        },
+        {
+          "english": "Signal and pass when safe to do so",
+          "nativeLanguage": "নিরাপদ হতে যখন সিগনাল দিন এবং অতিক্রম করুন"
+        },
+        {
+          "english": "Stay close behind so you need less time to pass",
+          "nativeLanguage": "যত আসন্ন সম্ভব থাকুন যাতে অতিক্রম করার জন্য আপনাকে কম সময় লাগে"
+        }
+      ],
+      "answer": {
+        "english": "Signal and pass when safe to do so",
+        "nativeLanguage": "নিরাপদ হতে যখন সিগনাল দিন এবং অতিক্রম করুন"
+      }
+    },
+    {
+      "question": {
+        "english": "You may pass another vehicle on the right if it is waiting to:",
+        "nativeLanguage": "আপনি অন্য একটি গাড়ি অতিক্রম করতে পারেন যদি এটি অপেক্ষা করছে:"
+      },
+      "options": [
+        {
+          "english": "Turn right",
+          "nativeLanguage": "ডান দিকে মোড়"
+        },
+        {
+          "english": "Turn left",
+          "nativeLanguage": "বাম দিকে মোড়"
+        },
+        {
+          "english": "Park at the curb",
+          "nativeLanguage": "বায়ের বাঁধ করুন"
+        },
+        {
+          "english": "Turn into a driveway on the right",
+          "nativeLanguage": "ডানদিকে একটি ড্রাইভওয়ে মোড়"
+        }
+      ],
+      "answer": {
+        "english": "Turn right",
+        "nativeLanguage": "ডান দিকে মোড়"
+      }
+    },
+    {
+        "question": {
+          "english": "In general, you should pass vehicles going in the same direction you are going:",
+          "nativeLanguage": "সাধারণত, আপনি যে দিকে যাচ্ছেন তার সাথে যে গাড়িগুলি যাচ্ছে আপনি উত্তরদান করতে হবে:"
+        },
+        "options": [
+          {
+            "english": "On the right",
+            "nativeLanguage": "ডানদিকে"
+          },
+          {
+            "english": "On the left",
+            "nativeLanguage": "বাম দিকে"
+          },
+          {
+            "english": "Only if the other driver signals it is safe",
+            "nativeLanguage": "শুধুমাত্র যদি অন্য চালক সিগনাল করে যে এটি নিরাপদ"
+          },
+          {
+            "english": "Whenever you have the opportunity to do so",
+            "nativeLanguage": "আপনি যখন সেই সুযোগ পান"
+          }
+        ],
+        "answer": {
+          "english": "On the left",
+          "nativeLanguage": "বাম দিকে"
+        }
+      },
+      {
+        "question": {
+          "english": "The car behind you begins to pass you.  You should:",
+          "nativeLanguage": "আপনার পিছনের গাড়ি আপনার অতিক্রম করতে শুরু করে। আপনাকে কি করতে হবে:"
+        },
+        "options": [
+          {
+            "english": "Maintain your speed so traffic will flow smoothly",
+            "nativeLanguage": "আপনার গতি বজায় রাখুন যাতে যাতায়াত সমান ভাবে চলতে থাকে"
+          },
+          {
+            "english": "Pull to the right and stop so he can pass",
+            "nativeLanguage": "ডানদিকে টেনে নিন এবং থামান তাতে উনি অতিক্রম করতে পারেন"
+          },
+          {
+            "english": "Slow down slightly and stay in your lane",
+            "nativeLanguage": "সামান্য ধীরে চলুন এবং আপনার লেনে থাকুন"
+          },
+          {
+            "english": "Blow your horn to allow him to pass",
+            "nativeLanguage": "তার অতিক্রম করার অনুমতি দিতে তাকে হর্ন বাজান"
+          }
+        ],
+        "answer": {
+          "english": "Slow down slightly and stay in your lane",
+          "nativeLanguage": "সামান্য ধীরে চলুন এবং আপনার লেনে থাকুন"
+        }
+      },
+      {
+        "question": {
+          "english": "In which of the following situations is passing always forbidden?",
+          "nativeLanguage": "নিম্নলিখিত কোনটি সবসময় অতিক্রম করা নিষিদ্ধ?"
+        },
+        "options": [
+          {
+            "english": "The vehicle ahead is making a left turn",
+            "nativeLanguage": "অগ্রগামী গাড়ি বামে মোড় নেয়"
+          },
+          {
+            "english": "You are on a one-way street which has two lanes",
+            "nativeLanguage": "আপনি একটি একদিকের রাস্তা যেটি দুটি লেন আছে"
+          },
+          {
+            "english": "The vehicle ahead is stopped for a pedestrian in a crosswalk",
+            "nativeLanguage": "অগ্রগামী গাড়ি দ্বারিক এক চেহারা জন বাঁচা জন্য বন্ধ হয়েছে"
+          },
+          {
+            "english": "The vehicle ahead is going to park parallel to the curb",
+            "nativeLanguage": "অগ্রগামী গাড়ি বাঁধের সাথে সমমূল্যে পার্ক করতে যাচ্ছে"
+          }
+        ],
+        "answer": {
+          "english": "The vehicle ahead is making a left turn",
+          "nativeLanguage": "অগ্রগামী গাড়ি বামে মোড় নেয়"
+        }
+      },
+      {
+        "question": {
+          "english": "What does it mean when a school bus is stopped and its red lights are flashing?",
+          "nativeLanguage": "একটি স্কুল বাস থামানো এবং এর লাল আলো আলো করে ফ্ল্যাশ হলে তা কী অর্থ?"
+        },
+        "options": [
+          {
+            "english": "You may pass if no children are on the road",
+            "nativeLanguage": "কোনও শিশু রাস্তায় না থাকলে আপনি অতিক্রম করতে পারেন"
+          },
+          {
+            "english": "You may not pass while the red lights are flashing",
+            "nativeLanguage": "লাল আলো ফ্ল্যাশ করছে সময় আপনি অতিক্রম করতে পারেন না"
+          },
+          {
+            "english": "You may pass if you are facing the front of the bus",
+            "nativeLanguage": "আপনি যদি বাসের সামনে দেখছেন তবে আপনি অতিক্রম করতে পারেন"
+          },
+          {
+            "english": "You may pass if it is on the other side of a divided highway",
+            "nativeLanguage": "যদি এটি একটি বিভক্ত হাইওয়ের অন্য দিকে থাকে তবে আপনি অতিক্রম করতে পারেন"
+          }
+        ],
+        "answer": {
+          "english": "You may not pass while the red lights are flashing",
+          "nativeLanguage": "লাল আলো ফ্ল্যাশ করছে সময় আপনি অতিক্রম করতে পারেন না"
+        }
+      }
+  ]
+  
