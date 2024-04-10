@@ -1,59 +1,534 @@
 [
-    {
+  {
       "question": {
-        "english": "You may not cross a single broken white (or yellow) line:",
-        "nativeLanguage": "आप एक एकल टूटी हुई सफेद (या पीली) रेखा पार नहीं कर सकते:"
+          "english": "You may not cross a single broken white (or yellow) line:",
+          "nativeLanguage": "आप एक अकेली टूटी हुई सफेद (या पीली) लाइन को पार नहीं कर सकते:"
       },
       "options": [
-        {
+          {
+              "english": "When to do so would interfere with traffic",
+              "nativeLanguage": "जब ऐसा करने से ट्रैफिक में बाधा आए"
+          },
+          {
+              "english": "When turning left into a driveway",
+              "nativeLanguage": "जब किसी ड्राइववे में बाएँ मुड़ते समय"
+          },
+          {
+              "english": "When the car in front is disabled",
+              "nativeLanguage": "जब सामने वाली कार अक्षम हो"
+          },
+          {
+              "english": "When passing to the right on a one-way street",
+              "nativeLanguage": "जब एकतरफा सड़क पर दाएँ से ओवरटेक करते समय"
+          }
+      ],
+      "answer": {
           "english": "When to do so would interfere with traffic",
-          "nativeLanguage": "जब ऐसा करना यातायात में आधारित हो"
-        },
-        {
-          "english": "When turning left into a driveway",
-          "nativeLanguage": "जब ड्राइववे में बायां मोड़ कर रहें हो"
-        },
-        {
-          "english": "When the car in front is disabled",
-          "nativeLanguage": "जब सामने वाली कार अक्षम हो"
-        },
-        {
-          "english": "When passing to the right on a one-way street",
-          "nativeLanguage": "एक-मार्गी रास्ते पर दाईं ओर से अतिक्रमण करते समय"
-        }
-      ],
-      "answer": {
-        "english": "When to do so would interfere with traffic",
-        "nativeLanguage": "जब ऐसा करना यातायात में आधारित हो"
+          "nativeLanguage": "जब ऐसा करने से ट्रैफिक में बाधा आए"
       }
-    },
-    {
+  },
+  {
       "question": {
-        "english": "What are the colors of the warning signs that indicate hazards ahead, such as curves in the road or narrow bridges?",
-        "nativeLanguage": "सड़क में मोड़ों या संकीर्ण पुलों जैसे हाज़रात के लिए सूचना देने वाले चेतावनी संकेतों के रंग क्या होते हैं?"
+          "english": "What are the colors of the warning signs that indicate hazards ahead, such as curves in the road or narrow bridges?",
+          "nativeLanguage": "आगे खतरे को इंगित करने वाले चेतावनी संकेतों के रंग क्या हैं, जैसे कि सड़क में मोड़ या संकरे पुल?"
       },
       "options": [
-        {
-          "english": "Black letters or symbols on a white background",
-          "nativeLanguage": "सादा पृष्ठभूमि पर काले अक्षर या प्रतीक"
-        },
-        {
-          "english": "Black letters or symbols on a yellow background",
-          "nativeLanguage": "पीले पृष्ठभूमि पर काले अक्षर या प्रतीक"
-        },
-        {
-          "english": "White letters or symbols on a blue background",
-          "nativeLanguage": "नीले पृष्ठभूमि पर सफेद अक्षर या प्रतीक"
-        },
-        {
-          "english": "White letters or symbols on a green background",
-          "nativeLanguage": "हरे पृष्ठभूमि पर सफेद अक्षर या प्रतीक"
-        }
+          {
+              "english": "Black letters or symbols on a white background",
+              "nativeLanguage": "सफेद पृष्ठभूमि पर काले अक्षर या प्रतीक"
+          },
+          {
+              "english": "Black letters or symbols on a yellow background",
+              "nativeLanguage": "पीली पृष्ठभूमि पर काले अक्षर या प्रतीक"
+          },
+          {
+              "english": "White letters or symbols on a blue background",
+              "nativeLanguage": "नीली पृष्ठभूमि पर सफेद अक्षर या प्रतीक"
+          },
+          {
+              "english": "White letters or symbols on a green background",
+              "nativeLanguage": "हरी पृष्ठभूमि पर सफेद अक्षर या प्रतीक"
+          }
       ],
       "answer": {
-        "english": "Black letters or symbols on a yellow background",
-        "nativeLanguage": "पीले पृष्ठभूमि पर काले अक्षर या प्रतीक"
+          "english": "Black letters or symbols on a yellow background",
+          "nativeLanguage": "पीली पृष्ठभूमि पर काले अक्षर या प्रतीक"
       }
+  },
+  {
+      "question": {
+          "english": "What are the colors of a sign which tells you the distance to the next exit of a highway?",
+          "nativeLanguage": "एक हाईवे के अगले निकास तक की दूरी बताने वाले संकेत के रंग क्या हैं?"
+      },
+      "options": [
+          {
+              "english": "Yellow with black letters",
+              "nativeLanguage": "काले अक्षरों के साथ पीला"
+          },
+          {
+              "english": "Black with white letters",
+              "nativeLanguage": "सफेद अक्षरों के साथ काला"
+          },
+          {
+              "english": "Red with white letters",
+              "nativeLanguage": "सफेद अक्षरों के साथ लाल"
+          },
+          {
+              "english": "Green with white letters",
+              "nativeLanguage": "सफेद अक्षरों के साथ हरा"
+          }
+      ],
+      "answer": {
+          "english": "Yellow with black letters",
+          "nativeLanguage": "काले अक्षरों के साथ पीला"
+      }
+  },
+  {
+      "question": {
+          "english": "A red and white triangular sign at an intersection means:",
+          "nativeLanguage": "एक चौराहे पर लाल और सफेद त्रिकोणीय संकेत का क्या अर्थ है?"
+      },
+      "options": [
+          {
+              "english": "Always come to a full stop at the intersection",
+              "nativeLanguage": "चौराहे पर हमेशा पूरी तरह से रुकें"
+          },
+          {
+              "english": "Slow down and be prepared to stop if necessary",
+              "nativeLanguage": "धीमा करें और आवश्यकता पड़ने पर रुकने के लिए तैयार रहें"
+          },
+          {
+              "english": "Slow down if an emergency vehicle is approaching",
+              "nativeLanguage": "अगर कोई आपातकालीन वाहन आ रहा हो तो धीमा करें"
+          },
+          {
+              "english": "Look both ways as you cross the intersection",
+              "nativeLanguage": "चौराहे को पार करते समय दोनों ओर देखें"
+          }
+      ],
+      "answer": {
+          "english": "Slow down and be prepared to stop if necessary",
+          "nativeLanguage": "धीमा करें और आवश्यकता पड़ने पर रुकने के लिए तैयार रहें"
+      }
+  },
+  {
+    "question": {
+      "english": "A diamond-shaped sign is a:",
+      "nativeLanguage": "एक डायमंड आकार का साइन है:"
+    },
+    "options": [
+      {
+        "english": "Road hazard sign",
+        "nativeLanguage": "सड़क का खतरा संकेत"
+      },
+      {
+        "english": "Interstate route site",
+        "nativeLanguage": "इंटरस्टेट रूट साइट"
+      },
+      {
+        "english": "School crossing sign",
+        "nativeLanguage": "स्कूल क्रॉसिंग साइन"
+      },
+      {
+        "english": "Speed limit sign",
+        "nativeLanguage": "गति सीमा संकेत"
+      }
+    ],
+    "answer": {
+      "english": "Road hazard sign",
+      "nativeLanguage": "सड़क का खतरा संकेत"
     }
-  ]
-  
+  },
+  {
+    "question": {
+      "english": "A solid white line on the right edge of the highway slants in toward your left.  This shows that:",
+      "nativeLanguage": "महासड़क के दाहिने किनारे पर एक स्थिर सफेद रेखा आपके बाएं की ओर झुकती है। यह दिखाता है कि:"
+    },
+    "options": [
+      {
+        "english": "There is an intersection just ahead",
+        "nativeLanguage": "बस आगे एक चौराहा है"
+      },
+      {
+        "english": "You are approaching a construction area",
+        "nativeLanguage": "आप निर्माण क्षेत्र की ओर बढ़ रहे हैं"
+      },
+      {
+        "english": "You will be required to turn left just ahead",
+        "nativeLanguage": "आपको बस आगे बाएं मुड़ने की आवश्यकता है"
+      },
+      {
+        "english": "The road will get narrower",
+        "nativeLanguage": "सड़क और संकीर्ण हो जाएगी"
+      }
+    ],
+    "answer": {
+      "english": "The road will get narrower",
+      "nativeLanguage": "सड़क और संकीर्ण हो जाएगी"
+    }
+  },
+  {
+    "question": {
+      "english": "When the road is marked with a solid yellow line and a broken yellow line on your side you may pass:",
+      "nativeLanguage": "जब सड़क आपकी ओर एक सॉलिड पीली रेखा और एक टूटी हुई पीली रेखा के साथ चिह्नित होती है, तो आप पास कर सकते हैं:"
+    },
+    "options": [
+      {
+        "english": "Only in an emergency",
+        "nativeLanguage": "केवल आपातकालीन स्थिति में"
+      },
+      {
+        "english": "If you are on an expressway",
+        "nativeLanguage": "यदि आप एक एक्सप्रेसवे पर हैं"
+      },
+      {
+        "english": "If traffic is clear",
+        "nativeLanguage": "यदि यातायात स्पष्ट है"
+      },
+      {
+        "english": "Only at an intersection",
+        "nativeLanguage": "केवल एक चौराहे पर"
+      }
+    ],
+    "answer": {
+      "english": "If traffic is clear",
+      "nativeLanguage": "यदि यातायात स्पष्ट है"
+    }
+  },
+  {
+    "question": {
+      "english": "What does a flashing yellow light mean?",
+      "nativeLanguage": "फ्लैशिंग पीला रोशनी का क्या अर्थ है?"
+    },
+    "options": [
+      {
+        "english": "Merging traffic",
+        "nativeLanguage": "ट्रैफिक को मर्ज करना"
+      },
+      {
+        "english": "Proceed with caution",
+        "nativeLanguage": "सतर्कता के साथ आगे बढ़ें"
+      },
+      {
+        "english": "Pedestrian crossing",
+        "nativeLanguage": "पैदल यात्री की पारस्थिति"
+      },
+      {
+        "english": "Come to a full stop",
+        "nativeLanguage": "पूर्ण रूप से रुकें"
+      }
+    ],
+    "answer": {
+      "english": "Proceed with caution",
+      "nativeLanguage": "सतर्कता के साथ आगे बढ़ें"
+    }
+  },
+  {
+    "question": {
+      "english": "Which of the following must you obey over the other three?",
+      "nativeLanguage": "निम्नलिखित तीनों के मध्य में आपको किसे आज्ञा माननी चाहिए?"
+    },
+    "options": [
+      {
+        "english": "A steady red light",
+        "nativeLanguage": "एक स्थिर लाल रोशनी"
+      },
+      {
+        "english": "A police officer",
+        "nativeLanguage": "एक पुलिस अधिकारी"
+      },
+      {
+        "english": "A stop sign",
+        "nativeLanguage": "एक रुको संकेत"
+      },
+      {
+        "english": "A flashing red light",
+        "nativeLanguage": "एक फ्लैशिंग लाल रोशनी"
+      }
+    ],
+    "answer": {
+      "english": "A police officer",
+      "nativeLanguage": "एक पुलिस अधिकारी"
+    }
+  },
+  {
+    "question": {
+        "english": "You come to an intersection which has a flashing red light. You should:",
+        "nativeLanguage": "आप एक ऐसे संचार क्रम पर आते हैं जिसमें एक फ्लैशिंग लाल लाइट है। आपको क्या करना चाहिए:"
+    },
+    "options": [
+        {
+            "english": "Come to a full stop, then go when safe to do so",
+            "nativeLanguage": "पूरी रूकावट के साथ आएं, फिर जब सुरक्षित हो तो जाएं"
+        },
+        {
+            "english": "Stop only if cars are approaching the intersection",
+            "nativeLanguage": "केवल यदि गाड़ियां संचार क्रम के पास आ रही हैं, तो रुकें"
+        },
+        {
+            "english": "Stop only if cars are already in the intersection",
+            "nativeLanguage": "केवल यदि गाड़ियां पहले से ही संचार क्रम में हैं, तो रुकें"
+        },
+        {
+            "english": "Slow down and be prepared to stop if necessary",
+            "nativeLanguage": "आवश्यक होने पर हल्का करें और रुकने के लिए तैयार रहें"
+        }
+    ],
+    "answer": {
+        "english": "Come to a full stop, then go when safe to do so",
+        "nativeLanguage": "पूरी रूकावट के साथ आएं, फिर जब सुरक्षित हो तो जाएं"
+    }
+},
+{
+    "question": {
+        "english": "You may cross a double solid yellow line:",
+        "nativeLanguage": "आप एक डबल मजबूत पीली रेखा को पार कर सकते हैं:"
+    },
+    "options": [
+        {
+            "english": "To pass a slow-moving truck",
+            "nativeLanguage": "धीरे चलने वाले ट्रक को पार करने के लिए"
+        },
+        {
+            "english": "To turn into a driveway",
+            "nativeLanguage": "एक ड्राइववे में मोड़ने के लिए"
+        },
+        {
+            "english": "To pass a car if traffic permits",
+            "nativeLanguage": "यदि यातायात की अनुमति हो तो गाड़ी को पार करने के लिए"
+        },
+        {
+            "english": "Under no conditions",
+            "nativeLanguage": "किसी भी स्थिति में नहीं"
+        }
+    ],
+    "answer": {
+        "english": "Under no conditions",
+        "nativeLanguage": "किसी भी स्थिति में नहीं"
+    }
+},
+{
+    "question": {
+        "english": "What does this road sign mean?",
+        "nativeLanguage": "यह सड़क साइन क्या मतलब है?"
+    },
+    "options": [
+        {
+            "english": "Slow down and prepare to stop only if cars are approaching you",
+            "nativeLanguage": "केवल यदि गाड़ियां आपकी ओर आ रही हैं तो धीरे चलें और रुकने के लिए तैयार रहें"
+        },
+        {
+            "english": "Come to a full stop, then go when it is safe to do so",
+            "nativeLanguage": "पूरी रूकावट के साथ आएं, फिर जब सुरक्षित हो तो जाएं"
+        },
+        {
+            "english": "Proceed carefully through the intersection, not always stopping",
+            "nativeLanguage": "संचार क्रम के माध्यम से सावधानीपूर्वक आगे बढ़ें, हमेशा रुके नहीं"
+        },
+        {
+            "english": "Stop only for traffic on an intersecting road",
+            "nativeLanguage": "एक इंटरसेक्टिंग सड़क पर ट्रैफिक के लिए केवल रुकें"
+        }
+    ],
+    "answer": {
+        "english": "Come to a full stop, then go when it is safe to do so",
+        "nativeLanguage": "पूरी रूकावट के साथ आएं, फिर जब सुरक्षित हो तो जाएं"
+    }
+},
+{
+    "question": {
+        "english": "Which of the following is used on some highways to direct drivers into the proper lanes for turning?",
+        "nativeLanguage": "निम्नलिखित में से कौन-सा महासड़कों पर कुछ ड्राइवर्स को मोड़ने के लिए उपयुक्त लेनों में निर्देशित करने के लिए प्रयुक्त होता है?"
+    },
+    "options": [
+        {
+            "english": "Flashing red lights",
+            "nativeLanguage": "फ्लैशिंग लाल लाइट्स"
+        },
+        {
+            "english": "Flashing yellow lights",
+            "nativeLanguage": "फ्लैशिंग पीली लाइट्स"
+        },
+        {
+            "english": "White lines on the side of the road",
+            "nativeLanguage": "सड़क के किनारे पर सफेद रेखाएँ"
+        },
+        {
+            "english": "White arrows in the middle of the lanes",
+            "nativeLanguage": "लेन के बीच सफेद तीर"
+        }
+    ],
+    "answer": {
+        "english": "White arrows in the middle of the lanes",
+        "nativeLanguage": "लेन के बीच सफेद तीर"
+    }
+},
+{
+    "question": {
+        "english": "An intersection has a stop sign and a crosswalk, but no stop line. You must stop:",
+        "nativeLanguage": "एक संचार क्रम में एक स्टॉप साइन और एक क्रॉसवॉक है, लेकिन कोई थाम लाइन नहीं है। आपको रुकना होगा:"
+    },
+    "options": [
+        {
+            "english": "Before the crosswalk",
+            "nativeLanguage": "क्रॉसवॉक से पहले"
+        },
+        {
+            "english": "50 feet before the intersection",
+            "nativeLanguage": "संचार क्रम से 50 फीट पहले"
+        },
+        {
+            "english": "Where you think the stop line would be",
+            "nativeLanguage": "जहां आपको लगता है कि स्टॉप लाइन होगी"
+        },
+        {
+            "english": "With your front wheels in the crosswalk",
+            "nativeLanguage": "अपने सामने के पहियों के साथ क्रॉसवॉक में"
+        }
+    ],
+    "answer": {
+        "english": "Before the crosswalk",
+        "nativeLanguage": "क्रॉसवॉक से पहले"
+    }
+},
+{
+    "question": {
+        "english": "You may cross a single solid white line in the highway:",
+        "nativeLanguage": "आप महासड़क पर एक एकल मजबूत सफेद रेखा को पार कर सकते हैं:"
+    },
+    "options": [
+        {
+            "english": "Whenever you want to",
+            "nativeLanguage": "जब भी आप चाहें"
+        },
+        {
+            "english": "If traffic conditions require",
+            "nativeLanguage": "यदि यातायात की स्थिति की आवश्यकता हो"
+        },
+        {
+            "english": "Only to turn into a driveway",
+            "nativeLanguage": "केवल एक ड्राइववे में मोड़ने के लिए"
+        },
+        {
+            "english": "Only to make a u-turn",
+            "nativeLanguage": "केवल एक यू-टर्न बनाने के लिए"
+        }
+    ],
+    "answer": {
+        "english": "If traffic conditions require",
+        "nativeLanguage": "यदि यातायात की स्थिति की आवश्यकता हो"
+    }
+},
+{
+    "question": {
+        "english": "A traffic light which has a green arrow and a red light means that:",
+        "nativeLanguage": "एक ट्रैफिक लाइट जिसमें हरा तीर और लाल रोशनी होती है, इसका मतलब है कि:"
+    },
+    "options": [
+        {
+            "english": "You may only drive straight ahead",
+            "nativeLanguage": "आप केवल सीधे आगे चल सकते हैं"
+        },
+        {
+            "english": "You may drive only in the direction of the green arrow",
+            "nativeLanguage": "आप केवल हरे तीर की दिशा में ही गाड़ी चला सकते हैं"
+        },
+        {
+            "english": "You must wait for a green light",
+            "nativeLanguage": "आपको हरे रोशनी का इंतजार करना होगा"
+        },
+        {
+            "english": "Vehicles moving in any direction must stop",
+            "nativeLanguage": "किसी भी दिशा में चलने वाली गाड़ियों को रुकना होगा"
+        }
+    ],
+    "answer": {
+        "english": "You may drive only in the direction of the green arrow",
+        "nativeLanguage": "आप केवल हरे तीर की दिशा में ही गाड़ी चला सकते हैं"
+    }
+},
+{
+    "question": {
+        "english": "As you near an intersection, the traffic light changes from green to yellow. Your best action would be to:",
+        "nativeLanguage": "जब आप एक संचार क्रम के पास आते हैं, तो यातायात लाइट हरे से पीले में बदल जाती है। आपका सबसे अच्छा कार्य होगा:"
+    },
+    "options": [
+        {
+            "english": "Speed up to beat the red light",
+            "nativeLanguage": "लाल रोशनी को हराने के लिए गति बढ़ाएँ"
+        },
+        {
+            "english": "Apply the brakes sharply to stop",
+            "nativeLanguage": "रोकने के लिए तेजी से ब्रेक लगाएं"
+        },
+        {
+            "english": "Be prepared to stop in the center of the intersection",
+            "nativeLanguage": "संचार क्रम के केंद्र में रुकने के लिए तैयार रहें"
+        },
+        {
+            "english": "Be prepared to stop before the intersection",
+            "nativeLanguage": "संचार क्रम से पहले रुकने के लिए तैयार रहें"
+        }
+    ],
+    "answer": {
+        "english": "Be prepared to stop before the intersection",
+        "nativeLanguage": "संचार क्रम से पहले रुकने के लिए तैयार रहें"
+    }
+},
+{
+    "question": {
+        "english": "A rectangular-shaped sign is a:",
+        "nativeLanguage": "एक आयताकार साइन एक है:"
+    },
+    "options": [
+        {
+            "english": "Railroad crossing sign",
+            "nativeLanguage": "रेलवे पार करने की संकेत"
+        },
+        {
+            "english": "School crossing sign",
+            "nativeLanguage": "स्कूल क्रॉसिंग साइन"
+        },
+        {
+            "english": "Stop sign",
+            "nativeLanguage": "रुको संकेत"
+        },
+        {
+            "english": "Speed limit sign",
+            "nativeLanguage": "गति सीमा संकेत"
+        }
+    ],
+    "answer": {
+        "english": "Speed limit sign",
+        "nativeLanguage": "गति सीमा संकेत"
+    }
+},
+{
+    "question": {
+        "english": "Which of the following is used on some highways to direct drivers into the proper lanes for turning?",
+        "nativeLanguage": "निम्नलिखित में से कौन-सा उन महासड़कों पर प्रयोग किया जाता है जो ड्राइवरों को मोड़ने के लिए उचित लेन में दिशा-निर्देशित करने के लिए?"
+    },
+    "options": [
+        {
+            "english": "Flashing red lights",
+            "nativeLanguage": "महीन लाल लाइट्स"
+        },
+        {
+            "english": "Flashing yellow lights",
+            "nativeLanguage": "महीन पीला लाइट्स"
+        },
+        {
+            "english": "White lines on the side of the road",
+            "nativeLanguage": "सड़क के किनारे पर सफेद रेखाएँ"
+        },
+        {
+            "english": "White arrows in the middle of the lanes",
+            "nativeLanguage": "लेन के बीच सफेद तीर"
+        }
+    ],
+    "answer": {
+        "english": "White arrows in the middle of the lanes",
+        "nativeLanguage": "लेन के बीच सफेद तीर"
+    }
+}
+]

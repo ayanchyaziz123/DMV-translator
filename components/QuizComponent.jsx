@@ -35,8 +35,8 @@ const QuizComponent = ({quizData}) => {
   const totalQuestions = quizData.length;
 
   return (
-    <div className="container mx-auto py-3 sm:py-6 px-2 sm:px-4">
-  <div className="bg-white p-4 sm:p-8 rounded-lg shadow-md">
+    <div className="mx-auto py-3 sm:py-6 px-2 sm:px-4">
+  <div className="p-4 sm:p-8 rounded-lg">
         {showScore ? (
           <div className="text-center">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">Quiz Completed!</h2>
@@ -64,8 +64,7 @@ const QuizComponent = ({quizData}) => {
           <>
             {quizData.map((question, index) => (
               <div key={index} className="mb-6">
-                <h2 className="text-2xl font-bold text-gray-800 mb-2">Question {index + 1}</h2>
-                <p className="text-lg text-gray-800 mb-2">{question.question.english}</p>
+                <p className="text-lg text-gray-800 mb-2">{index + 1}. {question.question.english}</p>
                 <p className="text-lg text-gray-800 mb-2">{question.question.nativeLanguage}</p>
                 <form className="ml-2 grid gap-2">
                   {question.options.map((option, optionIndex) => (

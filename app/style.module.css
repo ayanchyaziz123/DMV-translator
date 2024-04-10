@@ -6,12 +6,16 @@
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #282c34;
   }
   
   .title {
     color: #61dafb;
-    margin: 20px 0;
+    margin: 15px;
+    font-size: xx-large;
+  }
+
+.description {
+  margin: 15px;
   }
   
   .quizWrapper {
@@ -31,7 +35,7 @@
 
 @media (max-width: 768px) {
     .quizWrapper {
-      width: 90%;
+      width: 95%;
       padding: 0;
     }
   }

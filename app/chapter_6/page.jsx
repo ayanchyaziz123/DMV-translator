@@ -1,8 +1,8 @@
 "use client";
 import React, { Suspense } from 'react';
 import QuizComponent from '../../components/QuizComponent';
-import banglaData from '../../data/chapter_5/banglaData';
-import hindiData from '../../data/chapter_5/hindiData';
+import banglaData from '../../data/chapter_6/banglaData';
+import hindiData from '../../data/chapter_4/hindiData';
 import { useSearchParams } from 'next/navigation'; // Correct import
 import styles from '../style.module.css';
 import Navbar from '@/components/Navbar';
@@ -15,7 +15,7 @@ const Data = () => {
     <>
     <Navbar/>
     <div className={styles.container}>
-      <h1 className={styles.title}>Chapter 5</h1>
+      <h1 className={styles.title}>Chapter 6</h1>
      
         {language === "bangla" ? (
           <div className={styles.quizWrapper}>
@@ -33,7 +33,7 @@ const Data = () => {
   );
 };
 
-const Chapter_5 = () =>{
+const Chapter_6 = () =>{
     return(
         <Suspense>
         <Data />
@@ -41,4 +41,4 @@ const Chapter_5 = () =>{
     )
 }
 
-export default Chapter_5;
+export default Chapter_6;

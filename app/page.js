@@ -1,6 +1,9 @@
+'use client'
 import React from 'react';
 import Link from 'next/link';
 import Head from 'next/head';
+import Navbar from '@/components/Navbar';
+
 
 
 const chapters = [
@@ -19,6 +22,8 @@ const chapters = [
 
 const HomePage = () => {
   return (
+    <>
+    <Navbar/>
     <div className="container mx-auto p-8">
       <Head>
         <title>DMV translator</title>
@@ -60,6 +65,7 @@ const HomePage = () => {
         </table>
       </div>
     </div>
+    </>
   );
 };
 

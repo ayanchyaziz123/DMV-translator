@@ -1,0 +1,394 @@
+[
+    {
+        "question": {
+            "english": "The driver's left arm and hand are extended downward. This hand signal means that the driver plans to:",
+            "nativeLanguage": "चालक का बाएं हाथ और हाथ नीचे की ओर बढ़ाया गया है। यह हाथ का संकेत यह मतलब है कि चालक की योजना है:"
+        },
+        "options": [
+            {
+                "english": "Turn left",
+                "nativeLanguage": "बाएं मुड़ें"
+            },
+            {
+                "english": "Turn right",
+                "nativeLanguage": "दाएं मुड़ें"
+            },
+            {
+                "english": "Stop",
+                "nativeLanguage": "रुकें"
+            },
+            {
+                "english": "Start up",
+                "nativeLanguage": "शुरू करें"
+            }
+        ],
+        "answer": {
+            "english": "Turn left",
+            "nativeLanguage": "बाएं मुड़ें"
+        }
+    },
+    {
+        "question": {
+            "english": "When two vehicles enter an intersection from different highways at the same time, which vehicle must yield the right-of-way?",
+            "nativeLanguage": "जब एक समय में दो वाहन विभिन्न महासड़कों से एक संचार क्रम में प्रवेश करते हैं, तो कौन सा वाहन अधिकार को यात्रा करना चाहिए?"
+        },
+        "options": [
+            {
+                "english": "Either one",
+                "nativeLanguage": "कोई भी एक"
+            },
+            {
+                "english": "Vehicle on the left",
+                "nativeLanguage": "बाएं ओर का वाहन"
+            },
+            {
+                "english": "Vehicle on the right",
+                "nativeLanguage": "दाएं ओर का वाहन"
+            },
+            {
+                "english": "Neither one",
+                "nativeLanguage": "कोई नहीं"
+            }
+        ],
+        "answer": {
+            "english": "Either one",
+            "nativeLanguage": "कोई भी एक"
+        }
+    },
+    {
+        "question": {
+            "english": "What should you do when you are going to enter a roadway from a private road?",
+            "nativeLanguage": "जब आप एक निजी सड़क से सड़क में प्रवेश करने जा रहे हों, तो आपको क्या करना चाहिए?"
+        },
+        "options": [
+            {
+                "english": "Blow your horn to warn cars you are entering the roadway",
+                "nativeLanguage": "गाड़ियों को चेतावनी देने के लिए अपने सींग बजाएं कि आप सड़क में प्रवेश कर रहे हैं"
+            },
+            {
+                "english": "Stop with part of the car on the roadway to warn other drivers",
+                "nativeLanguage": "अन्य ड्राइवरों को चेतावनी देने के लिए सड़क पर गाड़ी का एक हिस्सा रोकें"
+            },
+            {
+                "english": "Drive out fast to merge smoothly with the traffic",
+                "nativeLanguage": "ट्रैफिक के साथ सरलता से मिलान के लिए तेजी से बाहर निकलें"
+            },
+            {
+                "english": "Yield the right-of-way to pedestrians and roadway traffic",
+                "nativeLanguage": "पदचारियों और सड़क परिवहन को अधिकार छोड़ दें"
+            }
+        ],
+        "answer": {
+            "english": "Yield the right-of-way to pedestrians and roadway traffic",
+            "nativeLanguage": "पदचारियों और सड़क परिवहन को अधिकार छोड़ दें"
+        }
+    },
+    {
+        "question": {
+            "english": "You drive along a street and hear a siren. You cannot immediately see the emergency vehicle. You should:",
+            "nativeLanguage": "आप एक सड़क के साथ ड्राइव कर रहे हैं और एक सायरेन सुनते हैं। आप तुरंत आपातकालीन वाहन नहीं देख सकते। आपको क्या करना चाहिए:"
+        },
+        "options": [
+            {
+                "english": "Keep driving until you see the vehicle",
+                "nativeLanguage": "जब तक आप वाहन नहीं देखते हैं, गाड़ी चलाते रहें"
+            },
+            {
+                "english": "Pull to the curb and look to see if it is on your street",
+                "nativeLanguage": "फुटपाथ पर खींचें और देखें कि क्या यह आपकी सड़क पर है"
+            },
+            {
+                "english": "Slow down but don't stop until you see it",
+                "nativeLanguage": "धीरे चलें लेकिन आप इसे नहीं देखते हैं तब तक न रुकें"
+            },
+            {
+                "english": "Speed up and turn at the next intersection",
+                "nativeLanguage": "गति बढ़ाएं और अगले चौराहे पर मोड़ें"
+            }
+        ],
+        "answer": {
+            "english": "Pull to the curb and look to see if it is on your street",
+            "nativeLanguage": "फुटपाथ पर खींचें और देखें कि क्या यह आपकी सड़क पर है"
+        }
+    },
+    {
+        "question": {
+            "english": "You have the right of way when you are:",
+            "nativeLanguage": "आपके पास अधिकार है जब आप हैं:"
+        },
+        "options": [
+            {
+                "english": "Entering a traffic circle",
+                "nativeLanguage": "एक यातायात वृत्त में प्रवेश कर रहे हैं"
+            },
+            {
+                "english": "Backing out of a driveway",
+                "nativeLanguage": "एक ड्राइववे से पिछले जा रहे हैं"
+            },
+            {
+                "english": "Leaving a parking space",
+                "nativeLanguage": "एक पार्किंग स्थान छोड़ रहे हैं"
+            },
+            {
+                "english": "Already in a traffic circle",
+                "nativeLanguage": "पहले से ही एक यातायात वृत्त में"
+            }
+        ],
+        "answer": {
+            "english": "Already in a traffic circle",
+            "nativeLanguage": "पहले से ही एक यातायात वृत्त में"
+        }
+    },
+    {
+        "question": {
+            "english": "When you want to make a right turn, your car must be:",
+            "nativeLanguage": "जब आप दाहिनी मोड़ना चाहते हैं, तो आपकी कार होनी चाहिए:"
+        },
+        "options": [
+            {
+                "english": "Near the center of the street",
+                "nativeLanguage": "सड़क के केंद्र के पास"
+            },
+            {
+                "english": "Close to the left side of the street",
+                "nativeLanguage": "सड़क के बाईं ओर के कारीब"
+            },
+            {
+                "english": "Close to the right side of the street",
+                "nativeLanguage": "सड़क के दाईं ओर के कारीब"
+            },
+            {
+                "english": "Past the center of the intersection when you begin to turn",
+                "nativeLanguage": "जब आप मोड़ना शुरू करते हैं, तो चौराहे के केंद्र को पार करें"
+            }
+        ],
+        "answer": {
+            "english": "Close to the right side of the street",
+            "nativeLanguage": "सड़क के दाईं ओर के कारीब"
+        }
+    },
+    {
+        "question": {
+            "english": "You come to an intersection which is blocked by other traffic. You should:",
+            "nativeLanguage": "आप एक चौराहे पर आते हैं जो अन्य यातायात द्वारा अवरुद्ध है। आपको क्या करना चाहिए:"
+        },
+        "options": [
+            {
+                "english": "Go slowly until the traffic ahead moves",
+                "nativeLanguage": "आगे के यातायात की चलने तक धीरे जाएं"
+            },
+            {
+                "english": "Get as close as possible to the other car",
+                "nativeLanguage": "अन्य कार के पास संभवतः ज्यादा नजदीक जाएं"
+            },
+            {
+                "english": "Stay out of the intersection until you can pass through",
+                "nativeLanguage": "जब तक आप चुक सकते हैं, तब तक चौराहे से बाहर रहें"
+            },
+            {
+                "english": "Sound your horn to make the cars move up",
+                "nativeLanguage": "गाड़ी आगे बढ़ने के लिए अपनी सींग बजाएं"
+            }
+        ],
+        "answer": {
+            "english": "Stay out of the intersection until you can pass through",
+            "nativeLanguage": "जब तक आप चुक सकते हैं, तब तक चौराहे से बाहर रहें"
+        }
+    },
+    {
+        "question": {
+            "english": "left hand upThe driver's left hand and arm are extended upward.  This hand signal means that the driver plans to:",
+            "nativeLanguage": "ड्राइवर के बाएं हाथ और बाहु ऊपर की ओर बढ़ाए गए हैं। यह हाथ का संकेत यह बताता है कि ड्राइवर का क्या इरादा है:"
+        },
+        "options": [
+            {
+                "english": "Turn left",
+                "nativeLanguage": "बाएं मोड़ें"
+            },
+            {
+                "english": "Turn right",
+                "nativeLanguage": "दाहिनी ओर मोड़ें"
+            },
+            {
+                "english": "Come to a stop",
+                "nativeLanguage": "रुकना"
+            },
+            {
+                "english": "Go straight ahead",
+                "nativeLanguage": "सीधे आगे बढ़ें"
+            }
+        ],
+        "answer": {
+            "english": "Turn left",
+            "nativeLanguage": "बाएं मोड़ें"
+        }
+    },
+    {
+        "question": {
+            "english": "You must pull over and stop for:",
+            "nativeLanguage": "आपको नीचे के लिए खींचना चाहिए और रोकना होगा:"
+        },
+        "options": [
+            {
+                "english": "Vehicles that display blue, green or amber lights",
+                "nativeLanguage": "नीले, हरे या अम्बर रंग के प्रकाश प्रदर्शित करने वाली गाड़ियां"
+            },
+            {
+                "english": "Authorized emergency vehicles responding to emergencies",
+                "nativeLanguage": "आपातकालीन आपातकाल में प्रतिक्रिया देने वाली अधिकृत आपातकालीन गाड़ियों"
+            },
+            {
+                "english": "A hazard vehicle that is parked, stopped or standing on any part of the highway",
+                "nativeLanguage": "किसी भी राजमार्ग के किसी भी हिस्से पर पार्क, रुका या खड़ी एक खतरनाक गाड़ी"
+            },
+            {
+                "english": "Stopped or standing school buses",
+                "nativeLanguage": "रुके या खड़े स्कूल बसें"
+            }
+        ],
+        "answer": {
+            "english": "Authorized emergency vehicles responding to emergencies",
+            "nativeLanguage": "आपातकालीन आपातकाल में प्रतिक्रिया देने वाली अधिकृत आपातकालीन गाड़ियों"
+        }
+    },
+    {
+        "question": {
+            "english": "You want to turn left at an intersection.  The light is green but oncoming traffic is heavy.  You should:",
+            "nativeLanguage": "आप चौराहे पर बायां मोड़ना चाहते हैं। प्रकाश हरा है लेकिन आगे का यातायात भारी है। आपको क्या करना चाहिए:"
+        },
+        "options": [
+            {
+                "english": "Use the next intersection",
+                "nativeLanguage": "अगले चौराहे का उपयोग करें"
+            },
+            {
+                "english": "Wait at the crosswalk for traffic to clear",
+                "nativeLanguage": "यातायात को स्पष्ट करने के लिए पारसी में प्रतीक्षा करें"
+            },
+            {
+                "english": "Wait in the center of the intersection for traffic to clear",
+                "nativeLanguage": "यातायात को स्पष्ट करने के लिए चौराहे के केंद्र में प्रतीक्षा करें"
+            },
+            {
+                "english": "Take the right-of-way since you have the light",
+                "nativeLanguage": "आपके पास प्रकाश है तो आप हक का अधिकार है"
+            }
+        ],
+        "answer": {
+            "english": "Wait at the crosswalk for traffic to clear",
+            "nativeLanguage": "यातायात को स्पष्ट करने के लिए पारसी में प्रतीक्षा करें"
+        }
+    },
+    {
+        "question": {
+            "english": "You must yield the right-of-way to an approaching vehicle when you are:",
+            "nativeLanguage": "आपको जब आप हों तब एक आपातकालीन वाहन के लिए अधिकार है:"
+        },
+        "options": [
+            {
+                "english": "Already in a traffic circle",
+                "nativeLanguage": "पहले से ही एक यातायात वृत्त में"
+            },
+            {
+                "english": "Already in an intersection",
+                "nativeLanguage": "पहले से ही एक संधि में"
+            },
+            {
+                "english": "Going straight ahead",
+                "nativeLanguage": "सीधे आगे बढ़ें"
+            },
+            {
+                "english": "Turning left",
+                "nativeLanguage": "बाईं ओर मोड़ना"
+            }
+        ],
+        "answer": {
+            "english": "Turning left",
+            "nativeLanguage": "बाईं ओर मोड़ना"
+        }
+    },
+    {
+        "question": {
+            "english": "You want to turn right at the next intersection.  You should begin to use your turn signal:",
+            "nativeLanguage": "आप अगले चौराहे पर दाहिने मोड़ना चाहते हैं। आपको अपने मोड़ने के संकेत का उपयोग करना चाहिए:"
+        },
+        "options": [
+            {
+                "english": "At least 50 feet before the turn",
+                "nativeLanguage": "मोड़ से कम से कम 50 फीट"
+            },
+            {
+                "english": "When you reach the intersection",
+                "nativeLanguage": "जब आप चौराहे तक पहुँचें"
+            },
+            {
+                "english": "At least 100 feet before you turn",
+                "nativeLanguage": "आप मोड़ते हैं तो कम से कम 100 फीट"
+            },
+            {
+                "english": "As soon as you see cars behind you",
+                "nativeLanguage": "जैसे ही आप पीछे गाड़ियों को देखते हैं"
+            }
+        ],
+        "answer": {
+            "english": "At least 100 feet before you turn",
+            "nativeLanguage": "आप मोड़ते हैं तो कम से कम 100 फीट"
+        }
+    },
+    {
+        "question": {
+            "english": "You come to an intersection which is blocked by other traffic.  You should:",
+            "nativeLanguage": "आप किसी चौराहे पर आते हैं जो अन्य यातायात के द्वारा ब्लॉक है। तो आपको क्या करना चाहिए:"
+        },
+        "options": [
+            {
+                "english": "Go slowly until the traffic ahead moves",
+                "nativeLanguage": "आगे का यातायात जब तक धीरे चलें"
+            },
+            {
+                "english": "Get as close as possible to the other car",
+                "nativeLanguage": "अन्य गाड़ी के पास संभव हो तब तक जाएँ"
+            },
+            {
+                "english": "Stay out of the intersection until you can pass through",
+                "nativeLanguage": "आप जब तक चौराहे से बाहर निकल सकते हैं"
+            },
+            {
+                "english": "Sound your horn to make the cars move up",
+                "nativeLanguage": "गाड़ियों को आगे बढ़ने के लिए अपनी सींग बजाएँ"
+            }
+        ],
+        "answer": {
+            "english": "Stay out of the intersection until you can pass through",
+            "nativeLanguage": "आप जब तक चौराहे से बाहर निकल सकते हैं"
+        }
+    },
+    {
+        "question": {
+            "english": "You are making a left turn away from a two-way street into a one-way street.  When you have completed the turn your car should be:",
+            "nativeLanguage": "आप एक दो-मार्गी सड़क से एक एकमार्गी सड़क में बाएं मोड़ने जा रहे हैं। जब आप मोड़ पूरा कर लेते हैं तो आपकी गाड़ी होनी चाहिए:"
+        },
+        "options": [
+            {
+                "english": "In the right lane of the street",
+                "nativeLanguage": "सड़क के दाहिने लेन में"
+            },
+            {
+                "english": "In the center of the street",
+                "nativeLanguage": "सड़क के केंद्र में"
+            },
+            {
+                "english": "In the left lane of the street",
+                "nativeLanguage": "सड़क के बाएँ लेन में"
+            },
+            {
+                "english": "In the lane with the least traffic",
+                "nativeLanguage": "सबसे कम यातायात वाले लेन में"
+            }
+        ],
+        "answer": {
+            "english": "In the right lane of the street",
+            "nativeLanguage": "सड़क के दाहिने लेन में"
+        }
+    }
+]
