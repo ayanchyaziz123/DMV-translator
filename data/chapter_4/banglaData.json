@@ -1,5 +1,6 @@
+
 [
-    {
+    { 
       "question": {
         "english": "You may not cross a single broken white (or yellow) line:",
         "nativeLanguage": "আপনি একটি একক ভাঙ্গা সাদা (বা হলুদ) লাইন অতিক্রম করতে পারবেন না:"
@@ -308,6 +309,7 @@
     }
   },
   {
+    "image": "images/stopsign.png",
     "question": {
       "english": "What does this road sign mean?",
       "nativeLanguage": "এই সড়ক সাইন কী অর্থ?"

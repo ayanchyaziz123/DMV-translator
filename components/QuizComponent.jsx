@@ -64,6 +64,9 @@ const QuizComponent = ({quizData}) => {
           <>
             {quizData.map((question, index) => (
               <div key={index} className="mb-6">
+                {question.image && (
+    <img src={question.image} alt={`Question ${index + 1}`} className="mb-2" />
+  )}
                 <p className="text-lg text-gray-800 mb-2">{index + 1}. {question.question.english}</p>
                 <p className="text-lg text-gray-800 mb-2">{question.question.nativeLanguage}</p>
                 <form className="ml-2 grid gap-2">

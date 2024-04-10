@@ -6,6 +6,8 @@ import Navbar from '@/components/Navbar';
 
 
 
+
+
 const chapters = [
   { chapter: 4, title: 'Traffic Control', hasQuiz: true, href: '/chapter_4' },
   { chapter: 5, title: 'Intersections and Turns', hasQuiz: true, href: '/chapter_5' },
