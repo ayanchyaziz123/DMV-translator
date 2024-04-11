@@ -19,8 +19,8 @@ export default function Navbar() {
 
             {/* Primary Nav - Hidden on mobile, shown on md and larger screens */}
             <div className="hidden md:flex items-center space-x-1">
-              <Link href="/services">
-                <div className="py-5 px-3 cursor-pointer hover:text-gray-400">Services</div>
+                <Link href="/mock_test">
+                <div className="py-5 px-3 cursor-pointer hover:text-gray-400">Mock Test</div>
               </Link>
               <Link href="/about">
                 <div className="py-5 px-3 cursor-pointer hover:text-gray-400">About</div>
@@ -39,8 +39,8 @@ export default function Navbar() {
         {/* Mobile Menu - Toggle visibility based on isMobileMenuOpen state */}
         <div className={`md:hidden ${isMobileMenuOpen ? 'block' : 'hidden'}`}>
           <div className="py-2 px-4 text-sm hover:bg-gray-700 cursor-pointer" onClick={() => setIsMobileMenuOpen(false)}>
-            <Link href="/services">
-              <span>Services</span>
+            <Link href="/mock_test">
+              <span>Mock Test</span>
             </Link>
           </div>
           <div className="py-2 px-4 text-sm hover:bg-gray-700 cursor-pointer" onClick={() => setIsMobileMenuOpen(false)}>

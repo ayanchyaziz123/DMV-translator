@@ -6,39 +6,22 @@ const AboutPage = () => {
   return (
     <>
       <Navbar />
-      <div className="bg-gray-50 min-h-screen flex flex-col justify-center">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="bg-white shadow overflow-hidden sm:rounded-lg">
-            <div className="px-4 py-5 sm:px-6">
-              <h1 className="text-3xl leading-6 font-medium text-gray-900">About Me</h1>
-              <p className="mt-1 max-w-2xl text-sm text-gray-500">Personal details and experience.</p>
-            </div>
-            <div className="border-t border-gray-200">
-              <dl>
-                <div className="bg-gray-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-                  <dt className="text-sm font-medium text-gray-500">Name</dt>
-                  <dd className="mt-1 text-sm text-gray-900 sm:col-span-2 sm:mt-0">Rahman, Azizur Ayan</dd>
-                </div>
-                <div className="bg-white px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-                  <dt className="text-sm font-medium text-gray-500">Location</dt>
-                  <dd className="mt-1 text-sm text-gray-900 sm:col-span-2">New York City</dd>
-                </div>
-                <div className="bg-gray-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-                  <dt className="text-sm font-medium text-gray-500">Interests</dt>
-                  <dd className="mt-1 text-sm text-gray-900 sm:col-span-2">Web development, New Technologies</dd>
-                </div>
-                <div className="bg-white px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-                  <dt className="text-sm font-medium text-gray-500">Hobbies</dt>
-                  <dd className="mt-1 text-sm text-gray-900 sm:col-span-2">Coding, Reading, Spending time with friends and family</dd>
-                </div>
-                <div className="bg-gray-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-                  <dt className="text-sm font-medium text-gray-500">Education</dt>
-                  <dd className="mt-1 text-sm text-gray-900 sm:col-span-2">Master's in Computer Science, City University of New York</dd>
-                </div>
-              </dl>
-            </div>
-          </div>
-        </div>
+      <div className="bg-gray-50 min-h-screen flex flex-col justify-center items-center px-6">
+        <h1 className="text-3xl font-bold text-gray-800 mb-2">
+          About DMV Translator
+        </h1>
+        <p className="text-gray-700 max-w-2xl">
+          Welcome to DMV Translator, your ultimate companion in navigating the complexities of DMV services and requirements. Our platform is dedicated to making DMV information accessible and understandable for everyone, no matter where you come from or what language you speak.
+        </p>
+        <p className="text-gray-700 mt-4 max-w-2xl">
+          In a world that moves fast, we understand how important it is to have reliable, clear, and concise DMV information at your fingertips. Whether it's preparing for your driving test, understanding vehicle registration requirements, or simply translating DMV documents into your native language, DMV Translator is here to assist.
+        </p>
+        <p className="text-gray-700 mt-4 max-w-2xl">
+          Our mission is to bridge the language gap, providing a seamless and inclusive experience for all users. With our cutting-edge translation technology, comprehensive resources, and easy-to-navigate interface, we strive to empower you with the knowledge you need to tackle your DMV-related tasks with confidence.
+        </p>
+        <p className="text-gray-700 mt-4 max-w-2xl">
+          Explore our wide range of services and discover how we're transforming the way you interact with DMV information. Welcome to a hassle-free DMV experience, tailored just for you.
+        </p>
       </div>
     </>
   );

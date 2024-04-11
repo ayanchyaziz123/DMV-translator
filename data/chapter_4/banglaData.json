@@ -309,7 +309,7 @@
     }
   },
   {
-    "image": "images/stopsign.png",
+    "image": "stopsign.png",
     "question": {
       "english": "What does this road sign mean?",
       "nativeLanguage": "এই সড়ক সাইন কী অর্থ?"

@@ -3,6 +3,7 @@ import React, { Suspense } from 'react';
 import QuizComponent from '../../components/QuizComponent';
 import banglaData from '../../data/chapter_4/banglaData';
 import hindiData from '../../data/chapter_4/hindiData';
+import spanishData from '../../data/chapter_4/spanishData';
 import { useSearchParams } from 'next/navigation'; // Correct import
 import styles from '../style.module.css';
 import Navbar from '@/components/Navbar';
@@ -26,7 +27,11 @@ const Data = () => {
           <div className={styles.quizWrapper}>
             <QuizComponent quizData={hindiData} />
           </div>
-        ) : (
+        ) : language === "spanish" ? (
+          <div className={styles.quizWrapper}>
+            <QuizComponent quizData={spanishData} />
+          </div>
+        )  : (
           <p className={styles.errorMessage}>Content not found..!</p>
         )}
     </div>

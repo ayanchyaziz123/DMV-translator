@@ -1,0 +1,310 @@
+[
+  {
+    "question": {
+      "english": "You may not cross a single broken white (or yellow) line:",
+      "nativeLanguage": "No puede cruzar una sola línea blanca (o amarilla) quebrada:"
+    },
+    "options": [
+      {
+        "english": "When to do so would interfere with traffic",
+        "nativeLanguage": "Cuando hacerlo interferiría con el tráfico"
+      },
+      {
+        "english": "When turning left into a driveway",
+        "nativeLanguage": "Cuando gira a la izquierda hacia un camino de entrada"
+      },
+      {
+        "english": "When the car in front is disabled",
+        "nativeLanguage": "Cuando el automóvil de adelante está deshabilitado"
+      },
+      {
+        "english": "When passing to the right on a one-way street",
+        "nativeLanguage": "Cuando pasa a la derecha en una calle de un solo sentido"
+      }
+    ],
+    "answer": {
+      "english": "When to do so would interfere with traffic",
+      "nativeLanguage": "Cuando hacerlo interferiría con el tráfico"
+    }
+  },
+  {
+    "question": {
+      "english": "What are the colors of the warning signs that indicate hazards ahead, such as curves in the road or narrow bridges?",
+      "nativeLanguage": "¿Cuáles son los colores de las señales de advertencia que indican peligros adelante, como curvas en la carretera o puentes estrechos?"
+    },
+    "options": [
+      {
+        "english": "Black letters or symbols on a white background",
+        "nativeLanguage": "Letras negras o símbolos sobre fondo blanco"
+      },
+      {
+        "english": "Black letters or symbols on a yellow background",
+        "nativeLanguage": "Letras o símbolos negros sobre fondo amarillo"
+      },
+      {
+        "english": "White letters or symbols on a blue background",
+        "nativeLanguage": "Letras o símbolos blancos sobre fondo azul"
+      },
+      {
+        "english": "White letters or symbols on a green background",
+        "nativeLanguage": "Letras o símbolos blancos sobre fondo verde"
+      }
+    ],
+    "answer": {
+      "english": "Black letters or symbols on a yellow background",
+      "nativeLanguage": "Letras o símbolos negros sobre fondo amarillo"
+    }
+  },
+  {
+    "question": {
+      "english": "What are the colors of a sign which tells you the distance to the next exit of a highway?",
+      "nativeLanguage": "¿Cuáles son los colores de una señal que le indica la distancia hasta la próxima salida de una autopista?"
+    },
+    "options": [
+      {
+        "english": "Yellow with black letters",
+        "nativeLanguage": "Amarillo con letras negras"
+      },
+      {
+        "english": "Black with white letters",
+        "nativeLanguage": "Negro con letras blancas"
+      },
+      {
+        "english": "Red with white letters",
+        "nativeLanguage": "Rojo con letras blancas"
+      },
+      {
+        "english": "Green with white letters",
+        "nativeLanguage": "Verde con letras blancas"
+      }
+    ],
+    "answer": {
+      "english": "Yellow with black letters",
+      "nativeLanguage": "Amarillo con letras negras"
+    }
+  },
+  {
+    "question": {
+      "english": "A red and white triangular sign at an intersection means:",
+      "nativeLanguage": "Un letrero triangular rojo y blanco en una intersección significa:"
+    },
+    "options": [
+      {
+        "english": "Always come to a full stop at the intersection",
+        "nativeLanguage": "Siempre deténgase completamente en la intersección"
+      },
+      {
+        "english": "Slow down and be prepared to stop if necessary",
+        "nativeLanguage": "Reduzca la velocidad y esté preparado para detenerse si es necesario"
+      },
+      {
+        "english": "Slow down if an emergency vehicle is approaching",
+        "nativeLanguage": "Reduzca la velocidad si se acerca un vehículo de emergencia"
+      },
+      {
+        "english": "Look both ways as you cross the intersection",
+        "nativeLanguage": "Mire en ambas direcciones al cruzar la intersección"
+      }
+    ],
+    "answer": {
+      "english": "Slow down and be prepared to stop if necessary",
+      "nativeLanguage": "Reduzca la velocidad y esté preparado para detenerse si es necesario"
+    }
+  },
+  {
+    "question": {
+      "english": "A diamond-shaped sign is a:",
+      "nativeLanguage": "¿Qué significa una señal con forma de diamante?"
+    },
+    "options": [
+      {
+        "english": "Road hazard sign",
+        "nativeLanguage": "Señal de peligro en la carretera"
+      },
+      {
+        "english": "Interstate route site",
+        "nativeLanguage": "Sitio de ruta interestatal"
+      },
+      {
+        "english": "School crossing sign",
+        "nativeLanguage": "Señal de cruce escolar"
+      },
+      {
+        "english": "Speed limit sign",
+        "nativeLanguage": "Señal de límite de velocidad"
+      }
+    ],
+    "answer": {
+      "english": "Road hazard sign",
+      "nativeLanguage": "Señal de peligro en la carretera"
+    }
+  },
+  {
+    "question": {
+      "english": "A solid white line on the right edge of the highway slants in toward your left.  This shows that:",
+      "nativeLanguage": "Una línea blanca sólida en el borde derecho de la carretera se inclina hacia su izquierda. Esto muestra que:"
+    },
+    "options": [
+      {
+        "english": "There is an intersection just ahead",
+        "nativeLanguage": "Hay una intersección justo adelante"
+      },
+      {
+        "english": "You are approaching a construction area",
+        "nativeLanguage": "Se está acercando a un área de construcción"
+      },
+      {
+        "english": "You will be required to turn left just ahead",
+        "nativeLanguage": "Se le pedirá que gire a la izquierda justo adelante"
+      },
+      {
+        "english": "The road will get narrower",
+        "nativeLanguage": "La carretera se estrechará"
+      }
+    ],
+    "answer": {
+      "english": "The road will get narrower",
+      "nativeLanguage": "La carretera se estrechará"
+    }
+  },
+  {
+    "question": {
+      "english": "When the road is marked with a solid yellow line and a broken yellow line on your side you may pass:",
+      "nativeLanguage": "Cuando la carretera está marcada con una línea amarilla sólida y una línea amarilla discontinua en su lado, puede pasar:"
+    },
+    "options": [
+      {
+        "english": "Only in an emergency",
+        "nativeLanguage": "Solo en caso de emergencia"
+      },
+      {
+        "english": "If you are on an expressway",
+        "nativeLanguage": "Si está en una autopista"
+      },
+      {
+        "english": "If traffic is clear",
+        "nativeLanguage": "Si el tráfico está despejado"
+      },
+      {
+        "english": "Only at an intersection",
+        "nativeLanguage": "Solo en una intersección"
+      }
+    ],
+    "answer": {
+      "english": "If traffic is clear",
+      "nativeLanguage": "Si el tráfico está despejado"
+    }
+  },
+  {
+    "question": {
+      "english": "What does a flashing yellow light mean?",
+      "nativeLanguage": "¿Qué significa una luz amarilla intermitente?"
+    },
+    "options": [
+      {
+        "english": "Merging traffic",
+        "nativeLanguage": "Tráfico fusionándose"
+      },
+      {
+        "english": "Proceed with caution",
+        "nativeLanguage": "Proceda con precaución"
+      },
+      {
+        "english": "Pedestrian crossing",
+        "nativeLanguage": "Cruce de peatones"
+      },
+      {
+        "english": "Come to a full stop",
+        "nativeLanguage": "Detenerse completamente"
+      }
+    ],
+    "answer": {
+      "english": "Proceed with caution",
+      "nativeLanguage": "Proceda con precaución"
+    }
+  },
+  {
+    "question": {
+      "english": "Which of the following must you obey over the other three?",
+      "nativeLanguage": "¿Cuál de los siguientes debe obedecer sobre los otros tres?"
+    },
+    "options": [
+      {
+        "english": "A steady red light",
+        "nativeLanguage": "Una luz roja constante"
+      },
+      {
+        "english": "A police officer",
+        "nativeLanguage": "Un oficial de policía"
+      },
+      {
+        "english": "A stop sign",
+        "nativeLanguage": "Una señal de alto"
+      },
+      {
+        "english": "A flashing red light",
+        "nativeLanguage": "Una luz roja intermitente"
+      }
+    ],
+    "answer": {
+      "english": "A police officer",
+      "nativeLanguage": "Un oficial de policía"
+    }
+  },
+  {
+    "question": {
+      "english": "You come to an intersection which has a flashing red light.  You should:",
+      "nativeLanguage": "Usted llega a una intersección que tiene una luz roja intermitente. Debería:"
+    },
+    "options": [
+      {
+        "english": "Come to a full stop, then go when safe to do so",
+        "nativeLanguage": "Detenerse por completo y luego seguir cuando sea seguro hacerlo"
+      },
+      {
+        "english": "Stop only if cars are approaching the intersection",
+        "nativeLanguage": "Detenerse solo si los autos se acercan a la intersección"
+      },
+      {
+        "english": "Stop only if cars are already in the intersection",
+        "nativeLanguage": "Detenerse solo si los autos ya están en la intersección"
+      },
+      {
+        "english": "Slow down and be prepared to stop if necessary",
+        "nativeLanguage": "Reducir la velocidad y estar preparado para detenerse si es necesario"
+      }
+    ],
+    "answer": {
+      "english": "Come to a full stop, then go when safe to do so",
+      "nativeLanguage": "Detenerse por completo y luego seguir cuando sea seguro hacerlo"
+    }
+  },
+  {
+    "question": {
+      "english": "You may cross a double solid yellow line:",
+      "nativeLanguage": "Puede cruzar una línea amarilla doble sólida:"
+    },
+    "options": [
+      {
+        "english": "To pass a slow-moving truck",
+        "nativeLanguage": "Para adelantar un camión que se mueve lentamente"
+      },
+      {
+        "english": "To turn into a driveway",
+        "nativeLanguage": "Para girar hacia una entrada de vehículos"
+      },
+      {
+        "english": "To pass a car if traffic permits",
+        "nativeLanguage": "Para adelantar un automóvil si el tráfico lo permite"
+      },
+      {
+        "english": "Under no conditions",
+        "nativeLanguage": "En ninguna circunstancia"
+      }
+    ],
+    "answer": {
+      "english": "Under no conditions",
+      "nativeLanguage": "En ninguna circunstancia"
+    }
+  }
+]

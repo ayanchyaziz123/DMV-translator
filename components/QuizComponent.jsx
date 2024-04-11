@@ -1,8 +1,9 @@
 "use client";
 import { useState } from 'react';
+import Image from 'next/image';
 
 
-const QuizComponent = ({quizData}) => {
+const QuizComponent = ({ quizData }) => {
   const [score, setScore] = useState(0);
   const [showScore, setShowScore] = useState(false);
   const [selectedOptions, setSelectedOptions] = useState(Array(quizData.length).fill(null));
@@ -36,7 +37,7 @@ const QuizComponent = ({quizData}) => {
 
   return (
     <div className="mx-auto py-3 sm:py-6 px-2 sm:px-4">
-  <div className="p-4 sm:p-8 rounded-lg">
+      <div className="rounded-lg">
         {showScore ? (
           <div className="text-center">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">Quiz Completed!</h2>
@@ -64,11 +65,21 @@ const QuizComponent = ({quizData}) => {
           <>
             {quizData.map((question, index) => (
               <div key={index} className="mb-6">
-                {question.image && (
-    <img src={question.image} alt={`Question ${index + 1}`} className="mb-2" />
+                <div key={index} className="mb-6 flex items-center">
+  {question.image && (
+    <Image
+      src={`/images/${question.image}`}
+      width={50}
+      height={50}
+      alt="Picture"
+      className="mr-4"
+    />
   )}
-                <p className="text-lg text-gray-800 mb-2">{index + 1}. {question.question.english}</p>
-                <p className="text-lg text-gray-800 mb-2">{question.question.nativeLanguage}</p>
+  <div>
+    <p className="text-lg text-gray-800 mb-2">{index + 1}. {question.question.english}</p>
+    <p className="text-lg text-gray-800 mb-2">{question.question.nativeLanguage}</p>
+  </div>
+</div>
                 <form className="ml-2 grid gap-2">
                   {question.options.map((option, optionIndex) => (
                     <label key={optionIndex} className="">
@@ -83,9 +94,9 @@ const QuizComponent = ({quizData}) => {
                       />
                       <span className="ml-2 text-base sm:text-lg text-gray-800">{option.english}</span>
                       <span className="ml-2 text-sm text-gray-500 ">({option.nativeLanguage})</span>
-                      
-                      
-                      
+
+
+
                     </label>
                   ))}
                 </form>

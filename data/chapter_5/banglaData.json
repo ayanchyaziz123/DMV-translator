@@ -1,5 +1,6 @@
 [
     {
+      "image": "lefthanddown.png",
       "question": {
         "english": "The driver's left arm and hand are extended downward. This hand signal means that the driver plans to:",
         "nativeLanguage": "গাড়ির বাম হাত ও হাত নীচে নীচে ফেলে দেওয়া হয়েছে। এই হাতের সংকেত মানে গাড়ি চালক পরিকল্পনা করেন:"
@@ -196,6 +197,7 @@
         }
       },
       {
+        "image": "lefthandup.png",
         "question": {
           "english": "left hand upThe driver's left hand and arm are extended upward.  This hand signal means that the driver plans to:",
           "nativeLanguage": "ড্রাইভারের বাম হাত এবং বাহুগুলি উপরে বিস্তৃত আছে। এই হাতের সিগনালের অর্থ হল ড্রাইভার কী করার পরিকল্পনা করছেন:"

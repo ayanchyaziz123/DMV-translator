@@ -53,6 +53,9 @@ const HomePage = () => {
                         <Link href={`${chapter.href}?language=hindi`} passHref>
                           <span className="text-blue-500 hover:underline cursor-pointer">Hindi</span>
                         </Link>
+                        <Link href={`${chapter.href}?language=spanish`} passHref>
+                          <span className="text-blue-500 hover:underline cursor-pointer">Spanish</span>
+                        </Link>
                       </>
                     ) : (
                       <span className="text-gray-500">No quiz for this chapter</span>
