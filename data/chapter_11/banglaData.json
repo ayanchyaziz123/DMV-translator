@@ -1,0 +1,226 @@
+[
+    {
+        "question": {
+            "english": "Motorists should be aware that all bicycles used after dark must have:",
+            "nativeLanguage": "মোটরযানচালকদের অবগত হতে হবে যে সমস্ত বাইসাইকেল রাতের পরে ব্যবহৃত হওয়ার পরে আবশ্যিকভাবে থাকতে হবে:"
+        },
+        "options": [
+            {
+                "english": "Reflective handlebar grips",
+                "nativeLanguage": "প্রতিফলনযুক্ত হ্যান্ডলবার গ্রিপ"
+            },
+            {
+                "english": "A front headlight and red taillight",
+                "nativeLanguage": "একটি সামনের হেডলাইট এবং লাল পিছনের টেলাইট"
+            },
+            {
+                "english": "White reflectors on the front and rear fenders",
+                "nativeLanguage": "সামনে এবং পিছনের ফেন্ডারে সাদা প্রতিফলক"
+            },
+            {
+                "english": "Brake lights",
+                "nativeLanguage": "ব্রেক লাইট"
+            }
+        ],
+        "answer": {
+            "english": "A front headlight and red taillight",
+            "nativeLanguage": "একটি সামনের হেডলাইট এবং লাল পিছনের টেলাইট"
+        }
+    },
+    {
+        "question": {
+            "english": "What does a 'slow moving vehicle' emblem look like?",
+            "nativeLanguage": "'ধীরে চলার গাড়ি' চিহ্নটি কীভাবে দেখা যায়?"
+        },
+        "options": [
+            {
+                "english": "A square red sign",
+                "nativeLanguage": "একটি বর্গাকার লাল চিহ্ন"
+            },
+            {
+                "english": "A round green sign",
+                "nativeLanguage": "একটি গোলাকার সবুজ চিহ্ন"
+            },
+            {
+                "english": "A diamond-shaped yellow sign",
+                "nativeLanguage": "একটি হিরণ্যাকার হলুদ চিহ্ন"
+            },
+            {
+                "english": "A triangular orange sign",
+                "nativeLanguage": "একটি ত্রিভুজাকার কমলা চিহ্ন"
+            }
+        ],
+        "answer": {
+            "english": "A diamond-shaped yellow sign",
+            "nativeLanguage": "একটি হিরণ্যাকার হলুদ চিহ্ন"
+        }
+    },
+    {
+        "question": {
+            "english": "You want to back out of your driveway.  You see children playing nearby.  Before you start to move your car you should:",
+            "nativeLanguage": "আপনি আপনার ড্রাইভওয়ে পিছনে যেতে চান। আপনি অকার্যকর খেলা করা শিশুদের দেখতেন। আপনি যখন আপনার গাড়ি চালাতে শুরু করতেন তখন আপনাকে:"
+        },
+        "options": [
+            {
+                "english": "Race your motor to warn the children that you are moving",
+                "nativeLanguage": "শিশুদের সতর্ক করার জন্য আপনার মোটরটি দাঁড়ান"
+            },
+            {
+                "english": "Sound your horn so the children will hear you",
+                "nativeLanguage": "শিশুদের আপনাকে শুনতে শিঙ্গ করুন"
+            },
+            {
+                "english": "Walk to the back of the car to be sure the way is clear",
+                "nativeLanguage": "পথটি পরিষ্কার হলে নিশ্চিত হওয়ার জন্য গাড়ির পেছনে হাঁটুন"
+            },
+            {
+                "english": "Tell the children to stay away from the driveway",
+                "nativeLanguage": "বাড়িতে পরিসরে থাকার জন্য শিশুদের বলুন"
+            }
+        ],
+        "answer": {
+            "english": "Walk to the back of the car to be sure the way is clear",
+            "nativeLanguage": "পথটি পরিষ্কার হলে নিশ্চিত হওয়ার জন্য গাড়ির পেছনে হাঁটুন"
+        }
+    },
+    {
+        "question": {
+            "english": "A bicyclist differs from a motorist in that a bicyclist isn't required to:",
+            "nativeLanguage": "একটি বাইসাইকেল চালনাকারী একটি মোটরচালকের সাথে পার্থক্য কী হল যে একটি বাইসাইকেল চালনাকারীর কাছে প্রয়োজন নেই:"
+        },
+        "options": [
+            {
+                "english": "Obey the same traffic laws",
+                "nativeLanguage": "একই ট্রাফিক আইন মেনে চলা"
+            },
+            {
+                "english": "Signal all turns",
+                "nativeLanguage": "সমস্ত মোড়ের চিহ্ন দেওয়া"
+            },
+            {
+                "english": "Report accidents resulting in serious injury",
+                "nativeLanguage": "গম্ভীর আহতির কারণে দুর্ঘটনা রিপোর্ট করা"
+            },
+            {
+                "english": "Insure the bicycle",
+                "nativeLanguage": "বাইসাইকেলের জন্য আসুরান্স করা"
+            }
+        ],
+        "answer": {
+            "english": "Insure the bicycle",
+            "nativeLanguage": "বাইসাইকেলের জন্য আসুরান্স করা"
+        }
+    },
+    {
+        "question": {
+            "english": "A blind person legally has the right-of-way when crossing the street when:",
+            "nativeLanguage": "আইনত একজন অন্ধ ব্যক্তির ওপর পথ পার করতে হলে যখন:"
+        },
+        "options": [
+            {
+                "english": "Wearing light-colored clothing",
+                "nativeLanguage": "হালকা রঙের পোশাক পরে"
+            },
+            {
+                "english": "Led by a guide dog, or using a white or metallic cane",
+                "nativeLanguage": "গাইড ডগ দ্বারা নেতৃত্বিত বা সাদা বা ধাতুমুল্য ডাণ্ডা ব্যবহার করা হল"
+            },
+            {
+                "english": "Helped by another person",
+                "nativeLanguage": "অন্য ব্যক্তির সাহায্য পেয়ে"
+            },
+            {
+                "english": "Wearing dark-colored glasses",
+                "nativeLanguage": "গাঢ় রঙের চশমা পরে"
+            }
+        ],
+        "answer": {
+            "english": "Led by a guide dog, or using a white or metallic cane",
+            "nativeLanguage": "গাইড ডগ দ্বারা নেতৃত্বিত বা সাদা বা ধাতুমুল্য ডাণ্ডা ব্যবহার করা হল"
+        }
+    },
+    {
+        "question": {
+            "english": "A motorist should know that a bicyclist operating on a roadway must:",
+            "nativeLanguage": "একটি মোটরচালক জানা উচিত যে একটি বাইসাইকেল চালানোর জন্য একটি সড়কে অবস্থিত হতে হবে:"
+        },
+        "options": [
+            {
+                "english": "Ride on the right side of the road",
+                "nativeLanguage": "রাস্তার ডানদিকে চালান"
+            },
+            {
+                "english": "Ride on the side of the road facing traffic",
+                "nativeLanguage": "যানবাহনের প্রতি সড়কের পাশে চালান"
+            },
+            {
+                "english": "Ride on either side of the road",
+                "nativeLanguage": "রাস্তার দুইপাশে চালান"
+            },
+            {
+                "english": "Ride on the side of the road with the least traffic",
+                "nativeLanguage": "সবচেয়ে কম যানবাহন যে পাশে রাস্তা উপস্থিত"
+            }
+        ],
+        "answer": {
+            "english": "Ride on the side of the road facing traffic",
+            "nativeLanguage": "যানবাহনের প্রতি সড়কের পাশে চালান"
+        }
+    },
+    {
+        "question": {
+            "english": "On a road which has no sidewalks a pedestrian should walk on the:",
+            "nativeLanguage": "যে রাস্তাতে পেদেস্ট্রিয়ানের কোনও ফুটপাথ নেই তার উপর পেদচালক হওয়া উচিত:"
+        },
+        "options": [
+            {
+                "english": "Side of the road which has the lightest traffic",
+                "nativeLanguage": "যে পাশে রাস্তার সবচেয়ে কম যানবাহন"
+            },
+            {
+                "english": "Same side of the road in which traffic is moving",
+                "nativeLanguage": "যে পাশে যানবাহন চলছে"
+            },
+            {
+                "english": "Side of the road facing oncoming traffic",
+                "nativeLanguage": "যানবাহনের সামনে আসা ট্রাফিকের পাশে রাস্তা"
+            },
+            {
+                "english": "Side of the road which has the heaviest traffic",
+                "nativeLanguage": "যে পাশে রাস্তার সবচেয়ে বেশি যানবাহন"
+            }
+        ],
+        "answer": {
+            "english": "Side of the road facing oncoming traffic",
+            "nativeLanguage": "যানবাহনের সামনে আসা ট্রাফিকের পাশে রাস্তা"
+        }
+    },
+    {
+        "question": {
+            "english": "A motorist approaching a bicyclist should:",
+            "nativeLanguage": "একজন মোটরচালক যখন একজন বাইসাইকেল চালানো ব্যক্তির কাছে আসছে তখন:"
+        },
+        "options": [
+            {
+                "english": "Speed up to pass him",
+                "nativeLanguage": "পার হতে তার দ্রুত করুন"
+            },
+            {
+                "english": "Proceed as usual",
+                "nativeLanguage": "সাধারণভাবে চলাচল করুন"
+            },
+            {
+                "english": "Swerve into the opposite lane",
+                "nativeLanguage": "প্রতিবাদ লেনে মোড়ান"
+            },
+            {
+                "english": "Exercise extreme caution",
+                "nativeLanguage": "অত্যন্ত সতর্কতা অনুষ্ঠান করুন"
+            }
+        ],
+        "answer": {
+            "english": "Exercise extreme caution",
+            "nativeLanguage": "অত্যন্ত সতর্কতা অনুষ্ঠান করুন"
+        }
+    }
+]

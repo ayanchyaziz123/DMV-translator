@@ -13,7 +13,7 @@ export default function Navbar() {
             {/* Logo */}
             <Link href="/" className="flex items-center py-5 px-2 text-gray-200 hover:text-gray-400">
             
-                <span className="font-bold">DMV Translator</span>
+                <span className="font-bold">DMV Bangla</span>
               
             </Link>
 

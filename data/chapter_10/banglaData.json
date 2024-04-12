@@ -1,0 +1,591 @@
+[
+    {
+        "question": {
+            "english": "What vehicles must stop at all railroad crossings?",
+            "nativeLanguage": "সব রেলপথ ক্রসিংয়ে কোন যানবাহনগুলি থামতে হবে?"
+        },
+        "options": [
+            {
+                "english": "Pickup trucks",
+                "nativeLanguage": "পিকআপ ট্রাক"
+            },
+            {
+                "english": "School buses and passenger buses carrying passengers",
+                "nativeLanguage": "যাত্রীবাহী স্কুল বাস এবং যাত্রীবাহী বাস"
+            },
+            {
+                "english": "Motorcycles",
+                "nativeLanguage": "মোটরসাইকেল"
+            },
+            {
+                "english": "Vehicles towing a trailer",
+                "nativeLanguage": "ট্রেইলার টানা যানবাহন"
+            }
+        ],
+        "answer": {
+            "english": "School buses and passenger buses carrying passengers",
+            "nativeLanguage": "যাত্রীবাহী স্কুল বাস এবং যাত্রীবাহী বাস"
+        }
+    },
+    {
+        "question": {
+            "english": "If an approaching train is near enough or going fast enough to be a danger, you must:",
+            "nativeLanguage": "যদি একটি ট্রেন যথেষ্ট কাছে আসে অথবা বিপজ্জনকভাবে দ্রুত আসে, তাহলে আপনাকে:"
+        },
+        "options": [
+            {
+                "english": "Slow down and proceed with caution",
+                "nativeLanguage": "ধীরে ধীরে এবং সতর্কতার সাথে এগিয়ে যান"
+            },
+            {
+                "english": "Not cross the tracks until the train has completely passed",
+                "nativeLanguage": "ট্রেন সম্পূর্ণরূপে পার হওয়া পর্যন্ত ট্র্যাক পার হবেন না"
+            },
+            {
+                "english": "Cross the tracks at your own risk",
+                "nativeLanguage": "নিজের ঝুঁকিতে ট্র্যাক পার হন"
+            },
+            {
+                "english": "Find an alternative route across tracks",
+                "nativeLanguage": "ট্র্যাকের অন্য পথ খুঁজুন"
+            }
+        ],
+        "answer": {
+            "english": "Not cross the tracks until the train has completely passed",
+            "nativeLanguage": "ট্রেন সম্পূর্ণরূপে পার হওয়া পর্যন্ত ট্র্যাক পার হবেন না"
+        }
+    },
+    {
+        "question": {
+            "english": "When you drive in heavy fog during daylight hours you should drive with your:",
+            "nativeLanguage": "দিনের বেলায় ঘন কুয়াশায় গাড়ি চালানোর সময় আপনার কোন লাইট জ্বালাতে হবে?"
+        },
+        "options": [
+            {
+                "english": "Headlights off",
+                "nativeLanguage": "হেডলাইট বন্ধ"
+            },
+            {
+                "english": "Parking lights on",
+                "nativeLanguage": "পার্কিং লাইট জ্বালানো"
+            },
+            {
+                "english": "Headlights on low beam",
+                "nativeLanguage": "হেডলাইটের লো বিম জ্বালানো"
+            },
+            {
+                "english": "Headlights on high beam",
+                "nativeLanguage": "হেডলাইটের হাই বিম জ্বালানো"
+            }
+        ],
+        "answer": {
+            "english": "Headlights on low beam",
+            "nativeLanguage": "হেডলাইটের লো বিম জ্বালানো"
+        }
+    },
+    {
+        "question": {
+            "english": "When driving at night, it is most important for you to:",
+            "nativeLanguage": "রাতে গাড়ি চালানোর সময় আপনার জন্য সবচেয়ে জরুরি হল:"
+        },
+        "options": [
+            {
+                "english": "Use your high beams at all times",
+                "nativeLanguage": "সব সময় হাই বিম ব্যবহার করুন"
+            },
+            {
+                "english": "Drive within range of your headlights",
+                "nativeLanguage": "আপনার হেডলাইটের পরিসরের মধ্যে গাড়ি চালান"
+            },
+            {
+                "english": "Be ready to brake more quickly",
+                "nativeLanguage": "দ্রুত ব্রেক করার জন্য প্রস্তুত থাকুন"
+            },
+            {
+                "english": "Watch for cars at intersections",
+                "nativeLanguage": "চৌরাস্তায় গাড়ির দিকে খেয়াল রাখুন"
+            }
+        ],
+        "answer": {
+            "english": "Drive within range of your headlights",
+            "nativeLanguage": "আপনার হেডলাইটের পরিসরের মধ্যে গাড়ি চালান"
+        }
+    },
+    {
+        "image": "railroadcrossing.png",
+        "question": {
+            "english": "This sign is a warning that you are approaching:",
+            "nativeLanguage": "এই সাইনটি সতর্ক করে যে আপনি এগিয়ে আসছেন:"
+        },
+        "options": [
+            {
+                "english": "An intersection",
+                "nativeLanguage": "একটি চৌরাস্তা"
+            },
+            {
+                "english": "A crosswalk",
+                "nativeLanguage": "একটি পথচারী পারাপারের জায়গা"
+            },
+            {
+                "english": "A railroad crossing",
+                "nativeLanguage": "একটি রেলপথ ক্রসিং"
+            },
+            {
+                "english": "A blasting zone",
+                "nativeLanguage": "একটি বিস্ফোরণ এলাকা"
+            }
+        ],
+        "answer": {
+            "english": "A railroad crossing",
+            "nativeLanguage": "একটি রেলপথ ক্রসিং"
+        }
+    },
+    {
+        "question": {
+            "english": "Your car starts to skid on a slippery road. You should:",
+            "nativeLanguage": "আপনার গাড়ি স্লিপারি রাস্তায় স্কিড করছে। আপনাকে কি করতে হবে:"
+        },
+        "options": [
+            {
+                "english": "Brake quickly and keep the wheel straight",
+                "nativeLanguage": "দ্রুত ব্রেক করুন এবং চাকা সোজা রাখুন"
+            },
+            {
+                "english": "Lock your brakes until you have come to a complete stop",
+                "nativeLanguage": "পুরোপুরি থামতে না পর্যন্ত আপনার ব্রেক লক করুন"
+            },
+            {
+                "english": "Steer in the direction you want the front wheels to go",
+                "nativeLanguage": "আপনি যে দিকে সামনের চাকা যাত্রা করতে চান, সে দিকে স্টীয়ার করুন"
+            },
+            {
+                "english": "Steer toward the side of the road to get off the wet pavement",
+                "nativeLanguage": "নিম্নলিখিত পাথর থেকে সরে যাওয়ার জন্য রাস্তার পাশে স্টীয়ার করুন"
+            }
+        ],
+        "answer": {
+            "english": "Steer in the direction you want the front wheels to go",
+            "nativeLanguage": "আপনি যে দিকে সামনের চাকা যাত্রা করতে চান, সে দিকে স্টীয়ার করুন"
+        }
+    },
+    {
+        "question": {
+            "english": "Expressways have 'expressway entrance lanes' (acceleration lanes) so that drivers can:",
+            "nativeLanguage": "এক্সপ্রেসওয়েতে আপনারা 'এক্সপ্রেসওয়ে এন্ট্রান্স লেন' (ত্বরণ লেন) রয়েছে যাতে ড্রাইভাররা করতে পারেন:"
+        },
+        "options": [
+            {
+                "english": "Test their brakes before driving at expressway speeds",
+                "nativeLanguage": "এক্সপ্রেসওয়ে গতি দিয়ে গাড়ি চালানোর আগে তাদের ব্রেক পরীক্ষা করুন"
+            },
+            {
+                "english": "Stop at the end to wait for a traffic opening",
+                "nativeLanguage": "যাত্রা খোলার জন্য শেষে থামুন"
+            },
+            {
+                "english": "Reach the proper speed before blending with traffic",
+                "nativeLanguage": "যাত্রার সাথে মিশিত হওয়ার আগে উচিত গতি প্রাপ্ত করুন"
+            },
+            {
+                "english": "Test the pickup of their cars",
+                "nativeLanguage": "তাদের গাড়ির পিকাপ পরীক্ষা করুন"
+            }
+        ],
+        "answer": {
+            "english": "Reach the proper speed before blending with traffic",
+            "nativeLanguage": "যাত্রার সাথে মিশিত হওয়ার আগে উচিত গতি প্রাপ্ত করুন"
+        }
+    },
+    {
+        "question": {
+            "english": "When attempting to stop on a slippery road, the best action to take is:",
+            "nativeLanguage": "স্লিপারি রাস্তায় থামার চেষ্টা করার সময়, সেরা পদক্ষেপ কি?"
+        },
+        "options": [
+            {
+                "english": "Apply the brakes quickly and firmly",
+                "nativeLanguage": "দ্রুত এবং দৃঢ়ভাবে ব্রেক প্রয়োগ করুন"
+            },
+            {
+                "english": "Apply the brakes in slow, steady strokes",
+                "nativeLanguage": "ধীরে, স্থির হান্ডগুলি দ্বারা ব্রেক প্রয়োগ করুন"
+            },
+            {
+                "english": "Shift to a lower gear, do not use the brakes",
+                "nativeLanguage": "নিম্ন গিয়ারে সুইচ করুন, ব্রেক ব্যবহার করবেন না"
+            },
+            {
+                "english": "Shift into neutral, do not use the brakes",
+                "nativeLanguage": "নিউট্রালে শিফট করুন, ব্রেক ব্যবহার করবেন না"
+            }
+        ],
+        "answer": {
+            "english": "Apply the brakes in slow, steady strokes",
+            "nativeLanguage": "ধীরে, স্থির হান্ডগুলি দ্বারা ব্রেক প্রয়োগ করুন"
+        }
+    },
+    {
+        "question": {
+            "english": "When your right wheels run onto a soft shoulder, what is the best way to get back on the highway?",
+            "nativeLanguage": "আপনার ডান হুলকু নামানো সফট শোল্ডারে চলতে গেলে, হাইওয়ে ফিরে যেতের সবচেয়ে ভাল উপায় কি?"
+        },
+        "options": [
+            {
+                "english": "Apply the brakes firmly and steer gently to the left",
+                "nativeLanguage": "দৃঢ়ভাবে ব্রেক লাগানো এবং মাঝে মাঝে বাঁ দিকে স্টীয়ার করুন"
+            },
+            {
+                "english": "Ease your foot off the gas and brake gently",
+                "nativeLanguage": "আপনার পা থেকে গ্যাস হতে পা ফেলুন এবং মাঝে মাঝে ব্রেক দিন"
+            },
+            {
+                "english": "Steer hard to the left and then gently to the right",
+                "nativeLanguage": "বাঁ দিকে মাঝে মাঝে স্টীয়ার দিন এবং তারপর ধীরে ডান দিকে স্টীয়ার করুন"
+            },
+            {
+                "english": "Apply the brakes firmly and stop completely",
+                "nativeLanguage": "দৃঢ়ভাবে ব্রেক লাগানো এবং সম্পূর্ণরূপে থামুন"
+            }
+        ],
+        "answer": {
+            "english": "Ease your foot off the gas and brake gently",
+            "nativeLanguage": "আপনার পা থেকে গ্যাস হতে পা ফেলুন এবং মাঝে মাঝে ব্রেক দিন"
+        }
+    },
+    {
+        "question": {
+            "english": "When you get ready to leave an expressway, you should begin to use your turn signal:",
+            "nativeLanguage": "যখন আপনি একটি এক্সপ্রেসওয়ে ছেড়ে যাবার জন্য প্রস্তুত হন, তখন আপনাকে আপনার টার্ন সিগন্যাল ব্যবহার শুরু করতে হবে:"
+        },
+        "options": [
+            {
+                "english": "Just as you get to the exit ramp",
+                "nativeLanguage": "যখন আপনি এগুলি র‌্যাম্পে পৌঁছান"
+            },
+            {
+                "english": "50 feet before the exit ramp",
+                "nativeLanguage": "র‌্যাম্পের পূর্বে ৫০ ফুট"
+            },
+            {
+                "english": "100 feet before the exit ramp",
+                "nativeLanguage": "র‌্যাম্পের পূর্বে ১০০ ফুট"
+            },
+            {
+                "english": "When you see cars behind you in the exit lane",
+                "nativeLanguage": "র‌্যাম্পের পিছনে গাড়ি দেখতে থাকলে"
+            }
+        ],
+        "answer": {
+            "english": "100 feet before the exit ramp",
+            "nativeLanguage": "র‌্যাম্পের পূর্বে ১০০ ফুট"
+        }
+    },
+    {
+        "question": {
+            "english": "When you drive at night, you can reduce the problem of glare from the headlights of an approaching car by:",
+            "nativeLanguage": "রাতে গাড়ি চালানোর সময় আপনি আসছে গাড়ির হেডলাইট থেকে অনুপ্রাণিত হওয়া সমস্যা কে নিরাময় করতে পারেন কীভাবে:"
+        },
+        "options": [
+            {
+                "english": "Looking to the lower right side of your lane",
+                "nativeLanguage": "আপনার লেনের নিচের ডান পাশে দেখা"
+            },
+            {
+                "english": "Having the inside lights on to make the amount of light equal",
+                "nativeLanguage": "অভ্যন্তরীণ আলো অন করুন যাতে আলোর পরিমান সমান হয়"
+            },
+            {
+                "english": "Looking at the spot on the lower edge of the steering wheel",
+                "nativeLanguage": "স্টীয়ারিং চাকার নিচের পাশে দেখা"
+            },
+            {
+                "english": "Wearing glasses with lightly tinted lenses",
+                "nativeLanguage": "হালকা টিন্টেড লেন্স সহ অস্ত্র পরান"
+            }
+        ],
+        "answer": {
+            "english": "Looking to the lower right side of your lane",
+            "nativeLanguage": "আপনার লেনের নিচের ডান পাশে দেখা"
+        }
+    },
+    {
+        "question": {
+            "english": "Which of the following statements applies to all driving emergency situations?",
+            "nativeLanguage": "নিম্নলিখিত কোনটি সমস্ত গাড়ি চালানোর জরুরি অবস্থানগুলিতে প্রযোজ্য?"
+        },
+        "options": [
+            {
+                "english": "Always slow down gradually",
+                "nativeLanguage": "সবসময় ধীরে ধীরে ধরা"
+            },
+            {
+                "english": "Your first reaction is the best reaction",
+                "nativeLanguage": "আপনার প্রথম প্রতিক্রিয়া সবচেয়ে ভাল"
+            },
+            {
+                "english": "Think before you act",
+                "nativeLanguage": "কাজ করার আগে চিন্তা করুন"
+            },
+            {
+                "english": "Apply your brakes immediately",
+                "nativeLanguage": "তাড়াতাড়ি আপনার ব্রেক ব্যবহার করুন"
+            }
+        ],
+        "answer": {
+            "english": "Think before you act",
+            "nativeLanguage": "কাজ করার আগে চিন্তা করুন"
+        }
+    },
+    {
+        "question": {
+            "english": "What is the appropriate action to take when approaching a railroad crossing that does not have signals (such as lights or crossing gates)?",
+            "nativeLanguage": "সিগন্যাল না থাকা (হালকা বা লাইট সহ) রেলওয়ে ওভারপাসে প্রাপ্ত করার জন্য যে যুক্তি সঠিক?"
+        },
+        "options": [
+            {
+                "english": "Always bring the car to a complete stop",
+                "nativeLanguage": "সবসময় গাড়ি পূর্ণরূপে থামান"
+            },
+            {
+                "english": "Slow down and be prepared to stop",
+                "nativeLanguage": "ধীরে গাড়ি চালিয়ে এবং থামার প্রস্তুতি করুন"
+            },
+            {
+                "english": "Do nothing; all railroad crosings have signals",
+                "nativeLanguage": "কিছুই না করুন; সমস্ত রেলওয়ে ক্রসিং সিগন্যাল সহ"
+            },
+            {
+                "english": "Increase speed to get across the tracks quickly",
+                "nativeLanguage": "গাড়ি দ্রুততম করতে চালিয়ে গেছে দ্রুত"
+            }
+        ],
+        "answer": {
+            "english": "Slow down and be prepared to stop",
+            "nativeLanguage": "ধীরে গাড়ি চালিয়ে এবং থামার প্রস্তুতি করুন"
+        }
+    },
+    {
+        "question": {
+            "english": "If your brake pedal suddenly sinks to the floor, you should first:",
+            "nativeLanguage": "যদি আপনার ব্রেক পেডাল অচানক দোলে যায়, তাহলে আপনাকে প্রথমে কী করতে হবে:"
+        },
+        "options": [
+            {
+                "english": "Try to pump it to build up the pressure",
+                "nativeLanguage": "চাপ তৈরি করার জন্য তা পাম্প করা চেষ্টা করুন"
+            },
+            {
+                "english": "Shift into neutral and shut the engine off",
+                "nativeLanguage": "নিউট্রালে শিফট করুন এবং ইঞ্জিন বন্ধ করুন"
+            },
+            {
+                "english": "Try to raise it by hooking your toe under it",
+                "nativeLanguage": "তার নীচে আপনার পা দিয়ে তা উঠান"
+            },
+            {
+                "english": "Apply the parking brake hard to stop the car",
+                "nativeLanguage": "গাড়ি থামানোর জন্য পার্কিং ব্রেক দ্রুততমভাবে প্রযোগ করুন"
+            }
+        ],
+        "answer": {
+            "english": "Try to pump it to build up the pressure",
+            "nativeLanguage": "চাপ তৈরি করার জন্য তা পাম্প করা চেষ্টা করুন"
+        }
+    },
+    {
+        "question": {
+            "english": "Night driving is dangerous because:",
+            "nativeLanguage": "রাতে গাড়ি চালানো এতে বিপজ্জনক কেন হয়:"
+        },
+        "options": [
+            {
+                "english": "Some traffic signs are less visible at night",
+                "nativeLanguage": "রাতে কিছু যানবাহন চিহ্ন কম দেখায়"
+            },
+            {
+                "english": "More vehicles are on the road at night",
+                "nativeLanguage": "রাতে সড়কে আরো অনেক যানবাহন থাকে"
+            },
+            {
+                "english": "The distance we can see ahead is reduced",
+                "nativeLanguage": "আমরা যে দূরত্ব পূর্বে দেখতে পারি তা কমে যায়"
+            },
+            {
+                "english": "Street lights tend to blur our vision",
+                "nativeLanguage": "রাস্তার আলো আমাদের দৃষ্টিশক্তি অস্বস্তি করে"
+            }
+        ],
+        "answer": {
+            "english": "The distance we can see ahead is reduced",
+            "nativeLanguage": "আমরা যে দূরত্ব পূর্বে দেখতে পারি তা কমে যায়"
+        }
+    },
+    {
+        "question": {
+            "english": "Why is driving on an expressway different from driving on an ordinary street?",
+            "nativeLanguage": "এক্সপ্রেসওয়ে চালানোর উপর চলার অভিজ্ঞতা সাধারণ রাস্তার উপর চলার থেকে কিভাবে ভিন্ন?"
+        },
+        "options": [
+            {
+                "english": "You must think faster and handle your vehicle more effectively",
+                "nativeLanguage": "আপনাকে দ্রুত চিন্তা করতে হবে এবং আপনার গাড়িটি আরো কার্যকরভাবে হ্যান্ডেল করতে হবে"
+            },
+            {
+                "english": "Trucks have to go slower on the expressways",
+                "nativeLanguage": "ট্রাকগুলি এক্সপ্রেসওয়েস উপর ধীরে চলতে হবে"
+            },
+            {
+                "english": "There is more of a tendency to exceed the speed limit",
+                "nativeLanguage": "গতি সীমা অতিক্রম করার দিক অনেক বেশি"
+            },
+            {
+                "english": "There is more of a tendency to 'tailgate'",
+                "nativeLanguage": "আরও বেশি 'টেলগেট' করার প্রবণতা আছে"
+            }
+        ],
+        "answer": {
+            "english": "You must think faster and handle your vehicle more effectively",
+            "nativeLanguage": "আপনাকে দ্রুত চিন্তা করতে হবে এবং আপনার গাড়িটি আরো কার্যকরভাবে হ্যান্ডেল করতে হবে"
+        }
+    },
+    {
+        "question": {
+            "english": "If a tire blows out, the proper thing to do is:",
+            "nativeLanguage": "যদি একটি টায়ার ফুটে যায়, তাহলে সঠিক করা কী?"
+        },
+        "options": [
+            {
+                "english": "Speed up to gain traction and then pull to the right",
+                "nativeLanguage": "ট্র্যাকশন অর্জন করতে দ্রুত গতি বাড়ান এবং তারপর ডানদিকে টানুন"
+            },
+            {
+                "english": "Hold the steering wheel firmly, and ease up on the gas",
+                "nativeLanguage": "স্টীয়ারিং চাকা দৃঢ়ভাবে ধরুন, এবং গ্যাসে হাত ছাড়ুন"
+            },
+            {
+                "english": "Apply the brakes, then shift into neutral",
+                "nativeLanguage": "ব্রেক প্রযোগ করুন, তারপর নিউট্রালে শিফট করুন"
+            },
+            {
+                "english": "Shift into neutral, then apply the brakes",
+                "nativeLanguage": "নিউট্রালে শিফট করুন, তারপর ব্রেক প্রযোগ করুন"
+            }
+        ],
+        "answer": {
+            "english": "Hold the steering wheel firmly, and ease up on the gas",
+            "nativeLanguage": "স্টীয়ারিং চাকা দৃঢ়ভাবে ধরুন, এবং গ্যাসে হাত ছাড়ুন"
+        }
+    },
+    {
+        "question": {
+            "english": "You may drive around or under a gate that is being lowered or raised at a railroad crossing:",
+            "nativeLanguage": "রেলওয়ে ক্রসিংয়ে একটি গেট নিচু করা বা উঠানো হচ্ছে যেটা আপনি চালানোর জন্য বা নীচে চলার জন্য চলতে পারেন:"
+        },
+        "options": [
+            {
+                "english": "As long as an approaching train is not too close",
+                "nativeLanguage": "যতক্ষণ নাকি এসে থাকছে না ততক্ষণ"
+            },
+            {
+                "english": "If your vehicle can do so without damaging the gate",
+                "nativeLanguage": "আপনার গাড়ি গেট ভাঙ্গিতে ছাড়া এটি করতে পারে"
+            },
+            {
+                "english": "If you first look carefully in both directions",
+                "nativeLanguage": "প্রথমে উভয় দিকে যথার্থভাবে দেখুন"
+            },
+            {
+                "english": "Under no circumstances",
+                "nativeLanguage": "কোনও অবস্থায়ই না"
+            }
+        ],
+        "answer": {
+            "english": "Under no circumstances",
+            "nativeLanguage": "কোনও অবস্থায়ই না"
+        }
+    },
+    {
+        "question": {
+            "english": "You have just left an expressway and are starting to drive on an ordinary highway.  You should:",
+            "nativeLanguage": "আপনি এক্সপ্রেসওয়ে ছেড়ে গিয়ে এবং সাধারণ হাইওয়ে চালানো শুরু করছেন। আপনার কী করা উচিত:"
+        },
+        "options": [
+            {
+                "english": "Check your tires for correct pressure",
+                "nativeLanguage": "সঠিক চাপের জন্য আপনার টায়ার চেক করুন"
+            },
+            {
+                "english": "Check your speedometer to keep at the lower speed limit",
+                "nativeLanguage": "নিচুতম গতির সীমায় থাকতে আপনার স্পিডোমিটার চেক করুন"
+            },
+            {
+                "english": "Stay twice as far behind other cars",
+                "nativeLanguage": "অন্যান্য গাড়ির পিছনে দ্বিগুণ দূরে থাকুন"
+            },
+            {
+                "english": "Change gradually to the lower speed limit",
+                "nativeLanguage": "মানের নিচে গতির সীমায় ধীরে ধীরে পরিবর্তন করুন"
+            }
+        ],
+        "answer": {
+            "english": "Change gradually to the lower speed limit",
+            "nativeLanguage": "মানের নিচে গতির সীমায় ধীরে ধীরে পরিবর্তন করুন"
+        }
+    },
+    {
+        "question": {
+            "english": "You are getting on a highway which has a very short entrance lane.  The safest way for you to enter the flow of traffic would be to:",
+            "nativeLanguage": "একটি খুব ছোট্ট এন্ট্রান্স লেন থাকা হাইওয়ে যেখানে আপনি যাচ্ছেন। আপনি যেন যানবাহনের প্রবাহে প্রবেশ করার সবচেয়ে নিরাপদ উপায় হলো:"
+        },
+        "options": [
+            {
+                "english": "Use as much ramp as possible to get up to cruising speed",
+                "nativeLanguage": "মাত্র ক্রুজিং গতির জন্য সম্ভব অনেক বেশি র‌্যাম্প ব্যবহার করুন"
+            },
+            {
+                "english": "Use the left lane of the highway to get up to cruising speed",
+                "nativeLanguage": "ক্রুজিং গতির জন্য হাইওয়ের বাম লেন ব্যবহার করুন"
+            },
+            {
+                "english": "Wait for a large gap in traffic then speed up quickly",
+                "nativeLanguage": "প্রযোজনে গাড়ির মধ্যে একটি বৃহত ফাঁকা অপেক্ষা করুন তারপর দ্রুত গতি বাড়ান"
+            },
+            {
+                "english": "Get up to cruising speed gradually so other cars will see you",
+                "nativeLanguage": "অন্যান্য গাড়ি আপনাকে দেখতে সেখানে ক্রুজিং গতির ধীরে ধীরে চলুন"
+            }
+        ],
+        "answer": {
+            "english": "Get up to cruising speed gradually so other cars will see you",
+            "nativeLanguage": "অন্যান্য গাড়ি আপনাকে দেখতে সেখানে ক্রুজিং গতির ধীরে ধীরে চলুন"
+        }
+    },
+    {
+        "question": {
+            "english": "If traffic prevents you from crossing all the way across a set of railroad tracks, you may proceed only when:",
+            "nativeLanguage": "যদি যানবাহন আপনাকে একটি ট্রাক রেলওয়ে দিয়ে পার হতে রোকে, তবে শুধুমাত্র যখন আপনি অবস্থান করবেন:"
+        },
+        "options": [
+            {
+                "english": "An approaching train is not moving fast enough to be a danger",
+                "nativeLanguage": "এসে থাকা ট্রেন এতটাই দ্রুত চলছে না যে এটি একটি বিপজ্জনক হবে"
+            },
+            {
+                "english": "There is room for your vehicle on the other side",
+                "nativeLanguage": "আপনার গাড়ির জন্য অপরদিকে জায়গা আছে"
+            },
+            {
+                "english": "At least one half of your vehicle can cross the tracks",
+                "nativeLanguage": "কমপক্ষে আপনার গাড়ির অন্তত আধ অংশ রেলট্র্যাক করে যেতে পারে"
+            },
+            {
+                "english": "No trains are in sight",
+                "nativeLanguage": "দৃষ্টির কোনও ট্রেন নেই"
+            }
+        ],
+        "answer": {
+            "english": "No trains are in sight",
+            "nativeLanguage": "দৃষ্টির কোনও ট্রেন নেই"
+        }
+    }
+]

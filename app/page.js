@@ -25,10 +25,11 @@ const HomePage = () => {
       <Navbar />
       <div className="container mx-auto pb-16"> {/* Increased padding-bottom */}
         <Head>
-          <title>DMV translator</title>
+          <title>DMV Bangla</title>
         </Head>
-        <h1 className="text-3xl font-bold mb-4 text-center">Welcome to DMV translator</h1>
-        <p className="mb-6 text-center">Explore chapters and their quizzes:</p>
+        <h1 className="text-3xl font-bold mb-4 text-center mt-10">Welcome to DMV Bangla</h1>
+        <p className="mb-6 text-center">
+DMV Bangla ওয়েবসাইটটি একটি উপকারী সহায়ক প্রকাশনায়ন, যেখানে মানুষেরা তাদের গাড়ি চালানো সম্পর্কে জ্ঞান অর্জন করতে পারেন এবং লেখা পরীক্ষার জন্য প্রস্তুত হতে পারেন। এই ওয়েবসাইটে অনেকগুলি চ্যাপ্টার রয়েছে, যা গাড়ি চালানোর বিভিন্ন দিকের সাথে সম্পর্কিত তথ্য সরবরাহ করে। প্রতিটি চ্যাপ্টারে লেখা পরীক্ষা রয়েছে, যা মানুষকে তাদের ধারণাগুলি পরীক্ষা করার সুযোগ দেয়। উপকারী তথ্য এবং সহায়তা প্রদানের মাধ্যমে, DMV Bangla ওয়েবসাইটটি গাড়ি চালানোর সঠিক প্রক্রিয়া এবং সুরক্ষিত পথচালনার জন্য মানুষকে প্রস্তুত করে।</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full border-collapse border border-gray-400">
             <thead>
@@ -50,12 +51,12 @@ const HomePage = () => {
                         <Link href={`${chapter.href}?language=bangla`} passHref>
                           <span className="text-blue-500 hover:underline cursor-pointer">Bangla</span>
                         </Link>
-                        <Link href={`${chapter.href}?language=hindi`} passHref>
+                        {/* <Link href={`${chapter.href}?language=hindi`} passHref>
                           <span className="text-blue-500 hover:underline cursor-pointer">Hindi</span>
                         </Link>
                         <Link href={`${chapter.href}?language=spanish`} passHref>
                           <span className="text-blue-500 hover:underline cursor-pointer">Spanish</span>
-                        </Link>
+                        </Link> */}
                       </>
                     ) : (
                       <span className="text-gray-500">No quiz for this chapter</span>
