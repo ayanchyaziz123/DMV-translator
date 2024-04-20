@@ -1,0 +1,467 @@
+[
+    {
+        "image": "sign_chart/hillahead.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Trucks under 18,000 lbs. allowed",
+                "nativeLanguage": "18,000 পাউন্ডের অধীনে ট্রাক অনুমোদিত"
+            },
+            {
+                "english": "Hill ahead",
+                "nativeLanguage": "পাহাড়ের আগে"
+            },
+            {
+                "english": "Truck stop ahead",
+                "nativeLanguage": "ট্রাক স্টপ আগে"
+            },
+            {
+                "english": "No trucks allowed",
+                "nativeLanguage": "কোনও ট্রাক অনুমোদিত নয়"
+            }
+        ],
+        "answer": {
+            "english": "Hill ahead",
+            "nativeLanguage": "পাহাড়ের আগে"
+        }
+    },
+    {
+        "image": "sign_chart/trafficlightahead.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Continue at your current speed",
+                "nativeLanguage": "আপনার বর্তমান গতিতে চালিয়ে যান"
+            },
+            {
+                "english": "You must stop ahead",
+                "nativeLanguage": "আপনার অগ্রবর্তী থামতে হবে"
+            },
+            {
+                "english": "Speeding is not allowed",
+                "nativeLanguage": "গতিপ্রদর্শন অনুমোদিত নয়"
+            },
+            {
+                "english": "There is a traffic signal ahead",
+                "nativeLanguage": "অগ্রবর্তীতে একটি ট্রাফিক সিগন্যাল আছে"
+            }
+        ],
+        "answer": {
+            "english": "You must stop ahead",
+            "nativeLanguage": "আপনার অগ্রবর্তী থামতে হবে"
+        }
+    },
+    {
+        "image": "sign_chart/rightlaneendskeepleft.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Merging traffic is approaching from the right",
+                "nativeLanguage": "মার্জিং ট্রাফিক ডানদিক থেকে অনুপ্রেরণ হচ্ছে"
+            },
+            {
+                "english": "Winding road ahead",
+                "nativeLanguage": "আগামীতে মোড়গুলি আছে"
+            },
+            {
+                "english": "Right lane ends, stay to the left",
+                "nativeLanguage": "ডানদিকে লেন শেষ, বামে থাকুন"
+            },
+            {
+                "english": "Divided highway ahead",
+                "nativeLanguage": "অগ্রবর্তীতে বিভক্ত হাইওয়ে"
+            }
+        ],
+        "answer": {
+            "english": "Right lane ends, stay to the left",
+            "nativeLanguage": "ডানদিকে লেন শেষ, বামে থাকুন"
+        }
+    },
+    {
+        "image": "sign_chart/nouturn.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "No left turn",
+                "nativeLanguage": "বাঁদিকে বাঁদিকে না"
+            },
+            {
+                "english": "No stopping",
+                "nativeLanguage": "থামার অনুমতি নেই"
+            },
+            {
+                "english": "No U-turn",
+                "nativeLanguage": "কোনও উ-টার্ণ নয়"
+            },
+            {
+                "english": "Detour ahead",
+                "nativeLanguage": "অগ্রবর্তীতে পরিবর্তন"
+            }
+        ],
+        "answer": {
+            "english": "No U-turn",
+            "nativeLanguage": "কোনও উ-টার্ণ নয়"
+        }
+    },
+    {
+        "image": "sign_chart/railroadcrossing.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Entrance to full parking lots",
+                "nativeLanguage": "পূর্ণ পার্কিং লটের প্রবেশ"
+            },
+            {
+                "english": "Entrance to road construction areas",
+                "nativeLanguage": "রাস্তার নির্মাণ এলাকায় প্রবেশ"
+            },
+            {
+                "english": "Entrance to dead-end streets",
+                "nativeLanguage": "শেষপথে প্রবেশ"
+            },
+            {
+                "english": "Wrong-way entrance on one-way streets and expressway ramps",
+                "nativeLanguage": "একপথে এবং এক্সপ্রেসওয়ে রাম্পে ভুল দিকে প্রবেশ"
+            }
+        ],
+        "answer": {
+            "english": "Wrong-way entrance on one-way streets and expressway ramps",
+            "nativeLanguage": "একপথে এবং এক্সপ্রেসওয়ে রাম্পে ভুল দিকে প্রবেশ"
+        }
+    },
+    {
+        "image": "sign_chart/slipperywhenwet.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Don't drink if you are going to drive",
+                "nativeLanguage": "আপনি যদি গাড়ি চালাতে যাচ্ছেন তবে পান না করুন"
+            },
+            {
+                "english": "Slippery when wet",
+                "nativeLanguage": "ভিজা হলে স্লিপারি"
+            },
+            {
+                "english": "Road curves ahead",
+                "nativeLanguage": "সড়কের আগে কাজের মোড়"
+            },
+            {
+                "english": "You are approaching a hill",
+                "nativeLanguage": "আপনি একটি পাহাড়ে অবস্থিত"
+            }
+        ],
+        "answer": {
+            "english": "Slippery when wet",
+            "nativeLanguage": "ভিজা হলে স্লিপারি"
+        }
+    },
+    {
+        "image": "sign_chart/keepright.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Divided highway ends",
+                "nativeLanguage": "বিভক্ত হাইওয়ে শেষ"
+            },
+            {
+                "english": "One-way traffic ahead",
+                "nativeLanguage": "এগারো ট্রাফিক পূর্বে"
+            },
+            {
+                "english": "Two-way traffic ahead",
+                "nativeLanguage": "দুটি পথ ট্রাফিক পূর্বে"
+            },
+            {
+                "english": "Keep to the right",
+                "nativeLanguage": "ডানদিকে থাকুন"
+            }
+        ],
+        "answer": {
+            "english": "Keep to the right",
+            "nativeLanguage": "ডানদিকে থাকুন"
+        }
+    },
+    {
+        "image": "sign_chart/twowaytraffic.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Four-lane traffic ahead",
+                "nativeLanguage": "চারলেন যাতায়াত অগ্রবর্তী"
+            },
+            {
+                "english": "Divided highway ahead",
+                "nativeLanguage": "বিভক্ত হাইওয়ে অগ্রবর্তী"
+            },
+            {
+                "english": "Two-way traffic ahead",
+                "nativeLanguage": "দুটি পথ ট্রাফিক অগ্রবর্তী"
+            },
+            {
+                "english": "Intersection ahead",
+                "nativeLanguage": "অনুপ্রেরণ আগামী"
+            }
+        ],
+        "answer": {
+            "english": "Two-way traffic ahead",
+            "nativeLanguage": "দুটি পথ ট্রাফিক অগ্রবর্তী"
+        }
+    },
+    {
+        "image": "sign_chart/stopsign.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Slow down and prepare to stop only if cars are approaching you",
+                "nativeLanguage": "গাড়ি আপনাকে অনুপ্রেরণ করছে তখন ব্রেক করে এবং বাঁচুন"
+            },
+            {
+                "english": "Come to a full stop, then go when it is safe to do so",
+                "nativeLanguage": "একটি সম্পূর্ণ থমকে আসুন, তারপর যখন এটি সুরক্ষিত হয় তখন যান"
+            },
+            {
+                "english": "Proceed carefully through the intersection, not always stopping",
+                "nativeLanguage": "ছেঁকে অনুপ্রেরণ করুন, সবসময় থমকে না"
+            },
+            {
+                "english": "Stop only for traffic on an intersecting road",
+                "nativeLanguage": "আন্তঃস্থ রাস্তার যাতায়াতের জন্য মাত্র থমকুন"
+            }
+        ],
+        "answer": {
+            "english": "Come to a full stop, then go when it is safe to do so",
+            "nativeLanguage": "একটি সম্পূর্ণ থমকে আসুন, তারপর যখন এটি সুরক্ষিত হয় তখন যান"
+        }
+    },
+    {
+        "image": "sign_chart/yieldsign.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Slow down if an emergency vehicle is approaching",
+                "nativeLanguage": "যদি একটি জরুরী গাড়ি অনুপ্রেরিত হয় তবে ধীরে গাড়ি চালান"
+            },
+            {
+                "english": "Look both ways as you cross the intersection",
+                "nativeLanguage": "আপনি ছেঁকে অনুপ্রেরণ করছেন তখন উভয় দিকে দেখুন"
+            },
+            {
+                "english": "Always come to a full stop at the intersection",
+                "nativeLanguage": "সবসময় আন্তঃস্থে একটি সম্পূর্ণ থমকে আসুন"
+            },
+            {
+                "english": "Slow down and be prepared to stop if necessary",
+                "nativeLanguage": "প্রয়োজন হলে ধীরে গাড়ি চালান এবং থমকার জন্য প্রস্তুত হন"
+            }
+        ],
+        "answer": {
+            "english": "Slow down and be prepared to stop if necessary",
+            "nativeLanguage": "প্রয়োজন হলে ধীরে গাড়ি চালান এবং থমকার জন্য প্রস্তুত হন"
+        }
+    },
+    {
+        "image": "sign_chart/hospitaltoright.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Highway changes ahead to the right",
+                "nativeLanguage": "হাইওয়ে পরিবর্তন আগামীতে ডানদিকে"
+            },
+            {
+                "english": "Hiking trails ahead to the right",
+                "nativeLanguage": "হাইকিং ট্রেল আগামীতে ডানদিকে"
+            },
+            {
+                "english": "Hotel ahead to the right",
+                "nativeLanguage": "হোটেল আগামীতে ডানদিকে"
+            },
+            {
+                "english": "Hospital ahead to the right",
+                "nativeLanguage": "হাসপাতাল আগামীতে ডানদিকে"
+            }
+        ],
+        "answer": {
+            "english": "Hospital ahead to the right",
+            "nativeLanguage": "হাসপাতাল আগামীতে ডানদিকে"
+        }
+    },
+    {
+        "image": "sign_chart/dividedhighwayends.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Divided highway ends",
+                "nativeLanguage": "বিভক্ত হাইওয়ে শেষ"
+            },
+            {
+                "english": "One-way traffic ahead",
+                "nativeLanguage": "এগারো ট্রাফিক পূর্বে"
+            },
+            {
+                "english": "Four-lane highway ahead",
+                "nativeLanguage": "চারলেন হাইওয়ে অগ্রবর্তী"
+            },
+            {
+                "english": "Divided highway ahead",
+                "nativeLanguage": "বিভক্ত হাইওয়ে অগ্রবর্তী"
+            }
+        ],
+        "answer": {
+            "english": "Divided highway ends",
+            "nativeLanguage": "বিভক্ত হাইওয়ে শেষ"
+        }
+    },
+    {
+        "image": "sign_chart/schoolcrossing.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "Pedestrians only",
+                "nativeLanguage": "শুধুমাত্র হতবাহী"
+            },
+            {
+                "english": "Intersection ahead",
+                "nativeLanguage": "অনুপ্রেরণ আগামী"
+            },
+            {
+                "english": "Hiking trails ahead",
+                "nativeLanguage": "হাইকিং ট্রেল আগামী"
+            },
+            {
+                "english": "School crossing ahead",
+                "nativeLanguage": "স্কুল ক্রসিং আগামী"
+            }
+        ],
+        "answer": {
+            "english": "School crossing ahead",
+            "nativeLanguage": "স্কুল ক্রসিং আগামী"
+        }
+    },
+    {
+        "image": "sign_chart/mergingtrafficfromright.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "One-way traffic",
+                "nativeLanguage": "একপথে ট্রাফিক"
+            },
+            {
+                "english": "Intersection ahead",
+                "nativeLanguage": "অনুপ্রেরণ আগামী"
+            },
+            {
+                "english": "Merging traffic from the right",
+                "nativeLanguage": "ডানদিক থেকে ট্রাফিক মার্জিং"
+            },
+            {
+                "english": "Highway curves ahead",
+                "nativeLanguage": "হাইওয়ে মোড় আগামী"
+            }
+        ],
+        "answer": {
+            "english": "Merging traffic from the right",
+            "nativeLanguage": "ডানদিক থেকে ট্রাফিক মার্জিং"
+        }
+    },
+    {
+        "image": "sign_chart/noleftturn.png",
+        "question": {
+            "english": "This sign means:",
+            "nativeLanguage": "এই সাইনের অর্থ:"
+        },
+        "options": [
+            {
+                "english": "All traffic turn left",
+                "nativeLanguage": "সমস্ত যাতায়াত বাঁদিকে মোড়"
+            },
+            {
+                "english": "No left turn",
+                "nativeLanguage": "বাঁদিকে বাঁদিকে না"
+            },
+            {
+                "english": "No U-turn",
+                "nativeLanguage": "কোনও উ-টার্ণ নয়"
+            },
+            {
+                "english": "Truck route to the left",
+                "nativeLanguage": "ট্রাক রুট বাঁদিকে"
+            }
+        ],
+        "answer": {
+            "english": "No left turn",
+            "nativeLanguage": "বাঁদিকে বাঁদিকে না"
+        }
+    },
+    {
+        "image": "sign_chart/donotenter.png",
+        "question": {
+            "english": "This sign is used to prevent:",
+            "nativeLanguage": "এই সাইনটি ব্যবহৃত হয়:"
+        },
+        "options": [
+            {
+                "english": "Entrance to full parking lots",
+                "nativeLanguage": "পূর্ণ পার্কিং লটে প্রবেশ"
+            },
+            {
+                "english": "Entrance to road construction areas",
+                "nativeLanguage": "রাস্তার নির্মাণ এলাকায় প্রবেশ"
+            },
+            {
+                "english": "Entrance to dead-end streets",
+                "nativeLanguage": "শেষপথে প্রবেশ"
+            },
+            {
+                "english": "Wrong-way entrance on one-way streets and expressway ramps",
+                "nativeLanguage": "একপথে এবং এক্সপ্রেসওয়ে রাম্পে ভুল দিকে প্রবেশ"
+            }
+        ],
+        "answer": {
+            "english": "Wrong-way entrance on one-way streets and expressway ramps",
+            "nativeLanguage": "একপথে এবং এক্সপ্রেসওয়ে রাম্পে ভুল দিকে প্রবেশ"
+        }
+    }
+    
+]

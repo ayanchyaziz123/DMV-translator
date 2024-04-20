@@ -15,8 +15,8 @@ const chapters = [
   { chapter: 10, title: 'Special Driving Conditions', hasQuiz: true, href: '/chapter_10' },
   { chapter: 11, title: 'Sharing the Road', hasQuiz: true, href: '/chapter_11' },
   { title: 'If You Are in a Traffic Crash', hasQuiz: false },
-  { title: 'Sign Chart: Road Signs You Must Know', hasQuiz: true, href: '/road_signs_quiz' },
-  { title: 'Take a final quiz from all chapters', hasQuiz: true, href: '/all_chapters_quiz' }
+  { title: 'Sign Chart: Road Signs You Must Know', hasQuiz: true, href: '/sign_chart' },
+  { title: 'Take a final quiz from all chapters', hasQuiz: true, href: '/final_quiz' }
 ];
 
 const HomePage = () => {
