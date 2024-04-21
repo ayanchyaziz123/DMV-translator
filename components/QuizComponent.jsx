@@ -39,9 +39,12 @@ const QuizComponent = ({ quizData }) => {
     <div className="mx-auto py-3 sm:py-6 px-2 sm:px-4">
       <div className="rounded-lg">
         {showScore ? (
-          <div className="text-center">
+          <div className="">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">Quiz Completed!</h2>
             <p className="text-xl font-semibold text-blue-600 mb-4">Your Score: {score}/{totalQuestions}</p>
+            <p className={`text-xl font-semibold ${score / totalQuestions >= 0.7 ? 'text-green-600' : 'text-red-600'} mb-4`}>
+          {score / totalQuestions >= 0.7 ? 'Passed' : 'Not Passed'}
+        </p>
             <button
               onClick={handleResetQuiz}
               className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-6 rounded-md focus:outline-none mb-4"
@@ -53,9 +56,18 @@ const QuizComponent = ({ quizData }) => {
                 selectedOptions[index] !== question.answer.english && (
                   <div key={index} className="mb-4">
                     <p className="text-lg font-semibold">Question {index + 1}: Incorrect</p>
+                    {question.image && (
+    <Image
+      src={`/images/${question.image}`}
+      width={50}
+      height={50}
+      alt="Picture"
+      className="mr-4"
+    />
+  )}
                     <p className="text-gray-800">{question.question.english}</p>
                     <p className="text-red-600">Your answer: {selectedOptions[index]}</p>
-                    <p className="text-green-600">Correct answer: {question.answer.english}</p>
+                    <p className="text-green-600">Correct answer: {question.answer.english} ({question.answer.nativeLanguage})</p>
                   </div>
                 )
               ))}

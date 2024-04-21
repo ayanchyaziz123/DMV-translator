@@ -6,6 +6,7 @@ import hindiData from '../../data/chapter_4/hindiData';
 import { useSearchParams } from 'next/navigation'; // Correct import
 import styles from '../style.module.css';
 import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
 
 const Data = () => {
   const searchParams = useSearchParams();
@@ -29,11 +30,12 @@ const Data = () => {
           <p className={styles.errorMessage}>Content not found..!</p>
         )}
     </div>
+    <Footer/>
     </>
   );
 };
 
-const Chapter_6 = () =>{
+const Chapter_7 = () =>{
     return(
         <Suspense>
         <Data />
@@ -41,4 +43,4 @@ const Chapter_6 = () =>{
     )
 }
 
-export default Chapter_6;
+export default Chapter_7;

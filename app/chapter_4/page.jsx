@@ -7,6 +7,7 @@ import spanishData from '../../data/chapter_4/spanishData';
 import { useSearchParams } from 'next/navigation'; // Correct import
 import styles from '../style.module.css';
 import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
 
 
 
@@ -19,8 +20,9 @@ const Data = () => {
     <>
     <Navbar/>
     <div className={styles.container}>
-    <h1 className={styles.title}>Chapter 4: Traffic Control</h1>
-<p className={styles.description}>Please Note: This quiz is intended to help you prepare for the types of questions you will be asked on the written test. The questions on the test you take at the DMV may be different.</p>
+    <h1 className={`${styles.title} sm:mx-4`}>Chapter 4: Traffic Control</h1>
+<p className={`${styles.description} sm:mx-4 sm:mb-6}`}>দয়া করে মনে রাখুন: এই কুইজটি আপনাকে লিখিত পরীক্ষার প্রশ্নের ধরণগুলির জন্য প্রস্তুত করতে সাহায্য করার জন্য উদ্দেশ্যিত। আপনি DMV তে পরীক্ষা দেবার পরীক্ষা প্রশ্ন আলাদা হতে পারে।</p>
+
      
         {language === "bangla" ? (
           <div className={styles.quizWrapper}>
@@ -38,6 +40,7 @@ const Data = () => {
           <p className={styles.errorMessage}>Content not found..!</p>
         )}
     </div>
+    <Footer/>
     </>
   );
 };
