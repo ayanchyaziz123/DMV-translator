@@ -7,6 +7,8 @@ import { useSearchParams } from 'next/navigation'; // Correct import
 import styles from '../style.module.css';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Head from 'next/head';
+
 
 
 const Data = () => {
@@ -16,6 +18,10 @@ const Data = () => {
   return (
     <>
     <Navbar/>
+    <Head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3158034660522527"
+     crossorigin="anonymous"></script>
+    </Head>
     <div className={styles.container}>
       <h1 className={styles.title}>Chapter 5: Intersections and Turns</h1>
       <p className={styles.description}>Chapter 5: Intersections and Turns focuses on safely navigating intersections and executing turns. Learn right-of-way rules, signaling, and proper turning techniques.</p>

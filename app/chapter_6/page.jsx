@@ -7,6 +7,8 @@ import { useSearchParams } from 'next/navigation'; // Correct import
 import styles from '../style.module.css';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Head from 'next/head';
+
 
 const Data = () => {
   const searchParams = useSearchParams();
@@ -15,6 +17,10 @@ const Data = () => {
   return (
     <>
     <Navbar/>
+    <Head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3158034660522527"
+     crossorigin="anonymous"></script>
+    </Head>
     <div className={styles.container}>
       <h1 className={styles.title}>Chapter 6</h1>
      
