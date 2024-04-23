@@ -1,7 +1,6 @@
 "use client";
 import Footer from '@/components/Footer';
 import Navbar from '@/components/Navbar';
-import Head from 'next/head';
 import React from 'react';
 
 
@@ -9,11 +8,6 @@ const AboutPage = () => {
   return (
     <>
       <Navbar />
-      <Head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3158034660522527"
-     crossorigin="anonymous"></script>
-     
-    </Head>
       <div className="bg-gray-50 min-h-screen flex flex-col justify-center items-center px-6">
         <h1 className="text-3xl font-bold text-gray-800 mb-2">
           About DMV Bangla

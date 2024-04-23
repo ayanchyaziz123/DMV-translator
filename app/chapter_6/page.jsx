@@ -17,10 +17,6 @@ const Data = () => {
   return (
     <>
     <Navbar/>
-    <Head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3158034660522527"
-     crossorigin="anonymous"></script>
-    </Head>
     <div className={styles.container}>
       <h1 className={styles.title}>Chapter 6</h1>
      
